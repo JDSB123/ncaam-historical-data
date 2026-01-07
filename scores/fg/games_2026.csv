@@ -1,0 +1,450 @@
+game_id,date,home_team,home_abbr,away_team,away_abbr,home_score,away_score,total,spread_result,venue,neutral
+401824809,2025-11-04,Houston Cougars,HOU,Lehigh Mountain Hawks,LEH,75,57,132,18,Fertitta Center,False
+401826885,2025-11-04,Arizona Wildcats,ARIZ,Florida Gators,FLA,93,87,180,6,T-Mobile Arena,True
+401812785,2025-11-04,UConn Huskies,CONN,New Haven Chargers,NHVN,79,55,134,24,Gampel Pavilion,False
+401820577,2025-11-03,St. John's Red Storm,SJU,Quinnipiac Bobcats,QUIN,108,74,182,34,Carnesecca Arena,False
+401826083,2025-11-04,Michigan Wolverines,MICH,Oakland Golden Grizzlies,OAK,121,78,199,43,Crisler Center,False
+401819834,2025-11-04,BYU Cougars,BYU,Villanova Wildcats,VILL,71,66,137,5,T-Mobile Arena,True
+401817239,2025-11-04,Louisville Cardinals,LOU,South Carolina State Bulldogs,SCST,104,45,149,59,KFC Yum! Center,False
+401813756,2025-11-04,UCLA Bruins,UCLA,Eastern Washington Eagles,EWU,80,74,154,6,Pauley Pavilion,False
+401826784,2025-11-04,Arkansas Razorbacks,ARK,Southern Jaguars,SOU,109,77,186,32,Bud Walton Arena,False
+401812260,2025-11-04,Alabama Crimson Tide,ALA,North Dakota Fighting Hawks,UND,91,62,153,29,Coleman Coliseum,False
+401812282,2025-11-04,Iowa State Cyclones,ISU,Fairleigh Dickinson Knights,FDU,88,50,138,38,Hilton Coliseum,False
+401827170,2025-11-04,Illinois Fighting Illini,ILL,Jackson State Tigers,JKST,113,55,168,58,State Farm Center,False
+401823483,2025-11-04,Tennessee Volunteers,TENN,Mercer Bears,MER,76,61,137,15,Food City Center,False
+401819882,2025-11-04,Kansas Jayhawks,KU,Green Bay Phoenix,GB,94,51,145,43,Allen Fieldhouse,False
+401823474,2025-11-04,Auburn Tigers,AUB,Bethune-Cookman Wildcats,BCU,95,90,185,5,Neville Arena,False
+401824031,2025-11-04,Gonzaga Bulldogs,GONZ,Texas Southern Tigers,TXSO,98,43,141,55,McCarthey Athletic Center,False
+401827219,2025-11-04,Michigan State Spartans,MSU,Colgate Raiders,COLG,80,69,149,11,Breslin Center,False
+401826911,2025-11-04,Wisconsin Badgers,WIS,Campbell Fighting Camels,CAM,96,64,160,32,Kohl Center,False
+401817262,2025-11-04,North Carolina Tar Heels,UNC,Central Arkansas Bears,CARK,94,54,148,40,Dean E. Smith Center,False
+401828553,2025-11-04,Purdue Boilermakers,PUR,Evansville Purple Aces,EVAN,82,51,133,31,Mackey Arena,False
+401817228,2025-11-05,Duke Blue Devils,DUKE,Texas Longhorns,TEX,75,60,135,15,Spectrum Center,True
+401826746,2025-11-05,Kentucky Wildcats,UK,Nicholls Colonels,NICH,77,51,128,26,Rupp Arena,False
+401819898,2025-11-05,Texas Tech Red Raiders,TTU,Lindenwood Lions,LIN,98,60,158,38,United Supermarkets Arena,False
+401811102,2025-11-06,Creighton Bluejays,CREI,South Dakota Coyotes,SDAK,92,76,168,16,CHI Health Center Omaha,False
+401823441,2025-11-07,Florida Gators,FLA,North Florida Ospreys,UNF,104,64,168,40,Stephen C. O'Connell Center,False
+401817240,2025-11-07,Louisville Cardinals,LOU,Jackson State Tigers,JKST,106,70,176,36,KFC Yum! Center,False
+401819871,2025-11-07,Iowa State Cyclones,ISU,Grambling Tigers,GRAM,102,62,164,40,Hilton Coliseum,False
+401823475,2025-11-07,Auburn Tigers,AUB,Merrimack Warriors,MRMK,95,57,152,38,Neville Arena,False
+401826869,2025-11-08,Purdue Boilermakers,PUR,Oakland Golden Grizzlies,OAK,87,77,164,10,Mackey Arena,False
+401812786,2025-11-08,UConn Huskies,CONN,UMass Lowell River Hawks,UML,110,47,157,63,PeoplesBank Arena,False
+401822330,2025-11-08,Kentucky Wildcats,UK,Valparaiso Beacons,VAL,107,59,166,48,Rupp Arena,False
+401819899,2025-11-08,Texas Tech Red Raiders,TTU,Sam Houston Bearkats,SHSU,98,77,175,21,United Supermarkets Arena,False
+401813757,2025-11-08,UCLA Bruins,UCLA,Pepperdine Waves,PEPP,74,63,137,11,Pauley Pavilion,False
+401824023,2025-11-08,Arizona Wildcats,ARIZ,Utah Tech Trailblazers,UTU,93,67,160,26,McKale Memorial Center,False
+401823225,2025-11-08,Illinois Fighting Illini,ILL,Florida Gulf Coast Eagles,FGCU,113,70,183,43,State Farm Center,False
+401817263,2025-11-08,North Carolina Tar Heels,UNC,Kansas Jayhawks,KU,87,74,161,13,Dean E. Smith Center,False
+401823461,2025-11-08,Wisconsin Badgers,WIS,Northern Illinois Huskies,NIU,97,72,169,25,Kohl Center,False
+401824810,2025-11-08,Houston Cougars,HOU,Towson Tigers,TOW,65,48,113,17,Fertitta Center,False
+401812261,2025-11-08,St. John's Red Storm,SJU,Alabama Crimson Tide,ALA,96,103,199,-7,Madison Square Garden,False
+401817229,2025-11-08,Duke Blue Devils,DUKE,Western Carolina Catamounts,WCU,95,54,149,41,Cameron Indoor Stadium,False
+401812660,2025-11-09,BYU Cougars,BYU,Holy Cross Crusaders,HC,98,53,151,45,Marriott Center,False
+401826785,2025-11-09,Michigan State Spartans,MSU,Arkansas Razorbacks,ARK,69,66,135,3,Breslin Center,False
+401823382,2025-11-08,Tennessee Volunteers,TENN,Northern Kentucky Norse,NKU,95,56,151,39,Food City Center,False
+401824032,2025-11-09,Gonzaga Bulldogs,GONZ,Oklahoma Sooners,OU,83,68,151,15,Spokane Arena,False
+401812600,2025-11-09,Harvard Crimson,HARV,New Hampshire Wildcats,UNH,86,75,161,11,Lavietes Pavilion,False
+401828296,2025-11-09,Campbell Fighting Camels,CAM,Western Michigan Broncos,WMU,91,82,173,9,John W. Pope Jr. Convocation Center,False
+401826732,2025-11-09,App State Mountaineers,APP,North Carolina Central Eagles,NCCU,76,54,130,22,Holmes Convocation Center,False
+401823022,2025-11-09,Marquette Golden Eagles,MARQ,Indiana Hoosiers,IU,77,100,177,-23,United Center,True
+401822758,2025-11-09,James Madison Dukes,JMU,Coppin State Eagles,COPP,84,70,154,14,Atlantic Union Bank Center,False
+401812574,2025-11-09,American University Eagles,AMER,Pennsylvania Quakers,PENN,84,78,162,6,Bender Arena,False
+401828576,2025-11-09,Georgia Bulldogs,UGA,Morehead State Eagles,MORE,120,81,201,39,Stegeman Coliseum,False
+401823485,2025-11-09,Mercer Bears,MER,Lipscomb Bisons,LIP,92,77,169,15,Hawkins Arena,False
+401823417,2025-11-09,Bowling Green Falcons,BGSU,Le Moyne Dolphins,LEM,83,60,143,23,Stroh Center,False
+401823393,2025-11-09,Purdue Fort Wayne Mastodons,PFW,Dominican (IL) Dominican,DOM,137,56,193,81,Memorial Coliseum (IN),False
+401823256,2025-11-09,North Dakota Fighting Hawks,UND,Cal State Northridge Matadors,CSUN,85,93,178,-8,Betty Engelstad Sioux Center,False
+401820542,2025-11-09,Northern Iowa Panthers,UNI,South Dakota State Jackrabbits,SDST,65,58,123,7,McLeod Center,False
+401818548,2025-11-09,Brown Bears,BRWN,Vermont Catamounts,UVM,84,89,173,-5,Pizzitola Sports Center,False
+401813320,2025-11-09,Dartmouth Big Green,DART,Marist Red Foxes,MRST,56,75,131,-19,Leede Arena,False
+401813287,2025-11-09,Oklahoma State Cowboys,OKST,Texas A&M Aggies,TA&M,87,63,150,24,Gallagher-Iba Arena,False
+401813254,2025-11-09,Illinois State Redbirds,ILST,Cornell Big Red,COR,76,65,141,11,CEFCU Arena,False
+401811103,2025-11-09,South Dakota Coyotes,SDAK,Ozark Christian Ambassadors,OCC,121,65,186,56,Sanford Coyote Sports Center,False
+401826896,2025-11-09,Louisiana Tech Bulldogs,LT,Lyon Scots,LYON ,93,35,128,58,Thomas Assembly Center,False
+401825577,2025-11-09,Montana State Bobcats,MTST,Denver Pioneers,DEN,73,75,148,-2,Worthington Arena,False
+401819916,2025-11-09,West Virginia Mountaineers,WVU,Lehigh Mountain Hawks,LEH,69,47,116,22,WVU Coliseum,False
+401819814,2025-11-09,Arizona State Sun Devils,ASU,Utah Tech Trailblazers,UTU,81,66,147,15,Desert Financial Arena,False
+401828912,2025-11-09,Evansville Purple Aces,EVAN,Oakland City Mighty Oaks,OCU,76,47,123,29,Ford Center,False
+401823515,2025-11-09,Missouri Tigers,MIZ,VMI Keydets,VMI,106,68,174,38,Mizzou Arena,False
+401828276,2025-11-09,Loyola Chicago Ramblers,LUC,North Texas Mean Green,UNT,62,64,126,-2,Now Arena,True
+401824089,2025-11-09,Portland Pilots,PORT,UC Davis Aggies,UCD,67,63,130,4,Chiles Center,False
+401823555,2025-11-09,San Diego State Aztecs,SDSU,Idaho State Bengals,IDST,73,57,130,16,Viejas Arena,False
+401827088,2025-11-09,Howard Bison,HOW,Grambling Tigers,GRAM,70,73,143,-3,Burr Gymnasium,False
+401826772,2025-11-09,Liberty Flames,LIB,Florida Atlantic Owls,FAU,88,68,156,20,Liberty Arena (VA),False
+401823858,2025-11-09,USC Trojans,USC,Manhattan Jaspers,MAN,114,83,197,31,Galen Center,False
+401823808,2025-11-09,Colorado State Rams,CSU,Omaha Mavericks,OMA,97,74,171,23,Moby Arena,False
+401827257,2025-11-09,South Carolina Gamecocks,SC,Southern Miss Golden Eagles,USM,83,79,162,4,Colonial Life Arena,False
+401829390,2025-11-10,UT Martin Skyhawks,UTM,Kentucky Christian Knights,KCU,97,42,139,55,Kathleen and Tom Elam Center,False
+401819824,2025-11-10,Baylor Bears,BAY,Washington Huskies,WASH,78,69,147,9,Foster Pavilion,False
+401824896,2025-11-10,Hawai'i Rainbow Warriors,HAW,East Texas A&M Lions,ETAM,100,74,174,26,Stan Sheriff Center,False
+401812787,2025-11-10,UConn Huskies,CONN,Columbia Lions,COLU,89,62,151,27,Gampel Pavilion,False
+401813758,2025-11-11,UCLA Bruins,UCLA,West Georgia Wolves,WGA,83,62,145,21,Pauley Pavilion,False
+401819872,2025-11-11,Iowa State Cyclones,ISU,Mississippi State Bulldogs,MSST,96,80,176,16,Sanford Pentagon,True
+401817230,2025-11-12,Army Black Knights,ARMY,Duke Blue Devils,DUKE,59,114,173,-55,Christl Arena,False
+401825588,2025-11-12,Arizona Wildcats,ARIZ,Northern Arizona Lumberjacks,NAU,84,49,133,35,McKale Memorial Center,False
+401817529,2025-11-11,Michigan Wolverines,MICH,Wake Forest Demon Deacons,WAKE,85,84,169,1,Little Caesars Arena,True
+401819835,2025-11-12,BYU Cougars,BYU,Delaware Blue Hens,DEL,85,68,153,17,Marriott Center,False
+401817241,2025-11-12,Louisville Cardinals,LOU,Kentucky Wildcats,UK,96,88,184,8,KFC Yum! Center,False
+401826707,2025-11-12,Florida Gators,FLA,Florida State Seminoles,FSU,78,76,154,2,Stephen C. O'Connell Center,False
+401811097,2025-11-12,Illinois Fighting Illini,ILL,Texas Tech Red Raiders,TTU,81,77,158,4,State Farm Center,False
+401817264,2025-11-12,North Carolina Tar Heels,UNC,Radford Highlanders,RAD,89,74,163,15,Dean E. Smith Center,False
+401820831,2025-11-12,Gonzaga Bulldogs,GONZ,Creighton Bluejays,CREI,90,63,153,27,McCarthey Athletic Center,False
+401824935,2025-11-12,Arkansas Razorbacks,ARK,Central Arkansas Bears,CARK,93,56,149,37,Bud Walton Arena,False
+401823476,2025-11-12,Auburn Tigers,AUB,Wofford Terriers,WOF,93,62,155,31,Neville Arena,False
+401822319,2025-11-12,Wisconsin Badgers,WIS,Ball State Cardinals,BALL,86,55,141,31,Kohl Center,False
+401819883,2025-11-12,Kansas Jayhawks,KU,Texas A&M-Corpus Christi Islanders,AMCC,77,46,123,31,Allen Fieldhouse,False
+401824811,2025-11-13,Houston Cougars,HOU,Oakland Golden Grizzlies,OAK,78,45,123,33,Fertitta Center,False
+401823442,2025-11-13,Tennessee Volunteers,TENN,North Florida Ospreys,UNF,99,66,165,33,Food City Center,False
+401812262,2025-11-14,Alabama Crimson Tide,ALA,Purdue Boilermakers,PUR,80,87,167,-7,Coleman Coliseum,False
+401827220,2025-11-13,Michigan State Spartans,MSU,San José State Spartans,SJSU,79,60,139,19,Breslin Center,False
+401817231,2025-11-15,Duke Blue Devils,DUKE,Indiana State Sycamores,INST,100,62,162,38,Cameron Indoor Stadium,False
+401813759,2025-11-15,UCLA Bruins,UCLA,Arizona Wildcats,ARIZ,65,69,134,-4,Intuit Dome,True
+401812252,2025-11-15,TCU Horned Frogs,TCU,Michigan Wolverines,MICH,63,67,130,-4,Schollmaier Arena,False
+401822356,2025-11-15,Kentucky Wildcats,UK,Eastern Illinois Panthers,EIU,99,53,152,46,Rupp Arena,False
+401819900,2025-11-15,Texas Tech Red Raiders,TTU,Milwaukee Panthers,MILW,80,63,143,17,United Supermarkets Arena,False
+401827180,2025-11-15,Illinois Fighting Illini,ILL,Colgate Raiders,COLG,84,65,149,19,State Farm Center,False
+401817265,2025-11-15,North Carolina Tar Heels,UNC,North Carolina Central Eagles,NCCU,97,53,150,44,Dean E. Smith Center,False
+401819815,2025-11-15,Arizona State Sun Devils,ASU,Gonzaga Bulldogs,GONZ,65,77,142,-12,Desert Financial Arena,False
+401826786,2025-11-15,Arkansas Razorbacks,ARK,Samford Bulldogs,SAM,79,75,154,4,Bud Walton Arena,False
+401820832,2025-11-15,Creighton Bluejays,CREI,Maryland Eastern Shore Hawks,UMES,84,45,129,39,CHI Health Center Omaha,False
+401812788,2025-11-16,UConn Huskies,CONN,BYU Cougars,BYU,86,84,170,2,TD Garden,True
+401817242,2025-11-15,Louisville Cardinals,LOU,Ohio Bobcats,OHIO,106,81,187,25,KFC Yum! Center,False
+401826915,2025-11-15,St. John's Red Storm,SJU,William & Mary Tribe,W&M,93,60,153,33,Carnesecca Arena,False
+401819884,2025-11-15,Kansas Jayhawks,KU,Princeton Tigers,PRIN,76,57,133,19,Allen Fieldhouse,False
+401809305,2025-11-16,Auburn Tigers,AUB,Houston Cougars,HOU,72,73,145,-1,Legacy Arena at BJCC,True
+401820598,2025-11-17,Purdue Boilermakers,PUR,Akron Zips,AKR,97,79,176,18,Mackey Arena,False
+401809416,2025-11-17,Florida Gators,FLA,Miami Hurricanes,MIA,82,68,150,14,Veterans Memorial Arena,True
+401823542,2025-11-18,Gonzaga Bulldogs,GONZ,Southern Utah Thunderbirds,SUU,122,50,172,72,McCarthey Athletic Center,False
+401819873,2025-11-18,Iowa State Cyclones,ISU,Stonehill Skyhawks,STO,96,57,153,39,Hilton Coliseum,False
+401826807,2025-11-18,Tennessee Volunteers,TENN,Rice Owls,RICE,91,66,157,25,Food City Center,False
+401826912,2025-11-18,Wisconsin Badgers,WIS,SIU Edwardsville Cougars,SIUE,94,69,163,25,Kohl Center,False
+401817255,2025-11-18,NC State Wolfpack,NCSU,VCU Rams,VCU,85,79,164,6,Lenovo Center,False
+401817232,2025-11-19,Duke Blue Devils,DUKE,Kansas Jayhawks,KU,78,66,144,12,Madison Square Garden,True
+401827221,2025-11-18,Kentucky Wildcats,UK,Michigan State Spartans,MSU,66,83,149,-17,Madison Square Garden,True
+401817266,2025-11-19,North Carolina Tar Heels,UNC,Navy Midshipmen,NAVY,73,61,134,12,Dean E. Smith Center,False
+401813760,2025-11-19,UCLA Bruins,UCLA,Sacramento State Hornets,SAC,79,48,127,31,Pauley Pavilion,False
+401826787,2025-11-19,Arkansas Razorbacks,ARK,Winthrop Eagles,WIN,84,83,167,1,Bud Walton Arena,False
+401812789,2025-11-20,UConn Huskies,CONN,Arizona Wildcats,ARIZ,67,71,138,-4,Gampel Pavilion,False
+401822996,2025-11-19,Michigan Wolverines,MICH,Middle Tennessee Blue Raiders,MTSU,86,61,147,25,Crisler Center,False
+401811098,2025-11-20,Illinois Fighting Illini,ILL,Alabama Crimson Tide,ALA,86,90,176,-4,United Center,True
+401823477,2025-11-20,Auburn Tigers,AUB,Jackson State Tigers,JKST,112,66,178,46,Neville Arena,False
+401823636,2025-11-20,Purdue Boilermakers,PUR,Memphis Tigers,MEM,80,71,151,9,Baha Mar Convention Center,True
+401812629,2025-11-21,Houston Cougars,HOU,Rider Broncs,RID,91,45,136,46,Fertitta Center,False
+401809078,2025-11-21,St. John's Red Storm,SJU,Bucknell Bison,BUCK,97,49,146,48,Carnesecca Arena,False
+401817531,2025-11-21,Texas Tech Red Raiders,TTU,Wake Forest Demon Deacons,WAKE,84,83,167,1,Baha Mar Convention Center,True
+401829386,2025-11-21,Tennessee Volunteers,TENN,Tennessee State Tigers,TNST,89,60,149,29,Food City Center,False
+401823637,2025-11-22,Purdue Boilermakers,PUR,Texas Tech Red Raiders,TTU,86,56,142,30,Baha Mar Convention Center,True
+401813377,2025-11-22,Duke Blue Devils,DUKE,Niagara Purple Eagles,NIA,100,42,142,58,Cameron Indoor Stadium,False
+401817243,2025-11-21,Cincinnati Bearcats,CIN,Louisville Cardinals,LOU,64,74,138,-10,Heritage Bank Center,True
+401819836,2025-11-21,BYU Cougars,BYU,Wisconsin Badgers,WIS,98,70,168,28,Delta Center,False
+401827489,2025-11-22,Florida Gators,FLA,Merrimack Warriors,MRMK,80,45,125,35,Stephen C. O'Connell Center,False
+401820187,2025-11-22,Kentucky Wildcats,UK,Loyola Maryland Greyhounds,L-MD,88,46,134,42,Rupp Arena,False
+401823371,2025-11-21,Michigan State Spartans,MSU,Detroit Mercy Titans,DETM,84,56,140,28,Breslin Center,False
+401813761,2025-11-22,UCLA Bruins,UCLA,Presbyterian Blue Hose,PRES,86,46,132,40,Pauley Pavilion,False
+401826788,2025-11-22,Arkansas Razorbacks,ARK,Jackson State Tigers,JKST,115,61,176,54,Bud Walton Arena,False
+401812356,2025-11-22,Illinois Fighting Illini,ILL,Long Island University Sharks,LIU,98,58,156,40,State Farm Center,False
+401812790,2025-11-23,UConn Huskies,CONN,Bryant Bulldogs,BRY,72,49,121,23,PeoplesBank Arena,False
+401817233,2025-11-23,Duke Blue Devils,DUKE,Howard Bison,HOW,93,56,149,37,Cameron Indoor Stadium,False
+401826740,2025-11-25,Arizona Wildcats,ARIZ,Denver Pioneers,DEN,103,73,176,30,McKale Memorial Center,False
+401817481,2025-11-24,Houston Cougars,HOU,Syracuse Orange,SYR,78,74,152,4,MGM Grand Garden Arena,True
+401817244,2025-11-25,Louisville Cardinals,LOU,Eastern Michigan Eagles,EMU,87,46,133,41,KFC Yum! Center,False
+401823764,2025-11-25,Michigan Wolverines,MICH,San Diego State Aztecs,SDSU,94,54,148,40,Michelob ULTRA Arena,True
+401812263,2025-11-25,Alabama Crimson Tide,ALA,Gonzaga Bulldogs,GONZ,85,95,180,-10,MGM Grand Garden Arena,True
+401827181,2025-11-25,Illinois Fighting Illini,ILL,UT Rio Grande Valley Vaqueros,RGV,87,73,160,14,State Farm Center,False
+401819874,2025-11-24,St. John's Red Storm,SJU,Iowa State Cyclones,ISU,82,83,165,-1,Michelob ULTRA Arena,True
+401827435,2025-11-24,Tennessee Volunteers,TENN,Rutgers Scarlet Knights,RUTG,85,60,145,25,MGM Grand Garden Arena,True
+401823478,2025-11-25,Oregon Ducks,ORE,Auburn Tigers,AUB,73,84,157,-11,Michelob ULTRA Arena,True
+401817256,2025-11-24,NC State Wolfpack,NCSU,Seton Hall Pirates,HALL,74,85,159,-11,Lahaina Civic Center,True
+401824812,2025-11-25,Houston Cougars,HOU,Tennessee Volunteers,TENN,73,76,149,-3,MGM Grand Garden Arena,True
+401823479,2025-11-26,Michigan Wolverines,MICH,Auburn Tigers,AUB,102,72,174,30,Michelob ULTRA Arena,True
+401812264,2025-11-26,Alabama Crimson Tide,ALA,UNLV Rebels,UNLV,115,76,191,39,MGM Grand Garden Arena,True
+401820810,2025-11-25,East Carolina Pirates,ECU,Michigan State Spartans,MSU,56,89,145,-33,Suncoast Credit Union Arena,True
+401824033,2025-11-26,Gonzaga Bulldogs,GONZ,Maryland Terrapins,MD,100,61,161,39,MGM Grand Garden Arena,True
+401819827,2025-11-25,Baylor Bears,BAY,St. John's Red Storm,SJU,81,96,177,-15,Michelob ULTRA Arena,True
+401819875,2025-11-25,Iowa State Cyclones,ISU,Creighton Bluejays,CREI,78,60,138,18,Michelob ULTRA Arena,True
+401817198,2025-11-25,North Carolina Tar Heels,UNC,St. Bonaventure Bonnies,SBU,85,70,155,15,Suncoast Credit Union Arena,True
+401813762,2025-11-26,California Golden Bears,CAL,UCLA Bruins,UCLA,80,72,152,8,Chase Center,True
+401831198,2025-11-25,Boise State Broncos,BOIS,NC State Wolfpack,NCSU,70,81,151,-11,Lahaina Civic Center,True
+401819892,2025-11-26,Indiana Hoosiers,IU,Kansas State Wildcats,KSU,86,69,155,17,Simon Skjodt Assembly Hall,False
+401831217,2025-11-26,Houston Cougars,HOU,Notre Dame Fighting Irish,ND,66,56,122,10,MGM Grand Garden Arena,True
+401817245,2025-11-27,Louisville Cardinals,LOU,NJIT Highlanders,NJIT,104,47,151,57,KFC Yum! Center,False
+401831214,2025-11-27,Michigan Wolverines,MICH,Gonzaga Bulldogs,GONZ,101,61,162,40,MGM Grand Garden Arena,True
+401831220,2025-11-27,Alabama Crimson Tide,ALA,Maryland Terrapins,MD,105,72,177,33,MGM Grand Garden Arena,True
+401831218,2025-11-27,Auburn Tigers,AUB,St. John's Red Storm,SJU,85,74,159,11,Michelob ULTRA Arena,True
+401831216,2025-11-26,Iowa State Cyclones,ISU,Syracuse Orange,SYR,95,64,159,31,MGM Grand Garden Arena,True
+401831215,2025-11-27,Tennessee Volunteers,TENN,Kansas Jayhawks,KU,76,81,157,-5,MGM Grand Garden Arena,True
+401826832,2025-11-27,Kentucky Wildcats,UK,Tennessee Tech Golden Eagles,TNTC,104,54,158,50,Rupp Arena,False
+401808897,2025-11-26,Texas Tech Red Raiders,TTU,New Orleans Privateers,UNO,82,50,132,32,United Supermarkets Arena,False
+401831202,2025-11-27,Texas Longhorns,TEX,NC State Wolfpack,NCSU,102,97,199,5,Lahaina Civic Center,True
+401823362,2025-11-26,Western Kentucky Hilltoppers,WKU,Vanderbilt Commodores,VAN,78,83,161,-5,Imperial Arena,True
+401817234,2025-11-28,Arkansas Razorbacks,ARK,Duke Blue Devils,DUKE,71,80,151,-9,United Center,True
+401809419,2025-11-27,Miami Hurricanes,MIA,BYU Cougars,BYU,62,72,134,-10,State Farm Field House,True
+401809047,2025-11-27,Florida Gators,FLA,TCU Horned Frogs,TCU,80,84,164,-4,Jenny Craig Pavilion,True
+401817267,2025-11-27,North Carolina Tar Heels,UNC,Michigan State Spartans,MSU,58,74,132,-16,Suncoast Credit Union Arena,True
+401830752,2025-11-27,Vanderbilt Commodores,VAN,VCU Rams,VCU,89,74,163,15,Imperial Arena,True
+401822359,2025-11-28,Purdue Boilermakers,PUR,Eastern Illinois Panthers,EIU,109,62,171,47,Mackey Arena,False
+401811096,2025-11-28,UConn Huskies,CONN,Illinois Fighting Illini,ILL,74,61,135,13,Madison Square Garden,True
+401830886,2025-11-29,Dayton Flyers,DAY,BYU Cougars,BYU,79,83,162,-4,State Farm Field House,True
+401831223,2025-11-28,Florida Gators,FLA,Providence Friars,PROV,90,78,168,12,Jenny Craig Pavilion,True
+401830879,2025-11-28,Vanderbilt Commodores,VAN,Saint Mary's Gaels,SMC,96,71,167,25,Imperial Arena,True
+401826886,2025-11-29,Arizona Wildcats,ARIZ,Norfolk State Spartans,NORF,98,61,159,37,McKale Memorial Center,False
+401827111,2025-11-29,Indiana Hoosiers,IU,Bethune-Cookman Wildcats,BCU,100,56,156,44,Simon Skjodt Assembly Hall,False
+401819901,2025-11-30,Texas Tech Red Raiders,TTU,Wyoming Cowboys,WYO,76,72,148,4,United Supermarkets Arena,False
+401837346,2025-12-01,Chicago State Cougars,CHST,St. Xavier  (IL) Cougars,STX,85,62,147,23,Jones Convocation Center,False
+401827016,2025-12-01,Southern Jaguars,SOU,Louisiana Christian Wildcats,LCHR,101,48,149,53,F.G. Clark Activity Center,False
+401823565,2025-12-01,Villanova Wildcats,VILL,Temple Owls,TEM,74,56,130,18,Finneran Pavilion,False
+401823470,2025-12-01,Toledo Rockets,TOL,Central State (OH) Marauders,CSO,102,58,160,44,Savage Arena,False
+401827523,2025-12-02,Hampton Pirates,HAMP,Apprentice School Builders,APPRE,94,58,152,36,Convocation Center (VA),False
+401825387,2025-12-02,Troy Trojans,TROY,West Georgia Wolves,WGA,89,93,182,-4,Trojan Arena,False
+401824308,2025-12-02,Delaware Blue Hens,DEL,Iona Gaels,IONA,66,89,155,-23,Bob Carpenter Center,False
+401823437,2025-12-02,Jacksonville State Gamecocks,JXST,North Alabama Lions,UNA,66,73,139,-7,Pete Mathews Coliseum,False
+401819846,2025-12-02,Cincinnati Bearcats,CIN,Tarleton State Texans,TAR,76,58,134,18,Fifth Third Arena,False
+401812384,2025-12-02,Xavier Musketeers,XAV,Saint Francis Red Flash,SFPA,96,74,170,22,Cintas Center,False
+401822998,2025-12-02,Middle Tennessee Blue Raiders,MTSU,UAB Blazers,UAB,76,61,137,15,Murphy Center,False
+401808731,2025-12-02,Incarnate Word Cardinals,UIW,McNeese Cowboys,MCN,71,67,138,4,McDermott Center,False
+401820546,2025-12-02,Northern Iowa Panthers,UNI,Coe Kohawks,COE,99,34,133,65,McLeod Center,False
+401819893,2025-12-02,Kansas State Wildcats,KSU,Bowling Green Falcons,BGSU,66,82,148,-16,Bramlage Coliseum,False
+401823546,2025-12-02,Southern Utah Thunderbirds,SUU,West Coast Baptist Eagles,WCBC,124,59,183,65,America First Events Center,False
+401830319,2025-12-02,New Mexico Lobos,UNM,New Mexico Highlands Cowboys,NMHU,97,47,144,50,The Pit,False
+401819866,2025-12-02,Colorado Buffaloes,COLO,California Baptist Lancers,CBU,78,70,148,8,CU Events Center,False
+401817470,2025-12-02,Stanford Cardinal,STAN,Portland Pilots,PORT,94,72,166,22,Maples Pavilion,False
+401825393,2025-12-03,Rutgers Scarlet Knights,RUTG,Purdue Boilermakers,PUR,65,81,146,-16,Jersey Mike’s Arena,False
+401806364,2025-12-03,Duke Blue Devils,DUKE,Florida Gators,FLA,67,66,133,1,Cameron Indoor Stadium,False
+401812791,2025-12-03,Kansas Jayhawks,KU,UConn Huskies,CONN,56,61,117,-5,Allen Fieldhouse,False
+401825392,2025-12-03,Michigan State Spartans,MSU,Iowa Hawkeyes,IOWA,71,52,123,19,Breslin Center,False
+401806366,2025-12-03,Syracuse Orange,SYR,Tennessee Volunteers,TENN,62,60,122,2,JMA Wireless Dome,False
+401806365,2025-12-03,Kentucky Wildcats,UK,North Carolina Tar Heels,UNC,64,67,131,-3,Rupp Arena,False
+401825394,2025-12-03,Oregon Ducks,ORE,USC Trojans,USC,77,82,159,-5,Matthew Knight Arena,False
+401806374,2025-12-04,Arkansas Razorbacks,ARK,Louisville Cardinals,LOU,89,80,169,9,Bud Walton Arena,False
+401819837,2025-12-04,BYU Cougars,BYU,California Baptist Lancers,CBU,91,60,151,31,Delta Center,False
+401819876,2025-12-04,Iowa State Cyclones,ISU,Alcorn State Braves,ALCN,132,68,200,64,Hilton Coliseum,False
+401806376,2025-12-04,Alabama Crimson Tide,ALA,Clemson Tigers,CLEM,90,84,174,6,Coleman Coliseum,False
+401806375,2025-12-04,Vanderbilt Commodores,VAN,SMU Mustangs,SMU,88,69,157,19,Memorial Gymnasium (TN),False
+401806373,2025-12-04,Auburn Tigers,AUB,NC State Wolfpack,NCSU,83,73,156,10,Neville Arena,False
+401825395,2025-12-04,Minnesota Golden Gophers,MINN,Indiana Hoosiers,IU,73,64,137,9,Williams Arena,False
+401812290,2025-12-04,Fairleigh Dickinson Knights,FDU,Manor College Blue Jays,MANR,86,38,124,48,Bogota Savings Bank Center,False
+401828643,2025-12-05,Davidson Wildcats,DAV,The Citadel Bulldogs,CIT,79,63,142,16,John M. Belk Arena,False
+401826835,2025-12-05,South Florida Bulls,USF,Utah State Aggies,USU,74,61,135,13,Yuengling Center,False
+401823852,2025-12-05,Merrimack Warriors,MRMK,Rider Broncs,RID,68,66,134,2,Hammel Court,False
+401820845,2025-12-05,Charleston Southern Buccaneers,CHSO,Warren Wilson Owls,WNWL,124,63,187,61,Buccaneer Fieldhouse,False
+401817505,2025-12-05,Green Bay Phoenix,GB,Robert Morris Colonials,RMU,78,80,158,-2,Resch Center,False
+401823311,2025-12-05,UC Santa Barbara Gauchos,UCSB,Long Beach State Beach,LBSU,84,77,161,7,The Thunderdome,False
+401823261,2025-12-05,Cal State Northridge Matadors,CSUN,Cal State Bakersfield Roadrunners,CSUB,87,66,153,21,Premier America Credit Union Arena,False
+401809153,2025-12-05,Cal State Fullerton Titans,CSUF,Cal Poly Mustangs,CP,91,94,185,-3,Titan Gym,False
+401809105,2025-12-05,UC Irvine Anteaters,UCI,UC Riverside Highlanders,UCR,73,60,133,13,Bren Events Center,False
+401809123,2025-12-05,Hawai'i Rainbow Warriors,HAW,UC Davis Aggies,UCD,75,69,144,6,Stan Sheriff Center,False
+401812792,2025-12-06,UConn Huskies,CONN,East Texas A&M Lions,ETAM,83,59,142,24,Gampel Pavilion,False
+401824034,2025-12-06,Kentucky Wildcats,UK,Gonzaga Bulldogs,GONZ,59,94,153,-35,Bridgestone Arena,True
+401819877,2025-12-06,Purdue Boilermakers,PUR,Iowa State Cyclones,ISU,58,81,139,-23,Mackey Arena,False
+401823480,2025-12-07,Arizona Wildcats,ARIZ,Auburn Tigers,AUB,97,68,165,29,McKale Memorial Center,False
+401825400,2025-12-06,Michigan Wolverines,MICH,Rutgers Scarlet Knights,RUTG,101,60,161,41,Crisler Center,False
+401817235,2025-12-06,Michigan State Spartans,MSU,Duke Blue Devils,DUKE,60,66,126,-6,Breslin Center,False
+401817246,2025-12-06,Louisville Cardinals,LOU,Indiana Hoosiers,IU,87,78,165,9,Gainbridge Fieldhouse,True
+401824813,2025-12-07,Houston Cougars,HOU,Florida State Seminoles,FSU,82,67,149,15,Toyota Center (Houston),True
+401811099,2025-12-07,Tennessee Volunteers,TENN,Illinois Fighting Illini,ILL,62,75,137,-13,Bridgestone Arena,True
+401826916,2025-12-07,St. John's Red Storm,SJU,Ole Miss Rebels,MISS,63,58,121,5,Madison Square Garden,False
+401825402,2025-12-06,USC Trojans,USC,Washington Huskies,WASH,76,84,160,-8,Galen Center,False
+401826791,2025-12-06,Arkansas Razorbacks,ARK,Fresno State Bulldogs,FRES,82,58,140,24,Simmons Bank Arena,True
+401823448,2025-12-08,Gonzaga Bulldogs,GONZ,North Florida Ospreys,UNF,109,58,167,51,McCarthey Athletic Center,False
+401812265,2025-12-07,Alabama Crimson Tide,ALA,UTSA Roadrunners,UTSA,97,55,152,42,Coleman Coliseum,False
+401817268,2025-12-07,North Carolina Tar Heels,UNC,Georgetown Hoyas,GTWN,81,61,142,20,Dean E. Smith Center,False
+401819902,2025-12-07,Texas Tech Red Raiders,TTU,LSU Tigers,LSU,82,58,140,24,Dickies Arena,True
+401819885,2025-12-07,Kansas Jayhawks,KU,Missouri Tigers,MIZ,80,60,140,20,T-Mobile Center,True
+401828342,2025-12-08,Kennesaw State Owls,KENN,Southern Wesleyan Warriors,SWES,121,66,187,55,KSU Convocation Center,False
+401812581,2025-12-08,Pennsylvania Quakers,PENN,Lafayette Leopards,LAF,74,72,146,2,The Palestra,False
+401820846,2025-12-09,Charleston Southern Buccaneers,CHSO,South Carolina State Bulldogs,SCST,84,44,128,40,Buccaneer Fieldhouse,False
+401827090,2025-12-09,Southern Miss Golden Eagles,USM,Grambling Tigers,GRAM,68,60,128,8,Reed Green Coliseum,False
+401827017,2025-12-09,Texas Longhorns,TEX,Southern Jaguars,SOU,95,69,164,26,Moody Center,False
+401819895,2025-12-09,Kansas State Wildcats,KSU,Mississippi Valley State Delta Devils,MVSU,108,49,157,59,Bramlage Coliseum,False
+401808900,2025-12-09,New Orleans Privateers,UNO,Incarnate Word Cardinals,UIW,84,83,167,1,Lakefront Arena,False
+401823566,2025-12-09,Michigan Wolverines,MICH,Villanova Wildcats,VILL,89,61,150,28,Crisler Center,False
+401812793,2025-12-10,UConn Huskies,CONN,Florida Gators,FLA,77,73,150,4,Madison Square Garden,True
+401812923,2025-12-09,BYU Cougars,BYU,Clemson Tigers,CLEM,67,64,131,3,Madison Square Garden,True
+401825404,2025-12-10,Ohio State Buckeyes,OSU,Illinois Fighting Illini,ILL,80,88,168,-8,Value City Arena,False
+401817513,2025-12-10,Virginia Cavaliers,UVA,Maryland Eastern Shore Hawks,UMES,84,60,144,24,John Paul Jones Arena,False
+401825406,2025-12-11,Purdue Boilermakers,PUR,Minnesota Golden Gophers,MINN,85,57,142,28,Mackey Arena,False
+401824814,2025-12-11,Houston Cougars,HOU,Jackson State Tigers,JKST,80,38,118,42,Fertitta Center,False
+401825405,2025-12-11,Nebraska Cornhuskers,NEB,Wisconsin Badgers,WIS,90,60,150,30,Pinnacle Bank Arena,False
+401819878,2025-12-12,Iowa State Cyclones,ISU,Iowa Hawkeyes,IOWA,66,62,128,4,Hilton Coliseum,False
+401812794,2025-12-13,UConn Huskies,CONN,Texas Longhorns,TEX,71,63,134,8,PeoplesBank Arena,False
+401812266,2025-12-14,Alabama Crimson Tide,ALA,Arizona Wildcats,ARIZ,75,96,171,-21,Legacy Arena at BJCC,True
+401825408,2025-12-14,Maryland Terrapins,MD,Michigan Wolverines,MICH,83,101,184,-18,XFINITY Center,False
+401823028,2025-12-13,Purdue Boilermakers,PUR,Marquette Golden Eagles,MARQ,79,59,138,20,Mackey Arena,False
+401808901,2025-12-13,Houston Cougars,HOU,New Orleans Privateers,UNO,99,57,156,42,Fertitta Center,False
+401813763,2025-12-14,Gonzaga Bulldogs,GONZ,UCLA Bruins,UCLA,82,72,154,10,Climate Pledge Arena,True
+401825409,2025-12-13,Penn State Nittany Lions,PSU,Michigan State Spartans,MSU,72,76,148,-4,Bryce Jordan Center,False
+401819838,2025-12-14,BYU Cougars,BYU,UC Riverside Highlanders,UCR,100,53,153,47,Marriott Center,False
+401817247,2025-12-13,Louisville Cardinals,LOU,Memphis Tigers,MEM,99,73,172,26,KFC Yum! Center,False
+401825407,2025-12-13,Illinois Fighting Illini,ILL,Nebraska Cornhuskers,NEB,80,83,163,-3,State Farm Center,False
+401817269,2025-12-13,North Carolina Tar Heels,UNC,South Carolina Upstate Spartans,UPST,80,62,142,18,Dean E. Smith Center,False
+401824940,2025-12-13,Vanderbilt Commodores,VAN,Central Arkansas Bears,CARK,83,72,155,11,Memorial Gymnasium (TN),False
+401826789,2025-12-13,Arkansas Razorbacks,ARK,Texas Tech Red Raiders,TTU,93,86,179,7,American Airlines Center,True
+401817151,2025-12-13,Florida Gators,FLA,George Washington Revolutionaries,GW,80,70,150,10,Amerant Bank Arena,True
+401817259,2025-12-13,NC State Wolfpack,NCSU,Kansas Jayhawks,KU,76,77,153,-1,Lenovo Center,False
+401823481,2025-12-13,Auburn Tigers,AUB,Chattanooga Mocs,UTC,92,78,170,14,State Farm Arena,True
+401824309,2025-12-13,St. John's Red Storm,SJU,Iona Gaels,IONA,91,64,155,27,Madison Square Garden,False
+401819879,2025-12-14,Iowa State Cyclones,ISU,Eastern Illinois Panthers,EIU,78,53,131,25,Hilton Coliseum,False
+401829435,2025-12-15,Samford Bulldogs,SAM,Bryan (TN) Lions,BRTN,106,51,157,55,Pete Hanna Center,False
+401842404,2025-12-16,Florida A&M Rattlers,FAMU,Albany St (GA) Golden Rams,ABSU,93,77,170,16,Al Lawson Center,False
+401827134,2025-12-16,Arkansas-Pine Bluff Golden Lions,UAPB,Ecclesia Royals,ECCL,114,64,178,50,H.O. Clemmons Arena,False
+401826972,2025-12-16,Gardner-Webb Runnin' Bulldogs,GWEB,Wofford Terriers,WOF,57,83,140,-26,Paul Porter Arena,False
+401825208,2025-12-16,Stetson Hatters,STET,Rhodes Lynx,RHO,95,76,171,19,Edmunds Center,False
+401813382,2025-12-16,VCU Rams,VCU,Niagara Purple Eagles,NIA,84,58,142,26,Siegel Center,False
+401808703,2025-12-16,SE Louisiana Lions,SELA,East Texas A&M Lions,ETAM,69,70,139,-1,University Center,False
+401823365,2025-12-16,Western Kentucky Hilltoppers,WKU,Campbellsville Tigers,CBVU,102,59,161,43,E.A. Diddle Arena,False
+401829464,2025-12-16,North Dakota State Bison,NDSU,Minnesota Crookston Golden Eagles,MNCR,101,67,168,34,Scheels Center,False
+401823762,2025-12-16,South Dakota State Jackrabbits,SDST,Wyoming Cowboys,WYO,72,87,159,-15,Sanford Pentagon,True
+401823439,2025-12-16,Alabama A&M Bulldogs,AAMU,North Alabama Lions,UNA,68,60,128,8,Event Center,False
+401820475,2025-12-16,Houston Christian Huskies,HCU,McNeese Cowboys,MCN,68,78,146,-10,Sharp Gymnasium,False
+401812256,2025-12-16,TCU Horned Frogs,TCU,Incarnate Word Cardinals,UIW,69,65,134,4,Schollmaier Arena,False
+401823529,2025-12-17,Arizona Wildcats,ARIZ,Abilene Christian Wildcats,ACU,96,62,158,34,McKale Memorial Center,False
+401817236,2025-12-16,Duke Blue Devils,DUKE,Lipscomb Bisons,LIP,97,73,170,24,Cameron Indoor Stadium,False
+401822868,2025-12-17,UConn Huskies,CONN,Butler Bulldogs,BUT,79,60,139,19,PeoplesBank Arena,False
+401823472,2025-12-16,Michigan State Spartans,MSU,Toledo Rockets,TOL,92,69,161,23,Breslin Center,False
+401819839,2025-12-17,BYU Cougars,BYU,Pacific Tigers,PAC,93,57,150,36,Marriott Center,False
+401817248,2025-12-17,Tennessee Volunteers,TENN,Louisville Cardinals,LOU,83,62,145,21,Food City Center,False
+401817270,2025-12-17,North Carolina Tar Heels,UNC,East Tennessee State Buccaneers,ETSU,77,58,135,19,Dean E. Smith Center,False
+401823497,2025-12-17,Arkansas Razorbacks,ARK,Queens University Royals,QUC,108,80,188,28,Bud Walton Arena,False
+401819886,2025-12-17,Kansas Jayhawks,KU,Towson Tigers,TOW,73,49,122,24,Allen Fieldhouse,False
+401819903,2025-12-17,Texas Tech Red Raiders,TTU,Northern Colorado Bears,UNCO,101,90,191,11,United Supermarkets Arena,False
+401822869,2025-12-17,St. John's Red Storm,SJU,DePaul Blue Demons,DEP,79,66,145,13,Carnesecca Arena,False
+401824035,2025-12-18,Gonzaga Bulldogs,GONZ,Campbell Fighting Camels,CAM,98,70,168,28,McCarthey Athletic Center,False
+401826799,2025-12-18,Memphis Tigers,MEM,Vanderbilt Commodores,VAN,70,77,147,-7,FedExForum,False
+401812267,2025-12-18,Alabama Crimson Tide,ALA,South Florida Bulls,USF,104,93,197,11,Coleman Coliseum,False
+401812387,2025-12-17,Florida Gators,FLA,Saint Francis Red Flash,SFPA,102,61,163,41,Stephen C. O'Connell Center,False
+401826775,2025-12-19,Georgia Bulldogs,UGA,Western Carolina Catamounts,WCU,112,82,194,30,Stegeman Coliseum,False
+401823768,2025-12-21,Arizona Wildcats,ARIZ,San Diego State Aztecs,SDSU,68,45,113,23,Mortgage Matchup Center,True
+401817237,2025-12-21,Duke Blue Devils,DUKE,Texas Tech Red Raiders,TTU,81,82,163,-1,Madison Square Garden,True
+401823482,2025-12-20,Purdue Boilermakers,PUR,Auburn Tigers,AUB,88,60,148,28,Gainbridge Fieldhouse,True
+401820294,2025-12-20,Arkansas Razorbacks,ARK,Houston Cougars,HOU,85,94,179,-9,Prudential Center,True
+401826874,2025-12-20,Michigan State Spartans,MSU,Oakland Golden Grizzlies,OAK,79,70,149,9,Little Caesars Arena,True
+401817249,2025-12-20,Louisville Cardinals,LOU,Montana Grizzlies,MONT,94,54,148,40,KFC Yum! Center,False
+401809307,2025-12-20,Ohio State Buckeyes,OSU,North Carolina Tar Heels,UNC,70,71,141,-1,State Farm Arena,True
+401809306,2025-12-20,Kentucky Wildcats,UK,St. John's Red Storm,SJU,78,66,144,12,State Farm Arena,True
+401817514,2025-12-20,Virginia Cavaliers,UVA,Maryland Terrapins,MD,80,72,152,8,John Paul Jones Arena,False
+401822185,2025-12-21,Michigan Wolverines,MICH,La Salle Explorers,LAS,102,50,152,52,Crisler Center,False
+401819880,2025-12-21,Iowa State Cyclones,ISU,Long Beach State Beach,LBSU,91,60,151,31,Hilton Coliseum,False
+401822875,2025-12-21,DePaul Blue Demons,DEP,UConn Huskies,CONN,54,72,126,-18,Wintrust Arena,False
+401824036,2025-12-21,Oregon Ducks,ORE,Gonzaga Bulldogs,GONZ,82,91,173,-9,Moda Center,True
+401817537,2025-12-21,Wake Forest Demon Deacons,WAKE,Vanderbilt Commodores,VAN,67,98,165,-31,LJVM Coliseum,False
+401827239,2025-12-22,Nebraska Cornhuskers,NEB,North Dakota Fighting Hawks,UND,78,55,133,23,Pinnacle Bank Arena,False
+401812268,2025-12-21,Alabama Crimson Tide,ALA,Kennesaw State Owls,KENN,92,81,173,11,Propst Arena,True
+401826974,2025-12-21,Tennessee Volunteers,TENN,Gardner-Webb Runnin' Bulldogs,GWEB,94,52,146,42,Food City Center,False
+401829406,2025-12-21,Florida Gators,FLA,Colgate Raiders,COLG,90,60,150,30,Stephen C. O'Connell Center,False
+401826887,2025-12-23,Arizona Wildcats,ARIZ,Bethune-Cookman Wildcats,BCU,107,71,178,36,McKale Memorial Center,False
+401819841,2025-12-23,BYU Cougars,BYU,Eastern Washington Eagles,EWU,109,81,190,28,Marriott Center,False
+401817271,2025-12-23,North Carolina Tar Heels,UNC,East Carolina Pirates,ECU,99,51,150,48,Dean E. Smith Center,False
+401819887,2025-12-23,Kansas Jayhawks,KU,Davidson Wildcats,DAV,90,61,151,29,Allen Fieldhouse,False
+401811100,2025-12-23,Illinois Fighting Illini,ILL,Missouri Tigers,MIZ,91,48,139,43,Enterprise Center,True
+401817515,2025-12-22,Virginia Cavaliers,UVA,American University Eagles,AMER,95,51,146,44,John Paul Jones Arena,False
+401825391,2025-12-22,Georgia Bulldogs,UGA,West Georgia Wolves,WGA,103,74,177,29,Stegeman Coliseum,False
+401828299,2025-12-23,Campbell Fighting Camels,CAM,Green Bay Phoenix,GB,102,79,181,23,John W. Pope Jr. Convocation Center,False
+401820611,2025-12-23,Army Black Knights,ARMY,Binghamton Bearcats,BING,95,85,180,10,Christl Arena,False
+401823223,2025-12-23,Kentucky Wildcats,UK,Bellarmine Knights,BELL,99,85,184,14,Rupp Arena,False
+401827093,2025-12-23,Ohio State Buckeyes,OSU,Grambling Tigers,GRAM,89,63,152,26,Value City Arena,False
+401824830,2025-12-23,UCF Knights,UCF,Florida Atlantic Owls,FAU,85,80,165,5,Addition Financial Arena,False
+401822397,2025-12-23,Missouri State Bears,MOST,Lindenwood Lions,LIN,70,65,135,5,Great Southern Bank Arena,False
+401813766,2025-12-23,UCLA Bruins,UCLA,UC Riverside Highlanders,UCR,97,65,162,32,Pauley Pavilion,False
+401823572,2025-12-23,Cal State Bakersfield Roadrunners,CSUB,Idaho Vandals,IDHO,64,63,127,1,Icardo Center,False
+401813284,2025-12-23,Loyola Marymount Lions,LMU,Morgan State Bears,MORG,83,56,139,27,Gersten Pavilion,False
+401812611,2025-12-23,St. John's Red Storm,SJU,Harvard Crimson,HARV,85,59,144,26,Carnesecca Arena,False
+401827264,2025-12-24,Marshall Thundering Herd,MRSH,WVU Tech Golden Bears,WVUT,102,52,154,50,Cam Henderson Center,False
+401822876,2025-12-24,Seton Hall Pirates,HALL,Villanova Wildcats,VILL,56,64,120,-8,Prudential Center,False
+401823596,2025-12-27,UNC Wilmington Seahawks,UNCW,Columbia College (SC) Fighting Koalas,CCSC,100,56,156,44,Trask Coliseum,False
+401813455,2025-12-27,Duquesne Dukes,DUQ,Cleary University Cougars,CLRY,99,49,148,50,UPMC Cooper Fieldhouse,False
+401817475,2025-12-28,Stanford Cardinal,STAN,Cal State Northridge Matadors,CSUN,88,80,168,8,Maples Pavilion,False
+401829163,2025-12-29,Pepperdine Waves,PEPP,Gonzaga Bulldogs,GONZ,56,96,152,-40,Firestone Fieldhouse,False
+401819904,2025-12-28,Texas Tech Red Raiders,TTU,Winthrop Eagles,WIN,87,57,144,30,United Supermarkets Arena,False
+401826888,2025-12-30,Arizona Wildcats,ARIZ,South Dakota State Jackrabbits,SDST,99,71,170,28,McKale Memorial Center,False
+401826084,2025-12-30,Michigan Wolverines,MICH,McNeese Cowboys,MCN,112,71,183,41,Crisler Center,False
+401819881,2025-12-30,Iowa State Cyclones,ISU,Houston Christian Huskies,HCU,89,61,150,28,Hilton Coliseum,False
+401823019,2025-12-30,Purdue Boilermakers,PUR,Kent State Golden Flashes,KENT,101,60,161,41,Mackey Arena,False
+401823001,2025-12-30,Houston Cougars,HOU,Middle Tennessee Blue Raiders,MTSU,69,60,129,9,Fertitta Center,False
+401827222,2025-12-30,Michigan State Spartans,MSU,Cornell Big Red,COR,114,97,211,17,Breslin Center,False
+401828686,2025-12-30,Vanderbilt Commodores,VAN,New Haven Chargers,NHVN,96,53,149,43,Memorial Gymnasium (TN),False
+401812269,2025-12-30,Alabama Crimson Tide,ALA,Yale Bulldogs,YALE,102,78,180,24,Coleman Coliseum,False
+401826790,2025-12-30,Arkansas Razorbacks,ARK,James Madison Dukes,JMU,103,74,177,29,Bud Walton Arena,False
+401827020,2025-12-29,Illinois Fighting Illini,ILL,Southern Jaguars,SOU,90,55,145,35,State Farm Center,False
+401829419,2025-12-29,Florida Gators,FLA,Dartmouth Big Green,DART,94,72,166,22,Stephen C. O'Connell Center,False
+401812364,2025-12-30,Georgia Bulldogs,UGA,Long Island University Sharks,LIU,89,74,163,15,Stegeman Coliseum,False
+401823651,2025-12-29,Iowa Hawkeyes,IOWA,UMass Lowell River Hawks,UML,90,62,152,28,Carver-Hawkeye Arena,False
+401829169,2025-12-31,San Diego Toreros,USD,Gonzaga Bulldogs,GONZ,93,99,192,-6,Jenny Craig Pavilion,False
+401820639,2025-12-31,North Carolina Tar Heels,UNC,Florida State Seminoles,FSU,79,66,145,13,Dean E. Smith Center,False
+401826776,2025-12-31,Nebraska Cornhuskers,NEB,New Hampshire Wildcats,UNH,86,55,141,31,Pinnacle Bank Arena,False
+401820634,2025-12-31,California Golden Bears,CAL,Louisville Cardinals,LOU,70,90,160,-20,Haas Pavilion,False
+401829283,2025-12-31,Tennessee Volunteers,TENN,South Carolina State Bulldogs,SCST,105,54,159,51,Food City Center,False
+401822880,2025-12-31,Xavier Musketeers,XAV,UConn Huskies,CONN,67,90,157,-23,Cintas Center,False
+401820636,2025-12-31,Duke Blue Devils,DUKE,Georgia Tech Yellow Jackets,GT,85,79,164,6,Cameron Indoor Stadium,False
+401820641,2025-12-31,Virginia Tech Hokies,VT,Virginia Cavaliers,UVA,95,85,180,10,Cassell Coliseum,False
+401831278,2026-01-01,Dartmouth Big Green,DART,Elms College Blazers,ELMS,107,43,150,64,Leede Arena,False
+401817604,2026-01-01,Youngstown State Penguins,YSU,Oakland Golden Grizzlies,OAK,83,85,168,-2,Beeghly Center,False
+401809227,2026-01-01,VMI Keydets,VMI,Samford Bulldogs,SAM,58,78,136,-20,Cameron Hall,False
+401808592,2026-01-01,Coastal Carolina Chanticleers,CCU,Georgia Southern Eagles,GASO,81,82,163,-1,The HTC Center,False
+401807666,2026-01-01,North Alabama Lions,UNA,Stetson Hatters,STET,67,70,137,-3,Flowers Hall,False
+401818331,2026-01-01,North Dakota Fighting Hawks,UND,Oral Roberts Golden Eagles,ORU,72,61,133,11,Betty Engelstad Sioux Center,False
+401817603,2026-01-01,Northern Kentucky Norse,NKU,IU Indianapolis Jaguars,IUIN,81,72,153,9,Truist Arena,False
+401817602,2026-01-01,Wright State Raiders,WRST,Milwaukee Panthers,MILW,76,70,146,6,Nutter Center,False
+401817601,2026-01-01,Purdue Fort Wayne Mastodons,PFW,Green Bay Phoenix,GB,54,72,126,-18,Memorial Coliseum (IN),False
+401807664,2026-01-01,Lipscomb Bisons,LIP,Jacksonville Dolphins,JAX,76,57,133,19,Allen Arena,False
+401807663,2026-01-01,Central Arkansas Bears,CARK,Florida Gulf Coast Eagles,FGCU,85,83,168,2,Farris Center,False
+401830258,2026-01-01,Southern Illinois Salukis,SIU,Valparaiso Beacons,VAL,75,70,145,5,Banterra Center,False
+401830255,2026-01-01,Illinois State Redbirds,ILST,Evansville Purple Aces,EVAN,73,47,120,26,CEFCU Arena,False
+401805159,2026-01-01,UT Arlington Mavericks,UTA,California Baptist Lancers,CBU,63,51,114,12,College Park Center,False
+401809226,2026-01-01,UNC Greensboro Spartans,UNCG,Chattanooga Mocs,UTC,77,72,149,5,First Horizon Coliseum,False
+401808537,2026-01-01,Weber State Wildcats,WEB,Portland State Vikings,PRST,90,95,185,-5,Dee Events Center,False
+401806419,2026-01-01,UT Martin Skyhawks,UTM,Western Illinois Leathernecks,WIU,67,60,127,7,Kathleen and Tom Elam Center,False
+401806418,2026-01-01,SIU Edwardsville Cougars,SIUE,Southern Indiana Screaming Eagles,USI,59,55,114,4,First Community Arena,False
+401806416,2026-01-01,Lindenwood Lions,LIN,Morehead State Eagles,MORE,77,64,141,13,Hyland Arena,False
+401809124,2026-01-01,UC Davis Aggies,UCD,Cal State Northridge Matadors,CSUN,89,80,169,9,University Credit Union Center,False
+401809107,2026-01-01,Cal State Bakersfield Roadrunners,CSUB,UC Irvine Anteaters,UCI,77,81,158,-4,Icardo Center,False
+401808593,2026-01-01,UL Monroe Warhawks,ULM,Southern Miss Golden Eagles,USM,73,87,160,-14,Fant-Ewing Coliseum,False
+401818332,2026-01-01,South Dakota State Jackrabbits,SDST,Omaha Mavericks,OMA,84,69,153,15,First Bank & Trust Arena,False
+401808501,2026-01-01,Montana Grizzlies,MONT,Northern Arizona Lumberjacks,NAU,78,64,142,14,Dahlberg Arena,False
+401806417,2026-01-01,Little Rock Trojans,LR,Tennessee Tech Golden Eagles,TNTC,77,58,135,19,Jack Stephens Center,False
+401830201,2026-01-02,Belmont Bruins,BEL,Bradley Braves,BRAD,88,78,166,10,Curb Event Center Arena,False
+401807662,2026-01-02,Queens University Royals,QUC,Eastern Kentucky Colonels,EKU,91,89,180,2,Curry Arena,False
+401807661,2026-01-02,West Georgia Wolves,WGA,Bellarmine Knights,BELL,87,85,172,2,The Coliseum,False
+401830257,2026-01-02,Northern Iowa Panthers,UNI,Indiana State Sycamores,INST,75,66,141,9,McLeod Center,False
+401809140,2026-01-02,UC Riverside Highlanders,UCR,Hawai'i Rainbow Warriors,HAW,45,88,133,-43,SRC Arena,False
+401807665,2026-01-02,Austin Peay Governors,APSU,North Florida Ospreys,UNF,102,83,185,19,F&M Bank Arena,False
+401805158,2026-01-02,Tarleton State Texans,TAR,Utah Valley Wolverines,UVU,85,91,176,-6,Wisdom Gym,False
+401805157,2026-01-02,Abilene Christian Wildcats,ACU,Utah Tech Trailblazers,UTU,64,79,143,-15,Moody Coliseum (Abilene),False
+401806415,2026-01-02,Southeast Missouri State Redhawks,SEMO,Eastern Illinois Panthers,EIU,68,59,127,9,Show Me Center,False
+401830256,2026-01-02,UIC Flames,UIC,Murray State Racers,MUR,77,81,158,-4,Credit Union 1 Arena,False
+401808513,2026-01-02,Montana State Bobcats,MTST,Northern Colorado Bears,UNCO,89,75,164,14,Worthington Arena,False
+401808487,2026-01-02,Idaho State Bengals,IDST,Sacramento State Hornets,SAC,97,84,181,13,Reed Gym,False
+401823177,2026-01-02,Cal State Fullerton Titans,CSUF,UC Santa Barbara Gauchos,UCSB,95,84,179,11,Titan Gym,False
+401809086,2026-01-02,Cal Poly Mustangs,CP,UC San Diego Tritons,UCSD,67,65,132,2,Mott Athletics Center,False
+401825411,2026-01-03,Michigan Wolverines,MICH,USC Trojans,USC,96,66,162,30,Crisler Center,False
+401827592,2026-01-03,Iowa State Cyclones,ISU,West Virginia Mountaineers,WVU,80,59,139,21,Hilton Coliseum,False
+401829180,2026-01-03,Gonzaga Bulldogs,GONZ,Seattle U Redhawks,SEA,80,72,152,8,McCarthey Athletic Center,False
+401825412,2026-01-03,Nebraska Cornhuskers,NEB,Michigan State Spartans,MSU,58,56,114,2,Pinnacle Bank Arena,False
+401820643,2026-01-03,Stanford Cardinal,STAN,Louisville Cardinals,LOU,80,76,156,4,Maples Pavilion,False
+401827599,2026-01-03,Utah Utes,UTAH,Arizona Wildcats,ARIZ,78,97,175,-19,Jon M. Huntsman Center,False
+401825417,2026-01-04,Wisconsin Badgers,WIS,Purdue Boilermakers,PUR,73,89,162,-16,Kohl Center,False
+401820644,2026-01-03,Florida State Seminoles,FSU,Duke Blue Devils,DUKE,87,91,178,-4,Tucker Center,False
+401827595,2026-01-03,Cincinnati Bearcats,CIN,Houston Cougars,HOU,60,67,127,-7,Fifth Third Arena,False
+401827596,2026-01-03,Kansas State Wildcats,KSU,BYU Cougars,BYU,73,83,156,-10,Bramlage Coliseum,False
+401808148,2026-01-03,South Carolina Gamecocks,SC,Vanderbilt Commodores,VAN,71,83,154,-12,Colonial Life Arena,False
+401820648,2026-01-03,SMU Mustangs,SMU,North Carolina Tar Heels,UNC,97,83,180,14,Moody Coliseum (Dallas),False
+401808152,2026-01-03,Alabama Crimson Tide,ALA,Kentucky Wildcats,UK,89,74,163,15,Coleman Coliseum,False
+401827598,2026-01-03,Texas Tech Red Raiders,TTU,Oklahoma State Cowboys,OKST,102,80,182,22,United Supermarkets Arena,False
+401827594,2026-01-03,UCF Knights,UCF,Kansas Jayhawks,KU,81,75,156,6,Addition Financial Arena,False
+401808145,2026-01-03,Arkansas Razorbacks,ARK,Tennessee Volunteers,TENN,86,75,161,11,Bud Walton Arena,False
+401825416,2026-01-04,Penn State Nittany Lions,PSU,Illinois Fighting Illini,ILL,65,73,138,-8,The Palestra,False
+401820646,2026-01-03,NC State Wolfpack,NCSU,Virginia Cavaliers,UVA,61,76,137,-15,Lenovo Center,False
+401808147,2026-01-04,Missouri Tigers,MIZ,Florida Gators,FLA,76,74,150,2,Mizzou Arena,False
+401808146,2026-01-03,Georgia Bulldogs,UGA,Auburn Tigers,AUB,104,100,204,4,Stegeman Coliseum,False
+401825414,2026-01-03,Iowa Hawkeyes,IOWA,UCLA Bruins,UCLA,74,61,135,13,Carver-Hawkeye Arena,False
+401822885,2026-01-04,UConn Huskies,CONN,Marquette Golden Eagles,MARQ,73,57,130,16,Gampel Pavilion,False
+401829181,2026-01-05,Gonzaga Bulldogs,GONZ,Loyola Marymount Lions,LMU,82,47,129,35,McCarthey Athletic Center,False
+401825420,2026-01-05,Ohio State Buckeyes,OSU,Nebraska Cornhuskers,NEB,69,72,141,-3,Value City Arena,False
+401825419,2026-01-06,Michigan State Spartans,MSU,USC Trojans,USC,80,51,131,29,Breslin Center,False
+401825423,2026-01-07,Penn State Nittany Lions,PSU,Michigan Wolverines,MICH,72,74,146,-2,Bryce Jordan Center,False
+401820650,2026-01-07,Louisville Cardinals,LOU,Duke Blue Devils,DUKE,73,84,157,-11,KFC Yum! Center,False
+401827600,2026-01-07,Houston Cougars,HOU,Texas Tech Red Raiders,TTU,69,65,134,4,Fertitta Center,False
+401808153,2026-01-07,Florida Gators,FLA,Georgia Bulldogs,UGA,92,77,169,15,Stephen C. O'Connell Center,False
+401825422,2026-01-07,Minnesota Golden Gophers,MINN,Iowa Hawkeyes,IOWA,70,67,137,3,Williams Arena,False
+401808160,2026-01-07,Tennessee Volunteers,TENN,Texas Longhorns,TEX,85,71,156,14,Food City Center,False
+401827601,2026-01-07,Kansas Jayhawks,KU,TCU Horned Frogs,TCU,104,100,204,4,Allen Fieldhouse,False
+401827602,2026-01-07,Oklahoma State Cowboys,OKST,UCF Knights,UCF,87,76,163,11,Gallagher-Iba Arena,False

@@ -1,0 +1,9 @@
+# Raw pulls (keep local; publish canonical outputs instead)
+odds/raw/
+
+# ncaahoopR data is too large for GitHub (6.7 GB) - sync separately
+ncaahoopR_data-master/
+
+# Temp/working files
+*.tmp
+*.bak

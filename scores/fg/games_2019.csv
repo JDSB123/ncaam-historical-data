@@ -1,0 +1,1155 @@
+game_id,date,home_team,home_abbr,away_team,away_abbr,home_score,away_score,total,spread_result,venue,neutral
+401083627,2018-11-07,Gonzaga Bulldogs,GONZ,Idaho State Bengals,IDST,120,79,199,41,McCarthey Athletic Center,False
+401082974,2018-11-07,Tennessee Volunteers,TENN,Lenoir-Rhyne Bears,LENRHYNE,86,41,127,45,Food City Center,False
+401083597,2018-11-07,Nevada Wolf Pack,NEV,BYU Cougars,BYU,86,70,156,16,Lawlor Events Center,False
+401082853,2018-11-07,Wofford Terriers,WOF,North Carolina Tar Heels,UNC,67,78,145,-11,Jerry Richardson Indoor Stadium,False
+401083350,2018-11-07,Villanova Wildcats,VILL,Morgan State Bears,MORG,100,77,177,23,Finneran Pavilion,False
+401083163,2018-11-07,Auburn Tigers,AUB,South Alabama Jaguars,USA,101,58,159,43,Neville Arena,False
+401086810,2018-11-07,Oregon Ducks,ORE,Portland State Vikings,PRST,84,57,141,27,Matthew Knight Arena,False
+401082695,2018-11-07,Florida State Seminoles,FSU,Florida Gators,FLA,81,60,141,21,Tucker Center,False
+401087147,2018-11-07,UCLA Bruins,UCLA,Purdue Fort Wayne Mastodons,PFW,96,71,167,25,Pauley Pavilion,False
+401082642,2018-11-07,Clemson Tigers,CLEM,The Citadel Bulldogs,CIT,100,80,180,20,Littlejohn Coliseum,False
+401083104,2018-11-07,LSU Tigers,LSU,SE Louisiana Lions,SELA,94,63,157,31,Pete Maravich Assembly Center,False
+401082580,2018-11-07,Purdue Boilermakers,PUR,Fairfield Stags,FAIR,90,57,147,33,Mackey Arena,False
+401083509,2018-11-08,TCU Horned Frogs,TCU,Cal State Bakersfield Roadrunners,CSUB,66,61,127,5,Schollmaier Arena,False
+401093604,2018-11-09,Cornell Big Red,COR,SUNY-Canton Roos,NYCA,86,44,130,42,Newman Arena,False
+401090373,2018-11-09,Norfolk State Spartans,NORF,Mid-Atlantic Christian Mustangs,MATC,108,50,158,58,Joseph G. Echols Hall,False
+401089034,2018-11-09,Purdue Fort Wayne Mastodons,PFW,Earlham College Quakers,EARL,112,51,163,61,Hilliard Gates Sports Center,False
+401088865,2018-11-09,East Tennessee State Buccaneers,ETSU,Hiwassee Tigers,HIWAS,109,44,153,65,Freedom Hall (TN),False
+401088143,2018-11-09,UNC Asheville Bulldogs,UNCA,St. Andrews Knights,ST. A,87,47,134,40,Kimmel Arena,False
+401086704,2018-11-09,Liberty Flames,LIB,Maine-Fort Kent Bengals,UMFK,89,40,129,49,Vines Convocation Center,False
+401086653,2018-11-09,Florida Gulf Coast Eagles,FGCU,Southeastern Fires,SE,81,54,135,27,Alico Arena,False
+401086049,2018-11-09,George Washington Revolutionaries,GW,Siena Saints,SIE,61,69,130,-8,Charles E. Smith Center,False
+401084613,2018-11-09,UConn Huskies,CONN,Morehead State Eagles,MORE,80,70,150,10,Gampel Pavilion,False
+401082908,2018-11-09,Louisville Cardinals,LOU,Nicholls Colonels,NICH,85,72,157,13,KFC Yum! Center,False
+401082821,2018-11-09,Notre Dame Fighting Irish,ND,Chicago State Cougars,CHST,89,62,151,27,Purcell Pavilion,False
+401089137,2018-11-09,Stephen F. Austin Lumberjacks,SFA,Southwestern Assemblies of God Lions,SWA,68,67,135,1,William R. Johnson Coliseum,False
+401087829,2018-11-09,Little Rock Trojans,LR,Southeastern Oklahoma State Savage Storm,SEOS,101,92,193,9,Jack Stephens Center,False
+401089640,2018-11-09,Central Arkansas Bears,CARK,Hendrix College Warriors,HDX,99,73,172,26,Farris Center,False
+401089207,2018-11-09,Sam Houston Bearkats,SHSU,Southwestern (TX) Pirates,SW,94,56,150,38,Bernard G. Johnson Coliseum,False
+401089165,2018-11-09,Drake Bulldogs,DRKE,Buena Vista Beavers,BVU,98,52,150,46,Knapp Center,False
+401088908,2018-11-09,South Dakota State Jackrabbits,SDST,Alabama State Hornets,ALST,78,61,139,17,Frost Arena,False
+401084646,2018-11-09,SMU Mustangs,SMU,Northwestern State Demons,NWST,69,58,127,11,Moody Coliseum (Dallas),False
+401082530,2018-11-09,Northwestern Wildcats,NU,New Orleans Privateers,UNO,82,52,134,30,Welsh-Ryan Arena,False
+401082391,2018-11-09,Iowa Hawkeyes,IOWA,Kansas City Roos,KC,77,63,140,14,Carver-Hawkeye Arena,False
+401082333,2018-11-09,Illinois Fighting Illini,ILL,Evansville Purple Aces,EVAN,99,60,159,39,State Farm Center,False
+401086604,2018-11-09,Utah Utes,UTAH,Maine Black Bears,ME,75,61,136,14,Jon M. Huntsman Center,False
+401086072,2018-11-09,Seattle U Redhawks,SEA,Puget Sound Loggers,PUG,95,67,162,28,Redhawk Center,False
+401083123,2018-11-10,Kentucky Wildcats,UK,Southern Illinois Salukis,SIU,71,59,130,12,Rupp Arena,False
+401083652,2018-11-10,Nevada Wolf Pack,NEV,Pacific Tigers,PAC,83,61,144,22,Lawlor Events Center,False
+401082854,2018-11-10,Elon Phoenix,ELON,North Carolina Tar Heels,UNC,67,116,183,-49,Alumni Gym (Elon University),False
+401083164,2018-11-10,Auburn Tigers,AUB,Washington Huskies,WASH,88,66,154,22,Neville Arena,False
+401083454,2018-11-10,West Virginia Mountaineers,WVU,Buffalo Bulls,BUF,94,99,193,-5,WVU Coliseum,False
+401082740,2018-11-10,Virginia Tech Hokies,VT,Gardner-Webb Runnin' Bulldogs,GWEB,87,59,146,28,Cassell Coliseum,False
+401083063,2018-11-10,Mississippi State Bulldogs,MSST,Austin Peay Governors,APSU,95,67,162,28,Humphrey Coliseum,False
+401087148,2018-11-10,UCLA Bruins,UCLA,Long Beach State Beach,LBSU,91,80,171,11,Pauley Pavilion,False
+401082643,2018-11-10,Clemson Tigers,CLEM,North Carolina Central Eagles,NCCU,71,51,122,20,Littlejohn Coliseum,False
+401083105,2018-11-10,LSU Tigers,LSU,UNC Greensboro Spartans,UNCG,97,91,188,6,Pete Maravich Assembly Center,False
+401083351,2018-11-11,Villanova Wildcats,VILL,Quinnipiac Bobcats,QUIN,86,53,139,33,Xfinity Mobile Arena,False
+401082670,2018-11-11,Duke Blue Devils,DUKE,Army Black Knights,ARMY,94,72,166,22,Cameron Indoor Stadium,False
+401082763,2018-11-11,Virginia Cavaliers,UVA,George Washington Revolutionaries,GW,76,57,133,19,John Paul Jones Arena,False
+401082471,2018-11-11,Michigan State Spartans,MSU,Florida Gulf Coast Eagles,FGCU,106,82,188,24,Breslin Center,False
+401082696,2018-11-12,Tulane Green Wave,TULN,Florida State Seminoles,FSU,69,80,149,-11,Devlin Fieldhouse,False
+401083510,2018-11-11,TCU Horned Frogs,TCU,Oral Roberts Golden Eagles,ORU,79,62,141,17,Schollmaier Arena,False
+401082855,2018-11-13,North Carolina Tar Heels,UNC,Stanford Cardinal,STAN,90,72,162,18,Dean E. Smith Center,False
+401083427,2018-11-13,Kansas State Wildcats,KSU,Denver Pioneers,DEN,64,56,120,8,Bramlage Coliseum,False
+401089169,2018-11-13,Southern Illinois Salukis,SIU,Buffalo Bulls,BUF,53,62,115,-9,Banterra Center,False
+401082896,2018-11-14,Tennessee Volunteers,TENN,Georgia Tech Yellow Jackets,GT,66,53,119,13,Food City Center,False
+401082671,2018-11-15,Duke Blue Devils,DUKE,Eastern Michigan Eagles,EMU,84,46,130,38,Cameron Indoor Stadium,False
+401083165,2018-11-15,Auburn Tigers,AUB,Mississippi College Choctaws,MSCO,103,52,155,51,Neville Arena,False
+401083629,2018-11-16,Gonzaga Bulldogs,GONZ,Texas A&M Aggies,TA&M,94,71,165,23,McCarthey Athletic Center,False
+401083511,2018-11-16,TCU Horned Frogs,TCU,Fresno State Bulldogs,FRES,77,69,146,8,Schollmaier Arena,False
+401083548,2018-11-17,Kansas Jayhawks,KU,Louisiana Ragin' Cajuns,UL,89,76,165,13,Allen Fieldhouse,False
+401083107,2018-11-17,LSU Tigers,LSU,Louisiana Tech Bulldogs,LT,74,67,141,7,Pete Maravich Assembly Center,False
+401083246,2018-11-17,Marquette Golden Eagles,MARQ,Presbyterian Blue Hose,PRES,74,55,129,19,Fiserv Forum,False
+401096896,2018-11-18,Valparaiso Beacons,VAL,Wake Forest Demon Deacons,WAKE,63,69,132,-6,The HTC Center,True
+401100013,2018-11-18,North Dakota State Bison,NDSU,Towson Tigers,TOW,76,51,127,25,Kendal Isaacs Gymnasium,True
+401096968,2018-11-18,Holy Cross Crusaders,HC,Siena Saints,SIE,57,45,102,12,Mohegan Sun Arena,True
+401096904,2018-11-18,App State Mountaineers,APP,Ball State Cardinals,BALL,86,94,180,-8,TD Arena,True
+401087358,2018-11-18,Florida International Panthers,FIU,Youngstown State Penguins,YSU,102,93,195,9,Rose Hill Gym,True
+401083271,2018-11-18,Georgetown Hoyas,GTWN,South Florida Bulls,USF,76,73,149,3,Montego Bay Convention Centre,True
+401096899,2018-11-18,Monmouth Hawks,MONM,Cal State Fullerton Titans,CSUF,63,87,150,-24,The HTC Center,True
+401088533,2018-11-18,Evansville Purple Aces,EVAN,Texas Southern Tigers,TXSO,85,63,148,22,Ford Center,False
+401087311,2018-11-18,UT Arlington Mavericks,UTA,UC Davis Aggies,UCD,68,59,127,9,College Park Center,False
+401096969,2018-11-18,Providence Friars,PROV,Michigan Wolverines,MICH,47,66,113,-19,Mohegan Sun Arena,True
+401096905,2018-11-18,Wichita State Shockers,WICH,Alabama Crimson Tide,ALA,86,90,176,-4,TD Arena,True
+401086625,2018-11-18,Sacred Heart Pioneers,SHU,UMass Lowell River Hawks,UML,90,94,184,-4,Pizzitola Sports Center,True
+401100014,2018-11-18,Incarnate Word Cardinals,UIW,Florida Atlantic Owls,FAU,68,71,139,-3,Kendal Isaacs Gymnasium,True
+401090382,2018-11-18,North Carolina Central Eagles,NCCU,Warren Wilson Owls,WNWL,123,57,180,66,McDougald-McLendon Arena,False
+401088412,2018-11-18,Navy Midshipmen,NAVY,Bryant Bulldogs,BRY,83,79,162,4,Alumni Hall (Navy),False
+401087789,2018-11-18,Lafayette Leopards,LAF,St. Francis Brooklyn Terriers,SFBK,72,84,156,-12,Kirby Sports Center,False
+401084024,2018-11-18,UNC Wilmington Seahawks,UNCW,Allen University Yellow Jackets,ALNU,113,74,187,39,Trask Coliseum,False
+401083911,2018-11-18,Delaware Blue Hens,DEL,Wilmington (DE) Wildcats,WILMDE,70,40,110,30,Bob Carpenter Center,False
+401083540,2018-11-18,Oklahoma Sooners,OU,Wofford Terriers,WOF,75,64,139,11,Lloyd Noble Center,False
+401082550,2018-11-18,Ohio State Buckeyes,OSU,South Carolina State Bulldogs,SCST,89,61,150,28,Value City Arena,False
+401088222,2018-11-18,Austin Peay Governors,APSU,Campbell Fighting Camels,CAM,72,78,150,-6,Montego Bay Convention Centre,True
+401089642,2018-11-18,Troy Trojans,TROY,Central Arkansas Bears,CARK,82,77,159,5,Trojan Arena,False
+401099939,2018-11-18,South Dakota Coyotes,SDAK,Air Force Falcons,AF,62,65,127,-3,Gateway Christian Academy,True
+401085952,2018-11-18,Manhattan Jaspers,MAN,UNC Asheville Bulldogs,UNCA,54,38,92,16,Truist Arena,True
+401082365,2018-11-18,Arkansas Razorbacks,ARK,Indiana Hoosiers,IU,73,72,145,1,Bud Walton Arena,False
+401096970,2018-11-18,South Carolina Gamecocks,SC,George Washington Revolutionaries,GW,90,55,145,35,Mohegan Sun Arena,True
+401096898,2018-11-18,West Virginia Mountaineers,WVU,Saint Joseph's Hawks,JOES,97,90,187,7,The HTC Center,True
+401088927,2018-11-18,Kent State Golden Flashes,KENT,Alcorn State Braves,ALCN,79,48,127,31,M.A.C. Center,False
+401087877,2018-11-18,Brown Bears,BRWN,Army Black Knights,ARMY,86,66,152,20,Pizzitola Sports Center,False
+401086090,2018-11-18,Seattle U Redhawks,SEA,Southern Utah Thunderbirds,SUU,70,73,143,-3,Redhawk Center,False
+401083528,2018-11-18,Oklahoma State Cowboys,OKST,Charleston Cougars,COFC,70,58,128,12,Gallagher-Iba Arena,False
+401082422,2018-11-18,Maryland Terrapins,MD,Mount St. Mary's Mountaineers,MSM,92,77,169,15,XFINITY Center,False
+401086681,2018-11-18,Chattanooga Mocs,UTC,Jacksonville Dolphins,JAX,66,74,140,-8,Mitchell Center,True
+401100015,2018-11-18,Miami (OH) RedHawks,M-OH,Pepperdine Waves,PEPP,80,86,166,-6,Kendal Isaacs Gymnasium,True
+401090244,2018-11-18,UAB Blazers,UAB,West Alabama Tigers,UWA,77,47,124,30,Bartow Arena,False
+401088468,2018-11-18,Cleveland State Vikings,CLE,Samford Bulldogs,SAM,60,73,133,-13,Wolstein Center,False
+401086284,2018-11-18,Fordham Rams,FOR,Columbia Lions,COLU,70,69,139,1,Rose Hill Gym,False
+401086826,2018-11-18,Idaho Vandals,IDHO,Bethesda University Flames,BTHS,87,59,146,28,Memorial Gymnasium (ID),False
+401099935,2018-11-18,Missouri Tigers,MIZ,Oregon State Beavers,ORST,69,63,132,6,UVI Sports & Fitness Center,True
+401099940,2018-11-18,San José State Spartans,SJSU,Central Michigan Chippewas,CMU,74,76,150,-2,Gateway Christian Academy,True
+401096907,2018-11-18,Davidson Wildcats,DAV,Northeastern Huskies,NE,71,59,130,12,TD Arena,True
+401083125,2018-11-18,Kentucky Wildcats,UK,VMI Keydets,VMI,92,82,174,10,Rupp Arena,False
+401082473,2018-11-18,Michigan State Spartans,MSU,Tennessee Tech Golden Eagles,TNTC,101,33,134,68,Breslin Center,False
+401096897,2018-11-18,Western Kentucky Hilltoppers,WKU,UCF Knights,UCF,62,78,140,-16,The HTC Center,True
+401089932,2018-11-18,Northern Kentucky Norse,NKU,Coastal Carolina Chanticleers,CCU,89,83,172,6,Truist Arena,False
+401087397,2018-11-18,Loyola Marymount Lions,LMU,Ohio Bobcats,OHIO,65,56,121,9,Montego Bay Convention Centre,True
+401099936,2018-11-19,Kansas State Wildcats,KSU,Pennsylvania Quakers,PENN,64,48,112,16,UVI Sports & Fitness Center,True
+401100016,2018-11-19,Montana Grizzlies,MONT,Georgia Southern Eagles,GASO,77,80,157,-3,Kendal Isaacs Gymnasium,True
+401083766,2018-11-19,Washington Huskies,WASH,Santa Clara Broncos,SCU,82,68,150,14,Vancouver Convention Centre,True
+401083749,2018-11-19,San Francisco Dons,SF,LIU Brooklyn Liu Brooklyn,,84,52,136,32,The Kelp Bed,False
+401099941,2018-11-19,Cal State Bakersfield Roadrunners,CSUB,Weber State Wildcats,WEB,68,67,135,1,Gateway Christian Academy,True
+401096906,2018-11-19,Purdue Boilermakers,PUR,Virginia Tech Hokies,VT,83,89,172,-6,TD Arena,True
+401087474,2018-11-19,Florida A&M Rattlers,FAMU,Central Connecticut Blue Devils,CCSU,75,89,164,-14,Montego Bay Convention Centre,True
+401086827,2018-11-19,Hawai'i Rainbow Warriors,HAW,Northern Arizona Lumberjacks,NAU,85,68,153,17,Stan Sheriff Center,False
+401082494,2018-11-19,Texas A&M Aggies,TA&M,Minnesota Golden Gophers,MINN,64,69,133,-5,Vancouver Convention Centre,True
+401084683,2018-11-19,South Dakota State Jackrabbits,SDST,Tulane Green Wave,TULN,80,84,164,-4,Hertz Arena,True
+401082645,2018-11-19,Clemson Tigers,CLEM,Akron Zips,AKR,72,69,141,3,John Gray Gymnasium,True
+401099994,2018-11-19,Eastern Kentucky Colonels,EKU,Kennesaw State Owls,KENN,100,81,181,19,UVI Sports & Fitness Center,True
+401087806,2018-11-19,UC Irvine Anteaters,UCI,UTSA Roadrunners,UTSA,65,56,121,9,Hertz Arena,True
+401083142,2018-11-19,Illinois State Redbirds,ILST,Georgia Bulldogs,UGA,68,80,148,-12,John Gray Gymnasium,True
+401090413,2018-11-19,Hartford Hawks,HART,Utah Valley Wolverines,UVU,65,72,137,-7,Cox Pavilion,True
+401083166,2018-11-19,Xavier Musketeers,XAV,Auburn Tigers,AUB,79,88,167,-9,Lahaina Civic Center,True
+401099993,2018-11-19,Northern Iowa Panthers,UNI,Old Dominion Monarchs,ODU,54,53,107,1,UVI Sports & Fitness Center,True
+401089208,2018-11-19,Sam Houston Bearkats,SHSU,Jackson State Tigers,JKST,75,60,135,15,Freedom Hall (TN),True
+401088225,2018-11-19,Bowling Green Falcons,BGSU,Hampton Pirates,HAMP,81,79,160,2,Calihan Hall,True
+401088001,2018-11-19,Louisiana Ragin' Cajuns,UL,Colorado State Rams,CSU,91,73,164,18,Hertz Arena,True
+401085927,2018-11-19,Iona Gaels,IONA,Long Beach State Beach,LBSU,85,86,171,-1,Cox Pavilion,True
+401085720,2018-11-19,Georgia State Panthers,GAST,St. Bonaventure Bonnies,SBU,75,65,140,10,John Gray Gymnasium,True
+401082672,2018-11-19,San Diego State Aztecs,SDSU,Duke Blue Devils,DUKE,64,90,154,-26,Lahaina Civic Center,True
+401100056,2018-11-19,Pennsylvania Quakers,PENN,Oregon State Beavers,ORST,58,74,132,-16,UVI Sports & Fitness Center,True
+401100033,2018-11-19,Air Force Falcons,AF,High Point Panthers,HPU,62,69,131,-7,Gateway Christian Academy,True
+401085656,2018-11-19,Loyola Chicago Ramblers,LUC,Richmond Spiders,RICH,82,66,148,16,Suncoast Credit Union Arena,True
+401090338,2018-11-20,Delaware State Hornets,DSU,St. Elizabeth Eagles,STE,80,47,127,33,Memorial Hall (DE),False
+401089944,2018-11-20,Oakland Golden Grizzlies,OAK,Defiance Yellow Jackets,DFC,91,47,138,44,OU Credit Union O'rena,False
+401088866,2018-11-20,East Tennessee State Buccaneers,ETSU,Chicago State Cougars,CHST,86,61,147,25,Freedom Hall (TN),False
+401088588,2018-11-20,UNC Greensboro Spartans,UNCG,Prairie View A&M Panthers,PV,74,66,140,8,First Horizon Coliseum,False
+401088184,2018-11-20,Marshall Thundering Herd,MRSH,North Carolina A&T Aggies,NCAT,95,71,166,24,Cam Henderson Center,False
+401087438,2018-11-20,Cincinnati Bearcats,CIN,Western Michigan Broncos,WMU,78,52,130,26,Fifth Third Arena,False
+401087319,2018-11-20,Charlotte 49ers,CLT,Longwood Lancers,LONG,42,39,81,3,Halton Arena,False
+401086798,2018-11-20,Stetson Hatters,STET,Robert Morris Colonials,RMU,72,81,153,-9,Edmunds Center,False
+401086539,2018-11-20,Colgate Raiders,COLG,Binghamton Bearcats,BING,76,68,144,8,Cotterell Court,False
+401086514,2018-11-20,UAlbany Great Danes,UALB,SUNY-Oneonta Red Dragons,SUNO,79,62,141,17,Broadview Center,False
+401086333,2018-11-20,Massachusetts Minutemen,MASS,Arkansas-Pine Bluff Golden Lions,UAPB,92,60,152,32,Mullins Center,False
+401086027,2018-11-20,Rider Broncs,RID,Coppin State Eagles,COPP,87,67,154,20,Alumni Gymnasium (Rider),False
+401084684,2018-11-20,East Carolina Pirates,ECU,UT Rio Grande Valley Vaqueros,RGV,69,64,133,5,Minges Coliseum,False
+401082697,2018-11-20,Florida State Seminoles,FSU,Canisius Golden Griffins,CAN,93,61,154,32,Tucker Center,False
+401082594,2018-11-20,Rutgers Scarlet Knights,RUTG,Eastern Michigan Eagles,EMU,63,36,99,27,Jersey Mike’s Arena,False
+401082515,2018-11-20,Nebraska Cornhuskers,NEB,Missouri State Bears,MOST,85,62,147,23,T-Mobile Center,True
+401083339,2018-11-20,California Golden Bears,CAL,St. John's Red Storm,SJU,79,82,161,-3,Barclays Center,True
+401100055,2018-11-20,Kansas State Wildcats,KSU,Missouri Tigers,MIZ,82,67,149,15,UVI Sports & Fitness Center,True
+401088490,2018-11-20,Detroit Mercy Titans,DETM,Loyola Maryland Greyhounds,L-MD,91,63,154,28,Calihan Hall,False
+401088224,2018-11-20,Charleston Southern Buccaneers,CHSO,Trinity College of Jacksonville Eagles,TCJ,98,49,147,49,Buccaneer Fieldhouse,False
+401086655,2018-11-20,Toledo Rockets,TOL,Florida Gulf Coast Eagles,FGCU,90,62,152,28,Hertz Arena,True
+401083221,2018-11-20,Creighton Bluejays,CREI,Boise State Broncos,BOIS,94,82,176,12,John Gray Gymnasium,True
+401089490,2018-11-20,Lamar Cardinals,LAM,Arlington Baptist Patriots,ABU,105,40,145,65,Montagne Center,False
+401089398,2018-11-20,Oral Roberts Golden Eagles,ORU,Ecclesia Royals,ECCL,109,72,181,37,Mabee Center,False
+401089214,2018-11-20,Southern Illinois Salukis,SIU,Howard Bison,HOW,83,69,152,14,Banterra Center,False
+401087960,2018-11-20,South Alabama Jaguars,USA,Southeast Missouri State Redhawks,SEMO,79,58,137,21,Mitchell Center,False
+401084686,2018-11-20,Tulsa Golden Hurricane,TLSA,Little Rock Trojans,LR,88,78,166,10,Reynolds Center,False
+401084685,2018-11-20,Houston Cougars,HOU,Northwestern State Demons,NWST,82,55,137,27,H&PE Arena,False
+401082921,2018-11-20,Vanderbilt Commodores,VAN,Liberty Flames,LIB,79,70,149,9,Memorial Gymnasium (TN),False
+401082857,2018-11-20,North Carolina Tar Heels,UNC,Saint Francis Red Flash,SFPA,101,76,177,25,Dean E. Smith Center,False
+401100034,2018-11-20,South Dakota Coyotes,SDAK,UMBC Retrievers,UMBC,58,52,110,6,Gateway Christian Academy,True
+401083728,2018-11-20,Utah State Aggies,USU,Saint Mary's Gaels,SMC,80,63,143,17,T-Mobile Arena,True
+401090293,2018-11-20,UTEP Miners,UTEP,E. New Mexico Greyhounds,ENMU,66,59,125,7,Don Haskins Center,False
+401085296,2018-11-20,Washington State Cougars,WSU,Cal Poly Mustangs,CP,84,70,154,14,Beasley Coliseum,False
+401083404,2018-11-20,Iowa State Cyclones,ISU,Arizona Wildcats,ARIZ,66,71,137,-5,Lahaina Civic Center,True
+401082616,2018-11-20,Boston College Eagles,BC,Wyoming Cowboys,WYO,88,76,164,12,Suncoast Credit Union Arena,True
+401086828,2018-11-20,Idaho State Bengals,IDST,Bethesda University Flames,BTHS,115,60,175,55,Reed Gym,False
+401084687,2018-11-20,VCU Rams,VCU,Temple Owls,TEM,57,51,108,6,Barclays Center,True
+401083477,2018-11-20,Texas Tech Red Raiders,TTU,USC Trojans,USC,78,63,141,15,T-Mobile Center,True
+401086091,2018-11-20,Nevada Wolf Pack,NEV,California Baptist Lancers,CBU,90,55,145,35,Lawlor Events Center,False
+401083705,2018-11-20,Portland Pilots,PORT,Lewis & Clark Pioneers,LC,77,57,134,20,Chiles Center,False
+401087150,2018-11-20,UCLA Bruins,UCLA,Presbyterian Blue Hose,PRES,80,65,145,15,Pauley Pavilion,False
+401083066,2018-11-20,Arizona State Sun Devils,ASU,Mississippi State Bulldogs,MSST,72,67,139,5,T-Mobile Arena,True
+401082335,2018-11-20,Illinois Fighting Illini,ILL,Gonzaga Bulldogs,GONZ,78,84,162,-6,Lahaina Civic Center,True
+401083512,2018-11-21,TCU Horned Frogs,TCU,Lipscomb Bisons,LIP,64,73,137,-9,Schollmaier Arena,False
+401082394,2018-11-22,Iowa Hawkeyes,IOWA,Alabama State Hornets,ALST,105,78,183,27,Carver-Hawkeye Arena,False
+401088051,2018-11-22,Buffalo Bulls,BUF,Dartmouth Big Green,DART,110,71,181,39,Alumni Arena,False
+401096928,2018-11-22,Oklahoma Sooners,OU,Wisconsin Badgers,WIS,58,78,136,-20,Imperial Arena,True
+401089216,2018-11-22,Massachusetts Minutemen,MASS,Southern Illinois Salukis,SIU,84,62,146,22,Orleans Arena,True
+401083353,2018-11-22,Canisius Golden Griffins,CAN,Villanova Wildcats,VILL,56,83,139,-27,HP Field House,True
+401082876,2018-11-22,Miami Hurricanes,MIA,La Salle Explorers,LAS,85,49,134,36,Titan Gym,True
+401083656,2018-11-22,Pacific Tigers,PAC,UC Riverside Highlanders,UCR,74,54,128,20,Alex G. Spanos Center,False
+401084691,2018-11-22,Nevada Wolf Pack,NEV,Tulsa Golden Hurricane,TLSA,96,86,182,10,Orleans Arena,True
+401083529,2018-11-22,Memphis Tigers,MEM,Oklahoma State Cowboys,OKST,64,84,148,-20,HP Field House,True
+401096929,2018-11-22,Dayton Flyers,DAY,Virginia Cavaliers,UVA,59,66,125,-7,Imperial Arena,True
+401082533,2018-11-22,Fresno State Bulldogs,FRES,Northwestern Wildcats,NU,78,59,137,19,Titan Gym,True
+401085896,2018-11-22,Abilene Christian Wildcats,ACU,Elon Phoenix,ELON,72,56,128,16,Alex G. Spanos Center,True
+401096933,2018-11-23,Florida Gators,FLA,Stanford Cardinal,STAN,72,49,121,23,Imperial Arena,True
+401083108,2018-11-23,LSU Tigers,LSU,Charleston Cougars,COFC,67,55,122,12,HP Field House,True
+401082858,2018-11-23,North Carolina Tar Heels,UNC,Texas Longhorns,TEX,89,92,181,-3,Orleans Arena,True
+401083328,2018-11-23,Grand Canyon Lopes,GCU,Seton Hall Pirates,HALL,75,82,157,-7,Titan Gym,True
+401096934,2018-11-23,Butler Bulldogs,BUT,Middle Tennessee Blue Raiders,MTSU,84,53,137,31,Imperial Arena,True
+401082698,2018-11-23,Florida State Seminoles,FSU,UAB Blazers,UAB,81,63,144,18,HP Field House,True
+401082474,2018-11-23,UCLA Bruins,UCLA,Michigan State Spartans,MSU,67,87,154,-20,Orleans Arena,True
+401087170,2018-11-23,Utah Utes,UTAH,Hawai'i Rainbow Warriors,HAW,79,90,169,-11,Titan Gym,True
+401082450,2018-11-23,Michigan Wolverines,MICH,Chattanooga Mocs,UTC,83,55,138,28,Crisler Center,False
+401082583,2018-11-23,Purdue Boilermakers,PUR,Robert Morris Colonials,RMU,84,46,130,38,Mackey Arena,False
+401083429,2018-11-24,Kansas State Wildcats,KSU,Lehigh Mountain Hawks,LEH,77,58,135,19,Bramlage Coliseum,False
+401082742,2018-11-24,Virginia Tech Hokies,VT,Saint Francis Red Flash,SFPA,75,37,112,38,Cassell Coliseum,False
+401096915,2018-11-25,UAB Blazers,UAB,Canisius Golden Griffins,CAN,68,58,126,10,HP Field House,True
+401083965,2018-11-25,Oral Roberts Golden Eagles,ORU,James Madison Dukes,JMU,78,69,147,9,OU Credit Union O'rena,True
+401096913,2018-11-25,Florida State Seminoles,FSU,Villanova Wildcats,VILL,60,66,126,-6,HP Field House,True
+401089352,2018-11-25,Morgan State Bears,MORG,Mount St. Mary's Mountaineers,MSM,78,68,146,10,Hill Field House,False
+401088511,2018-11-25,Central Michigan Chippewas,CMU,Siena Heights Saints,SHTU,103,75,178,28,McGuirk Arena,False
+401085623,2018-11-25,Duquesne Dukes,DUQ,UMass Lowell River Hawks,UML,83,71,154,12,UPMC Cooper Fieldhouse,False
+401084027,2018-11-25,UNC Wilmington Seahawks,UNCW,Eastern Illinois Panthers,EIU,82,65,147,17,Harrah's Cherokee Center,True
+401096878,2018-11-25,Utah Utes,UTAH,Northwestern Wildcats,NU,57,79,136,-22,Titan Gym,True
+401087924,2018-11-25,Columbia Lions,COLU,St. Joseph's (NY) Bears,SJBK,85,38,123,47,Levien Gymnasium,False
+401087313,2018-11-25,Vermont Catamounts,UVM,Bucknell Bison,BUCK,61,69,130,-8,Patrick Gymnasium,False
+401086708,2018-11-25,Liberty Flames,LIB,Savannah State Tigers,SAV,82,56,138,26,Vines Convocation Center,False
+401086285,2018-11-25,Fordham Rams,FOR,Alabama A&M Bulldogs,AAMU,77,46,123,31,Rose Hill Gym,False
+401085755,2018-11-25,Quinnipiac Bobcats,QUIN,Maine Black Bears,ME,58,50,108,8,M&T Bank Arena,False
+401082336,2018-11-25,Illinois Fighting Illini,ILL,Mississippi Valley State Delta Devils,MVSU,86,67,153,19,State Farm Center,False
+401086730,2018-11-25,Morehead State Eagles,MORE,Lipscomb Bisons,LIP,55,87,142,-32,Ellis T. Johnson Arena,False
+401090272,2018-11-25,Southern Miss Golden Eagles,USM,William Carey Crusaders,WILC,72,78,150,-6,Reed Green Coliseum,False
+401089627,2018-11-25,SIU Edwardsville Cougars,SIUE,Incarnate Word Cardinals,UIW,80,68,148,12,First Community Arena,False
+401089014,2018-11-25,Fairfield Stags,FAIR,Denver Pioneers,DEN,86,85,171,1,Redhawk Center,True
+401088447,2018-11-25,Fairleigh Dickinson Knights,FDU,Lafayette Leopards,LAF,76,80,156,-4,Bogota Savings Bank Center,False
+401087377,2018-11-25,Oakland Golden Grizzlies,OAK,Northern Illinois Huskies,NIU,72,92,164,-20,OU Credit Union O'rena,False
+401086656,2018-11-25,Florida Atlantic Owls,FAU,Florida Gulf Coast Eagles,FGCU,85,68,153,17,Eleanor R. Baldwin Arena,False
+401084696,2018-11-25,Wichita State Shockers,WICH,Rice Owls,RICE,90,61,151,29,Charles Koch Arena,False
+401083938,2018-11-25,Bowling Green Falcons,BGSU,Drexel Dragons,DREX,81,71,152,10,Stroh Center,False
+401088154,2018-11-25,Gardner-Webb Runnin' Bulldogs,GWEB,Arkansas State Red Wolves,ARST,69,77,146,-8,Harrah's Cherokee Center,True
+401096914,2018-11-25,LSU Tigers,LSU,Oklahoma State Cowboys,OKST,77,90,167,-13,HP Field House,True
+401096880,2018-11-25,Hawai'i Rainbow Warriors,HAW,Fresno State Bulldogs,FRES,64,79,143,-15,Titan Gym,True
+401088231,2018-11-25,UNC Asheville Bulldogs,UNCA,Furman Paladins,FUR,51,65,116,-14,Kimmel Arena,False
+401087476,2018-11-25,Central Connecticut Blue Devils,CCSU,Pine Manor,PINE ,88,59,147,29,Detrick Gymnasium,False
+401088469,2018-11-25,Cleveland State Vikings,CLE,Purdue Fort Wayne Mastodons,PFW,79,82,161,-3,Wolstein Center,False
+401087122,2018-11-25,Long Beach State Beach,LBSU,Oregon State Beavers,ORST,72,75,147,-3,Walter Pyramid,False
+401089138,2018-11-25,Stephen F. Austin Lumberjacks,SFA,St. Edward's Hilltoppers,STEDW,73,60,133,13,William R. Johnson Coliseum,False
+401087879,2018-11-25,Brown Bears,BRWN,Bryant Bulldogs,BRY,84,60,144,24,Pizzitola Sports Center,False
+401086102,2018-11-25,Seattle U Redhawks,SEA,Longwood Lancers,LONG,70,50,120,20,Redhawk Center,False
+401085874,2018-11-25,Towson Tigers,TOW,Loyola Maryland Greyhounds,L-MD,85,69,154,16,SECU Arena,False
+401085657,2018-11-25,Richmond Spiders,RICH,Hampton Pirates,HAMP,66,86,152,-20,Robins Center,False
+401096912,2018-11-25,Charleston Cougars,COFC,Memphis Tigers,MEM,78,75,153,3,HP Field House,True
+401086101,2018-11-26,USC Trojans,USC,Cal State Bakersfield Roadrunners,CSUB,90,75,165,15,Galen Center,False
+401088796,2018-11-26,Samford Bulldogs,SAM,South Carolina State Bulldogs,SCST,77,60,137,17,Pete Hanna Center,False
+401096881,2018-11-26,Grand Canyon Lopes,GCU,La Salle Explorers,LAS,82,70,152,12,Titan Gym,True
+401096879,2018-11-26,Seton Hall Pirates,HALL,Miami Hurricanes,MIA,83,81,164,2,Titan Gym,True
+401083630,2018-11-27,Gonzaga Bulldogs,GONZ,North Dakota State Bison,NDSU,102,60,162,42,McCarthey Athletic Center,False
+401087101,2018-11-27,Oregon Ducks,ORE,Texas Southern Tigers,TXSO,84,89,173,-5,Matthew Knight Arena,False
+401083067,2018-11-27,Mississippi State Bulldogs,MSST,Alcorn State Braves,ALCN,88,65,153,23,Humphrey Coliseum,False
+401089360,2018-11-27,Saint Francis Red Flash,SFPA,Bloomsburg Huskies,BBU,113,59,172,54,DeGol Arena,False
+401086565,2018-11-27,Sacred Heart Pioneers,SHU,Hartford Hawks,HART,98,89,187,9,William H. Pitt Center,False
+401083340,2018-11-27,St. John's Red Storm,SJU,Maryland Eastern Shore Hawks,UMES,85,64,149,21,Carnesecca Arena,False
+401094353,2018-11-28,Southern Jaguars,SOU,Wiley Wildcats,WILEY,74,65,139,9,F.G. Clark Activity Center,False
+401089950,2018-11-28,Wright State Raiders,WRST,Cedarville Yellow Jackets,CDVL,58,39,97,19,Nutter Center,False
+401089691,2018-11-28,Abilene Christian Wildcats,ACU,Howard Payne Yellow Jackets,HWPU,90,53,143,37,Moody Coliseum (Abilene),False
+401088983,2018-11-28,Cincinnati Bearcats,CIN,Arkansas-Pine Bluff Golden Lions,UAPB,105,49,154,56,Fifth Third Arena,False
+401088900,2018-11-28,UNC Greensboro Spartans,UNCG,Greensboro College Pride,GRNB,111,33,144,78,First Horizon Coliseum,False
+401088893,2018-11-28,Mercer Bears,MER,Brewton-Parker Wildcats,BREW,90,65,155,25,Hawkins Arena,False
+401088770,2018-11-28,Chattanooga Mocs,UTC,Hiwassee Tigers,HIWAS,95,62,157,33,McKenzie Arena,False
+401088233,2018-11-28,The Citadel Bulldogs,CIT,High Point Panthers,HPU,112,87,199,25,McAlister Field House,False
+401088037,2018-11-28,Georgia Southern Eagles,GASO,East Tennessee State Buccaneers,ETSU,64,69,133,-5,Hanner Fieldhouse,False
+401087845,2018-11-28,VMI Keydets,VMI,American University Eagles,AMER,64,74,138,-10,Cameron Hall,False
+401087292,2018-11-28,Norfolk State Spartans,NORF,Stony Brook Seawolves,STBK,73,79,152,-6,Joseph G. Echols Hall,False
+401086236,2018-11-28,Ball State Cardinals,BALL,Tiffin Dragons,TIF,108,62,170,46,Worthen Arena,False
+401085928,2018-11-28,Ohio Bobcats,OHIO,Iona Gaels,IONA,89,65,154,24,Convocation Center (OH),False
+401085898,2018-11-28,Elon Phoenix,ELON,Central Penn Knights,CPC,92,59,151,33,Schar Center,False
+401085575,2018-11-28,Davidson Wildcats,DAV,Charlotte 49ers,CLT,76,56,132,20,John M. Belk Arena,False
+401084617,2018-11-28,UConn Huskies,CONN,UMass Lowell River Hawks,UML,97,75,172,22,Gampel Pavilion,False
+401084028,2018-11-28,UNC Wilmington Seahawks,UNCW,East Carolina Pirates,ECU,95,86,181,9,Trask Coliseum,False
+401083157,2018-11-28,Florida Gators,FLA,North Florida Ospreys,UNF,98,66,164,32,Stephen C. O'Connell Center,False
+401083143,2018-11-28,Georgia Bulldogs,UGA,Kennesaw State Owls,KENN,84,51,135,33,Stegeman Coliseum,False
+401082721,2018-11-28,Wake Forest Demon Deacons,WAKE,Western Carolina Catamounts,WCU,71,64,135,7,LJVM Coliseum,False
+401082568,2018-11-28,Penn State Nittany Lions,PSU,Virginia Tech Hokies,VT,63,62,125,1,Bryce Jordan Center,False
+401082337,2018-11-28,Notre Dame Fighting Irish,ND,Illinois Fighting Illini,ILL,76,74,150,2,Purcell Pavilion,False
+401090202,2018-11-28,Southeast Missouri State Redhawks,SEMO,Missouri S&T Miners,MS&T,72,69,141,3,Show Me Center,False
+401088421,2018-11-28,Delaware State Hornets,DSU,Pennsylvania Quakers,PENN,48,76,124,-28,Memorial Hall (DE),False
+401087983,2018-11-28,Northwestern State Demons,NWST,UL Monroe Warhawks,ULM,52,80,132,-28,Prather Coliseum,False
+401082475,2018-11-28,Louisville Cardinals,LOU,Michigan State Spartans,MSU,82,78,160,4,KFC Yum! Center,False
+401089933,2018-11-28,Morehead State Eagles,MORE,Northern Kentucky Norse,NKU,71,93,164,-22,Ellis T. Johnson Arena,False
+401089220,2018-11-28,Loyola Chicago Ramblers,LUC,Nevada Wolf Pack,NEV,65,79,144,-14,Gentile Arena,False
+401089219,2018-11-28,Drake Bulldogs,DRKE,Boise State Broncos,BOIS,83,74,157,9,Knapp Center,False
+401084698,2018-11-28,Tulsa Golden Hurricane,TLSA,UT Arlington Mavericks,UTA,72,58,130,14,Reynolds Center,False
+401084697,2018-11-28,SMU Mustangs,SMU,Lamar Cardinals,LAM,79,65,144,14,Moody Coliseum (Dallas),False
+401083541,2018-11-28,Oklahoma Sooners,OU,North Texas Mean Green,UNT,73,57,130,16,Lloyd Noble Center,False
+401083378,2018-11-28,Baylor Bears,BAY,South Dakota Coyotes,SDAK,63,57,120,6,Ferrell Center,False
+401083248,2018-11-28,Marquette Golden Eagles,MARQ,Charleston Southern Buccaneers,CHSO,76,55,131,21,Fiserv Forum,False
+401082923,2018-11-28,Vanderbilt Commodores,VAN,Savannah State Tigers,SAV,120,85,205,35,Memorial Gymnasium (TN),False
+401083312,2018-11-28,Providence Friars,PROV,Fairleigh Dickinson Knights,FDU,69,59,128,10,Amica Mutual Pavilion,False
+401089221,2018-11-28,Colorado State Rams,CSU,Southern Illinois Salukis,SIU,67,82,149,-15,Moby Arena,False
+401086839,2018-11-28,Weber State Wildcats,WEB,Benedictine (AZ) Redhawks,BENU,100,61,161,39,Dee Events Center,False
+401086838,2018-11-28,Montana State Bobcats,MTST,North Dakota Fighting Hawks,UND,81,76,157,5,Worthington Arena,False
+401086836,2018-11-28,Washington Huskies,WASH,Eastern Washington Eagles,EWU,83,59,142,24,Alaska Airlines Arena,False
+401083047,2018-11-28,Missouri Tigers,MIZ,Temple Owls,TEM,77,79,156,-2,Mizzou Arena,False
+401082606,2018-11-28,Wisconsin Badgers,WIS,NC State Wolfpack,NCSU,79,75,154,4,Kohl Center,False
+401082395,2018-11-28,Iowa Hawkeyes,IOWA,Pittsburgh Panthers,PITT,69,68,137,1,Carver-Hawkeye Arena,False
+401082368,2018-11-28,Duke Blue Devils,DUKE,Indiana Hoosiers,IU,90,69,159,21,Cameron Indoor Stadium,False
+401086837,2018-11-28,Idaho Vandals,IDHO,West Coast Baptist Eagles,WCBC,98,44,142,54,Memorial Gymnasium (ID),False
+401089677,2018-11-28,San Diego State Aztecs,SDSU,Jackson State Tigers,JKST,87,44,131,43,Viejas Arena,False
+401085325,2018-11-28,Washington State Cougars,WSU,Cal State Northridge Matadors,CSUN,103,94,197,9,Beasley Coliseum,False
+401082976,2018-11-28,Tennessee Volunteers,TENN,Eastern Kentucky Colonels,EKU,95,67,162,28,Food City Center,False
+401083167,2018-11-29,Auburn Tigers,AUB,Saint Peter's Peacocks,SPU,99,49,148,50,Neville Arena,False
+401083128,2018-11-29,Kentucky Wildcats,UK,Monmouth Hawks,MONM,90,44,134,46,Rupp Arena,False
+401085977,2018-11-29,Marist Red Foxes,MRST,Dartmouth Big Green,DART,76,58,134,18,SSE Arena (NIR),True
+401086517,2018-11-29,LIU Brooklyn Liu Brooklyn,,UAlbany Great Danes,UALB,80,77,157,3,SSE Arena (NIR),True
+401088236,2018-11-30,Norfolk State Spartans,NORF,Hampton Pirates,HAMP,94,89,183,5,Joseph G. Echols Hall,False
+401088235,2018-11-30,Campbell Fighting Camels,CAM,Trinity College of Jacksonville Eagles,TCJ,79,29,108,50,John W. Pope Jr. Convocation Center,False
+401083966,2018-11-30,James Madison Dukes,JMU,Coppin State Eagles,COPP,81,71,152,10,JMU Convocation Center,False
+401082952,2018-11-30,UCF Knights,UCF,Alabama Crimson Tide,ALA,70,64,134,6,Addition Financial Arena,False
+401082617,2018-11-30,Boston College Eagles,BC,Sacred Heart Pioneers,SHU,81,73,154,8,Conte Forum,False
+401088797,2018-11-30,Samford Bulldogs,SAM,Belmont Bruins,BEL,93,99,192,-6,Pete Hanna Center,False
+401087477,2018-11-30,North Carolina A&T Aggies,NCAT,Central Connecticut Blue Devils,CCSU,72,60,132,12,Corbett Sports Center,False
+401089345,2018-11-30,Alabama A&M Bulldogs,AAMU,UAB Blazers,UAB,57,67,124,-10,Propst Arena,False
+401086785,2018-11-30,North Florida Ospreys,UNF,Florida A&M Rattlers,FAMU,81,62,143,19,UNF Arena,False
+401084702,2018-11-30,SMU Mustangs,SMU,McNeese Cowboys,MCN,91,59,150,32,Moody Coliseum (Dallas),False
+401086108,2018-11-30,Chicago State Cougars,CHST,East-West University Phantoms,EAWE,90,67,157,23,Jones Convocation Center,False
+401089509,2018-11-30,Troy Trojans,TROY,Austin Peay Governors,APSU,74,79,153,-5,Trojan Arena,False
+401088534,2018-11-30,Texas Southern Tigers,TXSO,Huston-Tillotson Rams,HTU,81,76,157,5,H&PE Arena,False
+401086845,2018-11-30,Southern Utah Thunderbirds,SUU,San Diego Christian Hawks,SDCHR,111,64,175,47,America First Events Center,False
+401087015,2018-11-30,Arizona Wildcats,ARIZ,Georgia Southern Eagles,GASO,100,70,170,30,McKale Memorial Center,False
+401086842,2018-11-30,Idaho State Bengals,IDST,Montana-Western Bulldogs,MTW,74,66,140,8,ICCU Dome,False
+401089504,2018-11-30,Loyola Marymount Lions,LMU,Bethesda University Flames,BTHS,106,50,156,56,Gersten Pavilion,False
+401086844,2018-11-30,UC Santa Barbara Gauchos,UCSB,Sacramento State Hornets,SAC,75,58,133,17,The Thunderdome,False
+401086843,2018-11-30,UC Davis Aggies,UCD,Northern Arizona Lumberjacks,NAU,73,57,130,16,University Credit Union Center,False
+401086109,2018-11-30,UC Riverside Highlanders,UCR,California Baptist Lancers,CBU,70,80,150,-10,SRC Arena,False
+401083769,2018-11-30,Santa Clara Broncos,SCU,Jackson State Tigers,JKST,81,70,151,11,Leavey Center,False
+401082476,2018-11-30,Rutgers Scarlet Knights,RUTG,Michigan State Spartans,MSU,67,78,145,-11,Jersey Mike’s Arena,False
+401083497,2018-12-01,Texas Longhorns,TEX,Radford Highlanders,RAD,59,62,121,-3,Frank Erwin Center,False
+401083068,2018-12-01,Dayton Flyers,DAY,Mississippi State Bulldogs,MSST,58,65,123,-7,UD Arena,False
+401083223,2018-12-01,Creighton Bluejays,CREI,Gonzaga Bulldogs,GONZ,92,103,195,-11,CHI Health Center Omaha,False
+401083549,2018-12-01,Kansas Jayhawks,KU,Stanford Cardinal,STAN,90,84,174,6,Allen Fieldhouse,False
+401082673,2018-12-02,Duke Blue Devils,DUKE,Stetson Hatters,STET,113,49,162,64,Cameron Indoor Stadium,False
+401087163,2018-12-01,USC Trojans,USC,Nevada Wolf Pack,NEV,61,73,134,-12,Galen Center,False
+401082452,2018-12-01,Michigan Wolverines,MICH,Purdue Boilermakers,PUR,76,57,133,19,Crisler Center,False
+401083129,2018-12-01,Kentucky Wildcats,UK,UNC Greensboro Spartans,UNCG,78,61,139,17,Rupp Arena,False
+401083249,2018-12-01,Marquette Golden Eagles,MARQ,Kansas State Wildcats,KSU,83,71,154,12,Fiserv Forum,False
+401082743,2018-12-01,Virginia Tech Hokies,VT,Central Connecticut Blue Devils,CCSU,94,40,134,54,Cassell Coliseum,False
+401084706,2018-12-02,Houston Cougars,HOU,Oregon Ducks,ORE,65,61,126,4,Fertitta Center,False
+401083354,2018-12-01,La Salle Explorers,LAS,Villanova Wildcats,VILL,78,85,163,-7,The Palestra,False
+401082425,2018-12-01,Maryland Terrapins,MD,Penn State Nittany Lions,PSU,66,59,125,7,XFINITY Center,False
+401082977,2018-12-02,Tennessee Volunteers,TENN,Texas A&M-Corpus Christi Islanders,AMCC,79,51,130,28,Food City Center,False
+401082497,2018-12-03,Ohio State Buckeyes,OSU,Minnesota Golden Gophers,MINN,79,59,138,20,Value City Arena,False
+401082766,2018-12-04,Virginia Cavaliers,UVA,Morgan State Bears,MORG,83,45,128,38,John Paul Jones Arena,False
+401082397,2018-12-03,Michigan State Spartans,MSU,Iowa Hawkeyes,IOWA,90,68,158,22,Breslin Center,False
+401082699,2018-12-04,Florida State Seminoles,FSU,Troy Trojans,TROY,83,67,150,16,Tucker Center,False
+401082597,2018-12-04,Wisconsin Badgers,WIS,Rutgers Scarlet Knights,RUTG,69,64,133,5,Kohl Center,False
+401083550,2018-12-05,Kansas Jayhawks,KU,Wofford Terriers,WOF,72,47,119,25,Allen Fieldhouse,False
+401082453,2018-12-05,Northwestern Wildcats,NU,Michigan Wolverines,MICH,60,62,122,-2,Welsh-Ryan Arena,False
+401083168,2018-12-05,Auburn Tigers,AUB,UNC Asheville Bulldogs,UNCA,67,41,108,26,Neville Arena,False
+401083069,2018-12-05,Mississippi State Bulldogs,MSST,McNeese Cowboys,MCN,90,77,167,13,Humphrey Coliseum,False
+401085900,2018-12-05,Elon Phoenix,ELON,Furman Paladins,FUR,77,98,175,-21,Schar Center,False
+401083631,2018-12-06,Gonzaga Bulldogs,GONZ,Washington Huskies,WASH,81,79,160,2,McCarthey Athletic Center,False
+401082674,2018-12-06,Duke Blue Devils,DUKE,Hartford Hawks,HART,84,54,138,30,Cameron Indoor Stadium,False
+401083480,2018-12-06,Texas Tech Red Raiders,TTU,Arkansas-Pine Bluff Golden Lions,UAPB,65,47,112,18,United Supermarkets Arena,False
+401082859,2018-12-06,North Carolina Tar Heels,UNC,UNC Wilmington Seahawks,UNCW,97,69,166,28,Dean E. Smith Center,False
+401082744,2018-12-06,Virginia Tech Hokies,VT,VMI Keydets,VMI,89,68,157,21,Cassell Coliseum,False
+401089560,2018-12-06,Buffalo Bulls,BUF,Le Moyne Dolphins,LEM,89,55,144,34,Alumni Arena,False
+401082339,2018-12-06,Illinois Fighting Illini,ILL,Ohio State Buckeyes,OSU,67,77,144,-10,United Center,True
+401083355,2018-12-06,Villanova Wildcats,VILL,Temple Owls,TEM,69,59,128,10,Finneran Pavilion,False
+401082498,2018-12-06,Minnesota Golden Gophers,MINN,Nebraska Cornhuskers,NEB,85,78,163,7,Williams Arena,False
+401082426,2018-12-07,Purdue Boilermakers,PUR,Maryland Terrapins,MD,62,60,122,2,Mackey Arena,False
+401088247,2018-12-08,Longwood Lancers,LONG,Frostburg State Bobcats,FSTU,68,65,133,3,Willett Hall,False
+401087926,2018-12-08,Columbia Lions,COLU,Bryant Bulldogs,BRY,90,68,158,22,Levien Gymnasium,False
+401086629,2018-12-08,UMass Lowell River Hawks,UML,Maine-Fort Kent Bengals,UMFK,110,63,173,47,Tsongas Center,False
+401085901,2018-12-08,Elon Phoenix,ELON,UNC Greensboro Spartans,UNCG,74,75,149,-1,Schar Center,False
+401083969,2018-12-08,George Mason Patriots,GMU,James Madison Dukes,JMU,66,53,119,13,EagleBank Arena,False
+401083733,2018-12-08,Saint Mary's Gaels,SMC,New Mexico Lobos,UNM,85,60,145,25,crypto.com Arena,True
+401083314,2018-12-08,Providence Friars,PROV,Massachusetts Minutemen,MASS,78,79,157,-1,Amica Mutual Pavilion,False
+401083050,2018-12-08,Missouri Tigers,MIZ,Oral Roberts Golden Eagles,ORU,80,64,144,16,Mizzou Arena,False
+401088168,2018-12-08,Stephen F. Austin Lumberjacks,SFA,Louisiana Tech Bulldogs,LT,93,96,189,-3,William R. Johnson Coliseum,False
+401088569,2018-12-08,South Dakota State Jackrabbits,SDST,Southern Jaguars,SOU,101,92,193,9,Frost Arena,False
+401083516,2018-12-08,USC Trojans,USC,TCU Horned Frogs,TCU,61,96,157,-35,crypto.com Arena,True
+401083771,2018-12-08,Santa Clara Broncos,SCU,Idaho State Bengals,IDST,66,68,134,-2,Leavey Center,False
+401087039,2018-12-08,Arizona State Sun Devils,ASU,Nevada Wolf Pack,NEV,66,72,138,-6,crypto.com Arena,True
+401082675,2018-12-08,Duke Blue Devils,DUKE,Yale Bulldogs,YALE,91,58,149,33,Cameron Indoor Stadium,False
+401083169,2018-12-09,Auburn Tigers,AUB,Dayton Flyers,DAY,82,72,154,10,Neville Arena,False
+401082477,2018-12-08,Florida Gators,FLA,Michigan State Spartans,MSU,59,63,122,-4,Stephen C. O'Connell Center,False
+401082607,2018-12-08,Marquette Golden Eagles,MARQ,Wisconsin Badgers,WIS,74,69,143,5,Fiserv Forum,False
+401083430,2018-12-08,Tulsa Golden Hurricane,TLSA,Kansas State Wildcats,KSU,47,46,93,1,Reynolds Center,False
+401085724,2018-12-08,St. Bonaventure Bonnies,SBU,Buffalo Bulls,BUF,62,80,142,-18,Reilly Center,False
+401083356,2018-12-08,Villanova Wildcats,VILL,Saint Joseph's Hawks,JOES,70,58,128,12,Finneran Pavilion,False
+401082427,2018-12-08,Maryland Terrapins,MD,Loyola Chicago Ramblers,LUC,55,41,96,14,CFG Bank Arena,True
+401082518,2018-12-08,Nebraska Cornhuskers,NEB,Creighton Bluejays,CREI,94,75,169,19,Pinnacle Bank Arena,False
+401088250,2018-12-08,South Carolina Upstate Spartans,UPST,Furman Paladins,FUR,60,74,134,-14,G.B. Hodge Center,False
+401082767,2018-12-09,Virginia Cavaliers,UVA,VCU Rams,VCU,57,49,106,8,John Paul Jones Arena,False
+401082745,2018-12-09,Virginia Tech Hokies,VT,South Carolina State Bulldogs,SCST,81,44,125,37,Cassell Coliseum,False
+401087521,2018-12-10,Dartmouth Big Green,DART,Sacred Heart Pioneers,SHU,82,73,155,9,Leede Arena,False
+401088185,2018-12-11,Marshall Thundering Herd,MRSH,Morehead State Eagles,MORE,76,64,140,12,Cam Henderson Center,False
+401086608,2018-12-11,Maine Black Bears,ME,Maine-Machias Clippers,MM,98,43,141,55,Cross Insurance Center,False
+401083862,2018-12-11,Manhattan Jaspers,MAN,Hofstra Pride,HOF,50,80,130,-30,Draddy Gymnasium,False
+401088980,2018-12-11,Arkansas-Pine Bluff Golden Lions,UAPB,Champion Christian Tigers,CHCC,84,51,135,33,H.O. Clemmons Arena,False
+401083734,2018-12-11,Saint Mary's Gaels,SMC,Cal State Fullerton Titans,CSUF,81,66,147,15,University Credit Union Pavilion,False
+401083662,2018-12-11,Pacific Tigers,PAC,Long Beach State Beach,LBSU,74,68,142,6,Alex G. Spanos Center,False
+401083357,2018-12-12,Pennsylvania Quakers,PENN,Villanova Wildcats,VILL,78,75,153,3,The Palestra,False
+401088251,2018-12-12,Furman Paladins,FUR,Charleston Southern Buccaneers,CHSO,77,69,146,8,Timmons Arena,False
+401083481,2018-12-13,Texas Tech Red Raiders,TTU,Northwestern State Demons,NWST,79,44,123,35,United Supermarkets Arena,False
+401083111,2018-12-13,Houston Cougars,HOU,LSU Tigers,LSU,82,76,158,6,Fertitta Center,False
+401082608,2018-12-14,Wisconsin Badgers,WIS,Savannah State Tigers,SAV,101,60,161,41,Kohl Center,False
+401088039,2018-12-15,Georgia Southern Eagles,GASO,Brewton-Parker Wildcats,BREW,101,64,165,37,Hanner Fieldhouse,False
+401086316,2018-12-15,George Washington Revolutionaries,GW,Howard Bison,HOW,70,64,134,6,Charles E. Smith Center,False
+401083296,2018-12-15,DePaul Blue Demons,DEP,UIC Flames,UIC,90,70,160,20,Wintrust Arena,False
+401089636,2018-12-15,Houston Christian Huskies,HCU,Arlington Baptist Patriots,ABU,107,70,177,37,Sharp Gymnasium,False
+401089061,2018-12-15,North Dakota Fighting Hawks,UND,Mayville St Comets,MYSU,83,66,149,17,Betty Engelstad Sioux Center,False
+401087339,2018-12-15,Arkansas State Red Wolves,ARST,Florida Atlantic Owls,FAU,75,71,146,4,First National Bank Arena,False
+401083224,2018-12-15,Creighton Bluejays,CREI,Green Bay Phoenix,GB,86,65,151,21,CHI Health Center Omaha,False
+401083358,2018-12-15,Kansas Jayhawks,KU,Villanova Wildcats,VILL,74,71,145,3,Allen Fieldhouse,False
+401082979,2018-12-15,Memphis Tigers,MEM,Tennessee Volunteers,TENN,92,102,194,-10,FedExForum,False
+401083650,2018-12-16,North Carolina Tar Heels,UNC,Gonzaga Bulldogs,GONZ,103,90,193,13,Dean E. Smith Center,False
+401082455,2018-12-15,Michigan Wolverines,MICH,Western Michigan Broncos,WMU,70,62,132,8,Crisler Center,False
+401089495,2018-12-16,Nevada Wolf Pack,NEV,South Dakota State Jackrabbits,SDST,72,68,140,4,Lawlor Events Center,False
+401083170,2018-12-16,UAB Blazers,UAB,Auburn Tigers,AUB,71,75,146,-4,Legacy Arena at BJCC,True
+401083482,2018-12-16,Texas Tech Red Raiders,TTU,Abilene Christian Wildcats,ACU,82,48,130,34,Lubbock Municipal Coliseum,False
+401082554,2018-12-15,Ohio State Buckeyes,OSU,Bucknell Bison,BUCK,73,71,144,2,Value City Arena,False
+401083070,2018-12-16,Mississippi State Bulldogs,MSST,Cincinnati Bearcats,CIN,70,59,129,11,Humphrey Coliseum,False
+401083131,2018-12-15,Kentucky Wildcats,UK,Utah Utes,UTAH,88,61,149,27,Rupp Arena,False
+401083145,2018-12-15,Georgia Bulldogs,UGA,Arizona State Sun Devils,ASU,74,76,150,-2,Stegeman Coliseum,False
+401084030,2018-12-15,Furman Paladins,FUR,UNC Wilmington Seahawks,UNCW,93,50,143,43,Timmons Arena,False
+401082788,2018-12-15,Syracuse Orange,SYR,Old Dominion Monarchs,ODU,62,68,130,-6,JMA Wireless Dome,False
+401083431,2018-12-16,Kansas State Wildcats,KSU,Georgia State Panthers,GAST,71,59,130,12,Bramlage Coliseum,False
+401082478,2018-12-16,Michigan State Spartans,MSU,Green Bay Phoenix,GB,104,83,187,21,Breslin Center,False
+401084725,2018-12-16,Houston Cougars,HOU,Saint Louis Billikens,SLU,68,64,132,4,Fertitta Center,False
+401082701,2018-12-18,Florida State Seminoles,FSU,Southeast Missouri State Redhawks,SEMO,85,68,153,17,Tucker Center,False
+401082925,2018-12-18,Vanderbilt Commodores,VAN,Arizona State Sun Devils,ASU,81,65,146,16,Memorial Gymnasium (TN),False
+401083552,2018-12-19,Kansas Jayhawks,KU,South Dakota Coyotes,SDAK,89,53,142,36,Allen Fieldhouse,False
+401082676,2018-12-18,Duke Blue Devils,DUKE,Princeton Tigers,PRIN,101,50,151,51,Cameron Indoor Stadium,False
+401083632,2018-12-19,Gonzaga Bulldogs,GONZ,UT Arlington Mavericks,UTA,89,55,144,34,McCarthey Athletic Center,False
+401082789,2018-12-19,Syracuse Orange,SYR,Buffalo Bulls,BUF,59,71,130,-12,JMA Wireless Dome,False
+401082555,2018-12-19,Ohio State Buckeyes,OSU,Youngstown State Penguins,YSU,75,56,131,19,Value City Arena,False
+401083251,2018-12-19,Marquette Golden Eagles,MARQ,North Dakota Fighting Hawks,UND,92,66,158,26,Fiserv Forum,False
+401082400,2018-12-19,Iowa Hawkeyes,IOWA,Western Carolina Catamounts,WCU,78,60,138,18,Carver-Hawkeye Arena,False
+401082980,2018-12-20,Tennessee Volunteers,TENN,Samford Bulldogs,SAM,83,70,153,13,Food City Center,False
+401082768,2018-12-20,South Carolina Gamecocks,SC,Virginia Cavaliers,UVA,52,69,121,-17,Colonial Life Arena,False
+401082845,2018-12-20,NC State Wolfpack,NCSU,Auburn Tigers,AUB,78,71,149,7,Lenovo Center,False
+401082702,2018-12-20,Florida State Seminoles,FSU,North Florida Ospreys,UNF,95,81,176,14,Tucker Center,False
+401082747,2018-12-20,Virginia Tech Hokies,VT,North Carolina A&T Aggies,NCAT,82,60,142,22,Cassell Coliseum,False
+401083071,2018-12-20,Mississippi State Bulldogs,MSST,Wofford Terriers,WOF,98,87,185,11,Humphrey Coliseum,False
+401082373,2018-12-20,Indiana Hoosiers,IU,Central Arkansas Bears,CARK,86,53,139,33,Simon Skjodt Assembly Hall,False
+401082677,2018-12-21,Duke Blue Devils,DUKE,Texas Tech Red Raiders,TTU,69,58,127,11,Madison Square Garden,True
+401084734,2018-12-21,Houston Cougars,HOU,Utah State Aggies,USU,60,50,110,10,Fertitta Center,False
+401083633,2018-12-22,Gonzaga Bulldogs,GONZ,Denver Pioneers,DEN,101,40,141,61,McCarthey Athletic Center,False
+401082479,2018-12-22,Michigan State Spartans,MSU,Oakland Golden Grizzlies,OAK,99,69,168,30,Breslin Center,False
+401083252,2018-12-22,Marquette Golden Eagles,MARQ,Buffalo Bulls,BUF,103,85,188,18,Fiserv Forum,False
+401083113,2018-12-22,LSU Tigers,LSU,Furman Paladins,FUR,75,57,132,18,Pete Maravich Assembly Center,False
+401083553,2018-12-23,Arizona State Sun Devils,ASU,Kansas Jayhawks,KU,80,76,156,4,Desert Financial Arena,False
+401082725,2018-12-22,Tennessee Volunteers,TENN,Wake Forest Demon Deacons,WAKE,83,64,147,19,Food City Center,False
+401082456,2018-12-22,Michigan Wolverines,MICH,Air Force Falcons,AF,71,50,121,21,Crisler Center,False
+401082769,2018-12-22,Virginia Cavaliers,UVA,William & Mary Tribe,W&M,72,40,112,32,John Paul Jones Arena,False
+401084001,2018-12-23,Nevada Wolf Pack,NEV,Akron Zips,AKR,68,62,130,6,Lawlor Events Center,False
+401083171,2018-12-22,Auburn Tigers,AUB,Murray State Racers,MUR,93,88,181,5,Neville Arena,False
+401082609,2018-12-22,Wisconsin Badgers,WIS,Grambling Tigers,GRAM,84,53,137,31,Kohl Center,False
+401083072,2018-12-23,Mississippi State Bulldogs,MSST,Wright State Raiders,WRST,67,63,130,4,Mississippi Coliseum,True
+401082374,2018-12-22,Indiana Hoosiers,IU,Jacksonville Dolphins,JAX,94,64,158,30,Simon Skjodt Assembly Hall,False
+401082401,2018-12-22,Iowa Hawkeyes,IOWA,Savannah State Tigers,SAV,110,64,174,46,Carver-Hawkeye Arena,False
+401082520,2018-12-22,Nebraska Cornhuskers,NEB,Cal State Fullerton Titans,CSUF,86,62,148,24,Pinnacle Bank Arena,False
+401084742,2018-12-23,Houston Cougars,HOU,Coppin State Eagles,COPP,75,44,119,31,Fertitta Center,False
+401107116,2018-12-25,Charlotte 49ers,CLT,Colorado Buffaloes,COLO,53,68,121,-15,Stan Sheriff Center,True
+401107115,2018-12-25,Hawai'i Rainbow Warriors,HAW,Rhode Island Rams,URI,68,60,128,8,Stan Sheriff Center,False
+401107114,2018-12-25,Bucknell Bison,BUCK,UNLV Rebels,UNLV,97,72,169,25,Stan Sheriff Center,True
+401107113,2018-12-26,TCU Horned Frogs,TCU,Indiana State Sycamores,INST,83,69,152,14,Stan Sheriff Center,True
+401083227,2018-12-28,Creighton Bluejays,CREI,Kansas City Roos,KC,89,53,142,36,CHI Health Center Omaha,False
+401083634,2018-12-29,Gonzaga Bulldogs,GONZ,North Alabama Lions,UNA,96,51,147,45,McCarthey Athletic Center,False
+401082748,2018-12-29,Virginia Tech Hokies,VT,Maryland Eastern Shore Hawks,UMES,85,40,125,45,Cassell Coliseum,False
+401083483,2018-12-29,Texas Tech Red Raiders,TTU,UT Rio Grande Valley Vaqueros,RGV,71,46,117,25,United Supermarkets Arena,False
+401083253,2018-12-29,Marquette Golden Eagles,MARQ,Southern Jaguars,SOU,84,41,125,43,Fiserv Forum,False
+401082847,2018-12-29,NC State Wolfpack,NCSU,Loyola Maryland Greyhounds,L-MD,97,64,161,33,Lenovo Center,False
+401082981,2018-12-29,Tennessee Volunteers,TENN,Tennessee Tech Golden Eagles,TNTC,96,53,149,43,Food City Center,False
+401083554,2018-12-29,Kansas Jayhawks,KU,Eastern Michigan Eagles,EMU,87,63,150,24,Allen Fieldhouse,False
+401087172,2018-12-29,Utah Utes,UTAH,Nevada Wolf Pack,NEV,71,86,157,-15,Jon M. Huntsman Center,False
+401082480,2018-12-29,Michigan State Spartans,MSU,Northern Illinois Huskies,NIU,88,60,148,28,Breslin Center,False
+401083172,2018-12-29,Auburn Tigers,AUB,North Florida Ospreys,UNF,95,49,144,46,Neville Arena,False
+401082557,2018-12-29,Ohio State Buckeyes,OSU,High Point Panthers,HPU,82,64,146,18,Value City Arena,False
+401082861,2018-12-29,North Carolina Tar Heels,UNC,Davidson Wildcats,DAV,82,60,142,22,Dean E. Smith Center,False
+401082610,2018-12-29,Western Kentucky Hilltoppers,WKU,Wisconsin Badgers,WIS,83,76,159,7,E.A. Diddle Arena,False
+401082917,2018-12-29,Louisville Cardinals,LOU,Kentucky Wildcats,UK,58,71,129,-13,KFC Yum! Center,False
+401087040,2018-12-29,Arizona State Sun Devils,ASU,Princeton Tigers,PRIN,66,67,133,-1,Desert Financial Arena,False
+401083073,2018-12-29,Mississippi State Bulldogs,MSST,BYU Cougars,BYU,103,81,184,22,Humphrey Coliseum,False
+401085909,2018-12-30,Canisius Golden Griffins,CAN,Buffalo Bulls,BUF,72,87,159,-15,Koessler Athletic Center,False
+401084746,2018-12-29,Houston Cougars,HOU,NJIT Highlanders,NJIT,80,59,139,21,Fertitta Center,False
+401082402,2018-12-30,Iowa Hawkeyes,IOWA,Bryant Bulldogs,BRY,72,67,139,5,Carver-Hawkeye Arena,False
+401082457,2018-12-30,Michigan Wolverines,MICH,Binghamton Bearcats,BING,74,52,126,22,Crisler Center,False
+401082770,2018-12-31,Virginia Cavaliers,UVA,Marshall Thundering Herd,MRSH,100,64,164,36,John Paul Jones Arena,False
+401083635,2019-01-01,Gonzaga Bulldogs,GONZ,Cal State Bakersfield Roadrunners,CSUB,89,54,143,35,McCarthey Athletic Center,False
+401082703,2019-01-01,Florida State Seminoles,FSU,Winthrop Eagles,WIN,87,76,163,11,Tucker Center,False
+401082749,2019-01-01,Virginia Tech Hokies,VT,Notre Dame Fighting Irish,ND,81,66,147,15,Cassell Coliseum,False
+401083254,2019-01-02,St. John's Red Storm,SJU,Marquette Golden Eagles,MARQ,89,69,158,20,Carnesecca Arena,False
+401083544,2019-01-03,Kansas Jayhawks,KU,Oklahoma Sooners,OU,70,63,133,7,Allen Fieldhouse,False
+401089695,2019-01-03,Nevada Wolf Pack,NEV,Utah State Aggies,USU,72,49,121,23,Lawlor Events Center,False
+401082481,2019-01-03,Michigan State Spartans,MSU,Northwestern Wildcats,NU,81,55,136,26,Breslin Center,False
+401083462,2019-01-03,West Virginia Mountaineers,WVU,Texas Tech Red Raiders,TTU,59,62,121,-3,WVU Coliseum,False
+401082862,2019-01-03,North Carolina Tar Heels,UNC,Harvard Crimson,HARV,77,57,134,20,Dean E. Smith Center,False
+401084749,2019-01-03,Houston Cougars,HOU,Tulsa Golden Hurricane,TLSA,74,56,130,18,Fertitta Center,False
+401082431,2019-01-02,Maryland Terrapins,MD,Nebraska Cornhuskers,NEB,74,72,146,2,XFINITY Center,False
+401082458,2019-01-04,Michigan Wolverines,MICH,Penn State Nittany Lions,PSU,68,55,123,13,Crisler Center,False
+401082848,2019-01-04,Miami Hurricanes,MIA,NC State Wolfpack,NCSU,82,87,169,-5,Watsco Center,False
+401082344,2019-01-04,Indiana Hoosiers,IU,Illinois Fighting Illini,ILL,73,65,138,8,Simon Skjodt Assembly Hall,False
+401082503,2019-01-04,Wisconsin Badgers,WIS,Minnesota Golden Gophers,MINN,52,59,111,-7,Kohl Center,False
+401082403,2019-01-04,Purdue Boilermakers,PUR,Iowa Hawkeyes,IOWA,86,70,156,16,Mackey Arena,False
+401089181,2019-01-05,Eastern Michigan Eagles,EMU,Buffalo Bulls,BUF,58,74,132,-16,Gervin GameAbove Center,False
+401082652,2019-01-06,Duke Blue Devils,DUKE,Clemson Tigers,CLEM,87,68,155,19,Cameron Indoor Stadium,False
+401082982,2019-01-05,Tennessee Volunteers,TENN,Georgia Bulldogs,UGA,96,50,146,46,Food City Center,False
+401082704,2019-01-05,Virginia Cavaliers,UVA,Florida State Seminoles,FSU,65,52,117,13,John Paul Jones Arena,False
+401083411,2019-01-05,Iowa State Cyclones,ISU,Kansas Jayhawks,KU,77,60,137,17,Hilton Coliseum,False
+401089696,2019-01-06,New Mexico Lobos,UNM,Nevada Wolf Pack,NEV,85,58,143,27,The Pit,False
+401083636,2019-01-06,Gonzaga Bulldogs,GONZ,Santa Clara Broncos,SCU,91,48,139,43,McCarthey Athletic Center,False
+401082482,2019-01-05,Ohio State Buckeyes,OSU,Michigan State Spartans,MSU,77,86,163,-9,Value City Arena,False
+401082624,2019-01-05,Virginia Tech Hokies,VT,Boston College Eagles,BC,77,66,143,11,Cassell Coliseum,False
+401083435,2019-01-05,Texas Tech Red Raiders,TTU,Kansas State Wildcats,KSU,63,57,120,6,United Supermarkets Arena,False
+401082957,2019-01-05,Alabama Crimson Tide,ALA,Kentucky Wildcats,UK,77,75,152,2,Coleman Coliseum,False
+401083534,2019-01-05,Oklahoma Sooners,OU,Oklahoma State Cowboys,OKST,74,64,138,10,Lloyd Noble Center,False
+401082375,2019-01-06,Michigan Wolverines,MICH,Indiana Hoosiers,IU,74,63,137,11,Crisler Center,False
+401083255,2019-01-06,Marquette Golden Eagles,MARQ,Xavier Musketeers,XAV,70,52,122,18,Fiserv Forum,False
+401084756,2019-01-06,Houston Cougars,HOU,Memphis Tigers,MEM,90,77,167,13,Fertitta Center,False
+401082574,2019-01-07,Penn State Nittany Lions,PSU,Wisconsin Badgers,WIS,52,71,123,-19,Bryce Jordan Center,False
+401082404,2019-01-06,Iowa Hawkeyes,IOWA,Nebraska Cornhuskers,NEB,93,84,177,9,Carver-Hawkeye Arena,False
+401086003,2019-01-08,Fairfield Stags,FAIR,Niagara Purple Eagles,NIA,77,59,136,18,George Bisacca Court at Alumni Hall,False
+401090281,2019-01-08,Morgan State Bears,MORG,Savannah State Tigers,SAV,87,88,175,-1,Hill Field House,False
+401090258,2019-01-08,Maryland Eastern Shore Hawks,UMES,Howard Bison,HOW,39,79,118,-40,Hytche Center,False
+401089978,2019-01-08,Delaware State Hornets,DSU,Coppin State Eagles,COPP,60,64,124,-4,Memorial Hall (DE),False
+401090375,2019-01-08,Norfolk State Spartans,NORF,Florida A&M Rattlers,FAMU,72,62,134,10,Joseph G. Echols Hall,False
+401089001,2019-01-08,Alabama A&M Bulldogs,AAMU,Grambling Tigers,GRAM,65,60,125,5,T.M. Elmore Gymnasium,False
+401088915,2019-01-08,Alabama State Hornets,ALST,Jackson State Tigers,JKST,59,57,116,2,Dunn-Oliver Acadome,False
+401088591,2019-01-08,Alcorn State Braves,ALCN,Prairie View A&M Panthers,PV,54,57,111,-3,Davey L. Whitney Complex,False
+401088538,2019-01-08,Southern Jaguars,SOU,Texas Southern Tigers,TXSO,67,77,144,-10,F.G. Clark Activity Center,False
+401086892,2019-01-08,Northern Colorado Bears,UNCO,Eastern Washington Eagles,EWU,75,63,138,12,Bank of Colorado Arena,False
+401082678,2019-01-09,Wake Forest Demon Deacons,WAKE,Duke Blue Devils,DUKE,65,87,152,-22,LJVM Coliseum,False
+401082983,2019-01-09,Missouri Tigers,MIZ,Tennessee Volunteers,TENN,63,87,150,-24,Mizzou Arena,False
+401082483,2019-01-09,Michigan State Spartans,MSU,Purdue Boilermakers,PUR,77,59,136,18,Breslin Center,False
+401083484,2019-01-09,Texas Tech Red Raiders,TTU,Oklahoma Sooners,OU,66,59,125,7,United Supermarkets Arena,False
+401082849,2019-01-09,NC State Wolfpack,NCSU,North Carolina Tar Heels,UNC,82,90,172,-8,Lenovo Center,False
+401083030,2019-01-09,South Carolina Gamecocks,SC,Mississippi State Bulldogs,MSST,87,82,169,5,Colonial Life Arena,False
+401083132,2019-01-09,Kentucky Wildcats,UK,Texas A&M Aggies,TA&M,85,74,159,11,Rupp Arena,False
+401087423,2019-01-09,Buffalo Bulls,BUF,Toledo Rockets,TOL,110,80,190,30,Alumni Arena,False
+401083385,2019-01-09,Baylor Bears,BAY,Iowa State Cyclones,ISU,73,70,143,3,Ferrell Center,False
+401083346,2019-01-09,Villanova Wildcats,VILL,St. John's Red Storm,SJU,76,71,147,5,Finneran Pavilion,False
+401082625,2019-01-10,Boston College Eagles,BC,Virginia Cavaliers,UVA,56,83,139,-27,Conte Forum,False
+401083520,2019-01-10,Kansas Jayhawks,KU,TCU Horned Frogs,TCU,77,68,145,9,Allen Fieldhouse,False
+401082750,2019-01-10,Georgia Tech Yellow Jackets,GT,Virginia Tech Hokies,VT,49,52,101,-3,McCamish Pavilion,False
+401089697,2019-01-10,Nevada Wolf Pack,NEV,San José State Spartans,SJSU,92,53,145,39,Lawlor Events Center,False
+401082705,2019-01-10,Florida State Seminoles,FSU,Miami Hurricanes,MIA,68,62,130,6,Tucker Center,False
+401082558,2019-01-10,Rutgers Scarlet Knights,RUTG,Ohio State Buckeyes,OSU,64,61,125,3,Jersey Mike’s Arena,False
+401084757,2019-01-10,Temple Owls,TEM,Houston Cougars,HOU,73,69,142,4,Liacouras Center,False
+401083229,2019-01-10,Creighton Bluejays,CREI,Marquette Golden Eagles,MARQ,104,106,210,-2,CHI Health Center Omaha,False
+401082346,2019-01-11,Illinois Fighting Illini,ILL,Michigan Wolverines,MICH,69,79,148,-10,State Farm Center,False
+401083637,2019-01-11,Gonzaga Bulldogs,GONZ,Pacific Tigers,PAC,67,36,103,31,McCarthey Athletic Center,False
+401082376,2019-01-12,Maryland Terrapins,MD,Indiana Hoosiers,IU,78,75,153,3,XFINITY Center,False
+401082679,2019-01-12,Florida State Seminoles,FSU,Duke Blue Devils,DUKE,78,80,158,-2,Tucker Center,False
+401082984,2019-01-12,Florida Gators,FLA,Tennessee Volunteers,TENN,67,78,145,-11,Stephen C. O'Connell Center,False
+401082654,2019-01-12,Clemson Tigers,CLEM,Virginia Cavaliers,UVA,43,63,106,-20,Littlejohn Coliseum,False
+401083638,2019-01-13,San Francisco Dons,SF,Gonzaga Bulldogs,GONZ,83,96,179,-13,The Sobrato Center,False
+401083386,2019-01-12,Baylor Bears,BAY,Kansas Jayhawks,KU,68,73,141,-5,Ferrell Center,False
+401083485,2019-01-12,Texas Longhorns,TEX,Texas Tech Red Raiders,TTU,62,68,130,-6,Frank Erwin Center,False
+401089666,2019-01-13,Fresno State Bulldogs,FRES,Nevada Wolf Pack,NEV,64,74,138,-10,Save Mart Center,False
+401083148,2019-01-12,Auburn Tigers,AUB,Georgia Bulldogs,UGA,93,78,171,15,Neville Arena,False
+401082863,2019-01-12,North Carolina Tar Heels,UNC,Louisville Cardinals,LOU,62,83,145,-21,Dean E. Smith Center,False
+401083074,2019-01-12,Mississippi State Bulldogs,MSST,Ole Miss Rebels,MISS,77,81,158,-4,Humphrey Coliseum,False
+401082814,2019-01-12,NC State Wolfpack,NCSU,Pittsburgh Panthers,PITT,86,80,166,6,Lenovo Center,False
+401082406,2019-01-12,Iowa Hawkeyes,IOWA,Ohio State Buckeyes,OSU,72,62,134,10,Carver-Hawkeye Arena,False
+401084763,2019-01-13,Houston Cougars,HOU,Wichita State Shockers,WICH,79,70,149,9,Fertitta Center,False
+401082931,2019-01-13,Kentucky Wildcats,UK,Vanderbilt Commodores,VAN,56,47,103,9,Rupp Arena,False
+401089552,2019-01-12,Buffalo Bulls,BUF,Miami (OH) RedHawks,M-OH,88,64,152,24,Alumni Arena,False
+401083412,2019-01-12,Iowa State Cyclones,ISU,Kansas State Wildcats,KSU,57,58,115,-1,Hilton Coliseum,False
+401083256,2019-01-12,Marquette Golden Eagles,MARQ,Seton Hall Pirates,HALL,70,66,136,4,Fiserv Forum,False
+401083521,2019-01-12,Oklahoma Sooners,OU,TCU Horned Frogs,TCU,76,74,150,2,Lloyd Noble Center,False
+401083301,2019-01-12,St. John's Red Storm,SJU,DePaul Blue Demons,DEP,71,79,150,-8,Carnesecca Arena,False
+401082459,2019-01-14,Michigan Wolverines,MICH,Northwestern Wildcats,NU,80,60,140,20,Crisler Center,False
+401082484,2019-01-13,Penn State Nittany Lions,PSU,Michigan State Spartans,MSU,56,71,127,-15,Bryce Jordan Center,False
+401082680,2019-01-15,Duke Blue Devils,DUKE,Syracuse Orange,SYR,91,95,186,-4,Cameron Indoor Stadium,False
+401083502,2019-01-15,Kansas Jayhawks,KU,Texas Longhorns,TEX,80,78,158,2,Allen Fieldhouse,False
+401082706,2019-01-15,Pittsburgh Panthers,PITT,Florida State Seminoles,FSU,75,62,137,13,Petersen Events Center,False
+401082434,2019-01-15,Maryland Terrapins,MD,Wisconsin Badgers,WIS,64,60,124,4,XFINITY Center,False
+401082377,2019-01-14,Indiana Hoosiers,IU,Nebraska Cornhuskers,NEB,51,66,117,-15,Simon Skjodt Assembly Hall,False
+401082985,2019-01-16,Tennessee Volunteers,TENN,Arkansas Razorbacks,ARK,106,87,193,19,Food City Center,False
+401082751,2019-01-16,Virginia Cavaliers,UVA,Virginia Tech Hokies,VT,81,59,140,22,John Paul Jones Arena,False
+401089606,2019-01-16,Boise State Broncos,BOIS,Nevada Wolf Pack,NEV,71,72,143,-1,ExtraMile Arena,False
+401083133,2019-01-16,Georgia Bulldogs,UGA,Kentucky Wildcats,UK,49,69,118,-20,Stegeman Coliseum,False
+401082831,2019-01-16,North Carolina Tar Heels,UNC,Notre Dame Fighting Irish,ND,75,69,144,6,Dean E. Smith Center,False
+401083257,2019-01-16,Georgetown Hoyas,GTWN,Marquette Golden Eagles,MARQ,71,74,145,-3,Capital One Arena,False
+401087445,2019-01-16,Western Michigan Broncos,WMU,Buffalo Bulls,BUF,79,88,167,-9,University Arena (MI),False
+401082730,2019-01-16,Wake Forest Demon Deacons,WAKE,NC State Wolfpack,NCSU,71,67,138,4,LJVM Coliseum,False
+401083096,2019-01-16,Ole Miss Rebels,MISS,LSU Tigers,LSU,69,83,152,-14,The Sandy and John Black Pavilion at Ole Miss,False
+401083075,2019-01-16,Mississippi State Bulldogs,MSST,Florida Gators,FLA,71,68,139,3,Humphrey Coliseum,False
+401083413,2019-01-17,Texas Tech Red Raiders,TTU,Iowa State Cyclones,ISU,64,68,132,-4,United Supermarkets Arena,False
+401083173,2019-01-17,Texas A&M Aggies,TA&M,Auburn Tigers,AUB,66,85,151,-19,Reed Arena,False
+401083437,2019-01-17,Oklahoma Sooners,OU,Kansas State Wildcats,KSU,61,74,135,-13,Lloyd Noble Center,False
+401084767,2019-01-17,SMU Mustangs,SMU,Houston Cougars,HOU,58,69,127,-11,Moody Coliseum (Dallas),False
+401082407,2019-01-17,Penn State Nittany Lions,PSU,Iowa Hawkeyes,IOWA,82,89,171,-7,Bryce Jordan Center,False
+401083639,2019-01-18,Gonzaga Bulldogs,GONZ,Loyola Marymount Lions,LMU,73,55,128,18,McCarthey Athletic Center,False
+401082485,2019-01-18,Nebraska Cornhuskers,NEB,Michigan State Spartans,MSU,64,70,134,-6,Pinnacle Bank Arena,False
+401089183,2019-01-19,Buffalo Bulls,BUF,Eastern Michigan Eagles,EMU,77,65,142,12,Alumni Arena,False
+401082435,2019-01-18,Ohio State Buckeyes,OSU,Maryland Terrapins,MD,61,75,136,-14,Value City Arena,False
+401083360,2019-01-19,Villanova Wildcats,VILL,Xavier Musketeers,XAV,85,75,160,10,Xfinity Mobile Arena,False
+401082681,2019-01-19,Duke Blue Devils,DUKE,Virginia Cavaliers,UVA,72,70,142,2,Cameron Indoor Stadium,False
+401082460,2019-01-19,Wisconsin Badgers,WIS,Michigan Wolverines,MICH,64,54,118,10,Kohl Center,False
+401082961,2019-01-19,Tennessee Volunteers,TENN,Alabama Crimson Tide,ALA,71,68,139,3,Food City Center,False
+401083640,2019-01-20,Portland Pilots,PORT,Gonzaga Bulldogs,GONZ,66,89,155,-23,Chiles Center,False
+401083466,2019-01-19,West Virginia Mountaineers,WVU,Kansas Jayhawks,KU,65,64,129,1,WVU Coliseum,False
+401083388,2019-01-19,Baylor Bears,BAY,Texas Tech Red Raiders,TTU,73,62,135,11,Ferrell Center,False
+401082731,2019-01-19,Virginia Tech Hokies,VT,Wake Forest Demon Deacons,WAKE,87,71,158,16,Cassell Coliseum,False
+401089568,2019-01-20,Nevada Wolf Pack,NEV,Air Force Falcons,AF,67,52,119,15,Lawlor Events Center,False
+401083134,2019-01-19,Auburn Tigers,AUB,Kentucky Wildcats,UK,80,82,162,-2,Neville Arena,False
+401082864,2019-01-19,Miami Hurricanes,MIA,North Carolina Tar Heels,UNC,76,85,161,-9,Watsco Center,False
+401082832,2019-01-19,Notre Dame Fighting Irish,ND,NC State Wolfpack,NCSU,73,77,150,-4,Purcell Pavilion,False
+401083010,2019-01-19,Ole Miss Rebels,MISS,Arkansas Razorbacks,ARK,84,67,151,17,The Sandy and John Black Pavilion at Ole Miss,False
+401083503,2019-01-20,Texas Longhorns,TEX,Oklahoma Sooners,OU,75,72,147,3,Frank Erwin Center,False
+401084773,2019-01-20,South Florida Bulls,USF,Houston Cougars,HOU,60,69,129,-9,Yuengling Center,False
+401082933,2019-01-20,Vanderbilt Commodores,VAN,Mississippi State Bulldogs,MSST,55,71,126,-16,Memorial Gymnasium (TN),False
+401082378,2019-01-19,Purdue Boilermakers,PUR,Indiana Hoosiers,IU,70,55,125,15,Mackey Arena,False
+401082628,2019-01-20,Boston College Eagles,BC,Florida State Seminoles,FSU,87,82,169,5,Conte Forum,False
+401083258,2019-01-20,Marquette Golden Eagles,MARQ,Providence Friars,PROV,79,68,147,11,Fiserv Forum,False
+401082348,2019-01-20,Iowa Hawkeyes,IOWA,Illinois Fighting Illini,ILL,95,71,166,24,Carver-Hawkeye Arena,False
+401082436,2019-01-21,Michigan State Spartans,MSU,Maryland Terrapins,MD,69,55,124,14,Breslin Center,False
+401083415,2019-01-22,Kansas Jayhawks,KU,Iowa State Cyclones,ISU,80,76,156,4,Allen Fieldhouse,False
+401082752,2019-01-22,North Carolina Tar Heels,UNC,Virginia Tech Hokies,VT,103,82,185,21,Dean E. Smith Center,False
+401082682,2019-01-23,Pittsburgh Panthers,PITT,Duke Blue Devils,DUKE,64,79,143,-15,Petersen Events Center,False
+401082732,2019-01-23,Virginia Cavaliers,UVA,Wake Forest Demon Deacons,WAKE,68,45,113,23,John Paul Jones Arena,False
+401082461,2019-01-23,Michigan Wolverines,MICH,Minnesota Golden Gophers,MINN,59,57,116,2,Crisler Center,False
+401083076,2019-01-23,Kentucky Wildcats,UK,Mississippi State Bulldogs,MSST,76,55,131,21,Rupp Arena,False
+401083439,2019-01-23,Kansas State Wildcats,KSU,Texas Tech Red Raiders,TTU,58,45,103,13,Bramlage Coliseum,False
+401087385,2019-01-23,Northern Illinois Huskies,NIU,Buffalo Bulls,BUF,77,75,152,2,NIU Convocation Center,False
+401083033,2019-01-22,South Carolina Gamecocks,SC,Auburn Tigers,AUB,80,77,157,3,Colonial Life Arena,False
+401083207,2019-01-23,Butler Bulldogs,BUT,Villanova Wildcats,VILL,72,80,152,-8,Hinkle Fieldhouse,False
+401082962,2019-01-23,Alabama Crimson Tide,ALA,Ole Miss Rebels,MISS,74,53,127,21,Coleman Coliseum,False
+401082934,2019-01-24,Vanderbilt Commodores,VAN,Tennessee Volunteers,TENN,83,88,171,-5,Memorial Gymnasium (TN),False
+401089652,2019-01-24,Nevada Wolf Pack,NEV,Colorado State Rams,CSU,100,60,160,40,Lawlor Events Center,False
+401083259,2019-01-24,Marquette Golden Eagles,MARQ,DePaul Blue Demons,DEP,79,69,148,10,Fiserv Forum,False
+401084775,2019-01-24,Houston Cougars,HOU,East Carolina Pirates,ECU,94,50,144,44,Fertitta Center,False
+401083115,2019-01-24,LSU Tigers,LSU,Georgia Bulldogs,UGA,92,82,174,10,Pete Maravich Assembly Center,False
+401083641,2019-01-25,Santa Clara Broncos,SCU,Gonzaga Bulldogs,GONZ,39,98,137,-59,Leavey Center,False
+401082408,2019-01-25,Iowa Hawkeyes,IOWA,Michigan State Spartans,MSU,67,82,149,-15,Carver-Hawkeye Arena,False
+401082850,2019-01-25,Louisville Cardinals,LOU,NC State Wolfpack,NCSU,84,77,161,7,KFC Yum! Center,False
+401082380,2019-01-25,Indiana Hoosiers,IU,Michigan Wolverines,MICH,46,69,115,-23,Simon Skjodt Assembly Hall,False
+401089485,2019-01-25,Kent State Golden Flashes,KENT,Buffalo Bulls,BUF,79,88,167,-9,M.A.C. Center,False
+401082683,2019-01-26,Duke Blue Devils,DUKE,Georgia Tech Yellow Jackets,GT,66,53,119,13,Cameron Indoor Stadium,False
+401082771,2019-01-26,Notre Dame Fighting Irish,ND,Virginia Cavaliers,UVA,55,82,137,-27,Purcell Pavilion,False
+401082753,2019-01-27,Virginia Tech Hokies,VT,Syracuse Orange,SYR,78,56,134,22,Cassell Coliseum,False
+401083260,2019-01-26,Xavier Musketeers,XAV,Marquette Golden Eagles,MARQ,82,87,169,-5,Cintas Center,False
+401082350,2019-01-26,Maryland Terrapins,MD,Illinois Fighting Illini,ILL,67,78,145,-11,Madison Square Garden,True
+401083077,2019-01-27,Mississippi State Bulldogs,MSST,Auburn Tigers,AUB,92,84,176,8,Humphrey Coliseum,False
+401082657,2019-01-26,NC State Wolfpack,NCSU,Clemson Tigers,CLEM,69,67,136,2,Lenovo Center,False
+401082815,2019-01-26,Louisville Cardinals,LOU,Pittsburgh Panthers,PITT,66,51,117,15,KFC Yum! Center,False
+401083054,2019-01-26,Missouri Tigers,MIZ,LSU Tigers,LSU,80,86,166,-6,Mizzou Arena,False
+401082486,2019-01-27,Purdue Boilermakers,PUR,Michigan State Spartans,MSU,73,63,136,10,Mackey Arena,False
+401084782,2019-01-27,Tulsa Golden Hurricane,TLSA,Houston Cougars,HOU,65,77,142,-12,Reynolds Center,False
+401083333,2019-01-27,Villanova Wildcats,VILL,Seton Hall Pirates,HALL,80,52,132,28,Xfinity Mobile Arena,False
+401082409,2019-01-27,Minnesota Golden Gophers,MINN,Iowa Hawkeyes,IOWA,92,87,179,5,Williams Arena,False
+401082684,2019-01-29,Notre Dame Fighting Irish,ND,Duke Blue Devils,DUKE,61,83,144,-22,Purcell Pavilion,False
+401083486,2019-01-29,Texas Tech Red Raiders,TTU,TCU Horned Frogs,TCU,84,65,149,19,United Supermarkets Arena,False
+401082987,2019-01-29,South Carolina Gamecocks,SC,Tennessee Volunteers,TENN,70,92,162,-22,Colonial Life Arena,False
+401082772,2019-01-30,NC State Wolfpack,NCSU,Virginia Cavaliers,UVA,65,66,131,-1,Lenovo Center,False
+401082462,2019-01-30,Michigan Wolverines,MICH,Ohio State Buckeyes,OSU,65,49,114,16,Crisler Center,False
+401082936,2019-01-30,Vanderbilt Commodores,VAN,Kentucky Wildcats,UK,52,87,139,-35,Memorial Gymnasium (TN),False
+401089698,2019-01-30,UNLV Rebels,UNLV,Nevada Wolf Pack,NEV,70,87,157,-17,Thomas & Mack Center,False
+401082865,2019-01-30,Georgia Tech Yellow Jackets,GT,North Carolina Tar Heels,UNC,54,77,131,-23,McCamish Pavilion,False
+401083505,2019-01-30,Texas Longhorns,TEX,Kansas Jayhawks,KU,73,63,136,10,Frank Erwin Center,False
+401086250,2019-01-30,Buffalo Bulls,BUF,Ball State Cardinals,BALL,83,59,142,24,Alumni Arena,False
+401082437,2019-01-30,Maryland Terrapins,MD,Northwestern Wildcats,NU,70,52,122,18,XFINITY Center,False
+401082964,2019-01-30,Alabama Crimson Tide,ALA,Mississippi State Bulldogs,MSST,83,79,162,4,Coleman Coliseum,False
+401082525,2019-01-30,Nebraska Cornhuskers,NEB,Wisconsin Badgers,WIS,51,62,113,-11,Pinnacle Bank Arena,False
+401083209,2019-01-30,Butler Bulldogs,BUT,Marquette Golden Eagles,MARQ,58,76,134,-18,Hinkle Fieldhouse,False
+401082754,2019-01-31,Miami Hurricanes,MIA,Virginia Tech Hokies,VT,70,82,152,-12,Watsco Center,False
+401083304,2019-01-31,DePaul Blue Demons,DEP,Villanova Wildcats,VILL,74,86,160,-12,Wintrust Arena,False
+401082733,2019-01-31,Wake Forest Demon Deacons,WAKE,Louisville Cardinals,LOU,54,82,136,-28,LJVM Coliseum,False
+401083116,2019-01-31,Texas A&M Aggies,TA&M,LSU Tigers,LSU,57,72,129,-15,Reed Arena,False
+401083416,2019-01-31,Iowa State Cyclones,ISU,West Virginia Mountaineers,WVU,93,68,161,25,Hilton Coliseum,False
+401084786,2019-02-01,Houston Cougars,HOU,Temple Owls,TEM,73,66,139,7,Fertitta Center,False
+401082576,2019-02-01,Penn State Nittany Lions,PSU,Purdue Boilermakers,PUR,90,99,189,-9,Bryce Jordan Center,False
+401082410,2019-02-02,Iowa Hawkeyes,IOWA,Michigan Wolverines,MICH,74,59,133,15,Carver-Hawkeye Arena,False
+401088407,2019-02-02,Bowling Green Falcons,BGSU,Buffalo Bulls,BUF,92,88,180,4,Stroh Center,False
+401082438,2019-02-02,Wisconsin Badgers,WIS,Maryland Terrapins,MD,69,61,130,8,Kohl Center,False
+401082988,2019-02-03,Texas A&M Aggies,TA&M,Tennessee Volunteers,TENN,76,93,169,-17,Reed Arena,False
+401082685,2019-02-02,Duke Blue Devils,DUKE,St. John's Red Storm,SJU,91,61,152,30,Cameron Indoor Stadium,False
+401082773,2019-02-02,Virginia Cavaliers,UVA,Miami Hurricanes,MIA,56,46,102,10,John Paul Jones Arena,False
+401083642,2019-02-03,Gonzaga Bulldogs,GONZ,San Diego Toreros,USD,85,69,154,16,McCarthey Athletic Center,False
+401082382,2019-02-02,Michigan State Spartans,MSU,Indiana Hoosiers,IU,75,79,154,-4,Breslin Center,False
+401083136,2019-02-02,Florida Gators,FLA,Kentucky Wildcats,UK,54,65,119,-11,Stephen C. O'Connell Center,False
+401089610,2019-02-02,Nevada Wolf Pack,NEV,Boise State Broncos,BOIS,93,73,166,20,Lawlor Events Center,False
+401082866,2019-02-02,Louisville Cardinals,LOU,North Carolina Tar Heels,UNC,69,79,148,-10,KFC Yum! Center,False
+401083487,2019-02-02,Kansas Jayhawks,KU,Texas Tech Red Raiders,TTU,79,63,142,16,Allen Fieldhouse,False
+401082755,2019-02-02,NC State Wolfpack,NCSU,Virginia Tech Hokies,VT,24,47,71,-23,Lenovo Center,False
+401083014,2019-02-02,LSU Tigers,LSU,Arkansas Razorbacks,ARK,89,90,179,-1,Pete Maravich Assembly Center,False
+401083417,2019-02-02,Iowa State Cyclones,ISU,Texas Longhorns,TEX,65,60,125,5,Hilton Coliseum,False
+401083078,2019-02-02,Ole Miss Rebels,MISS,Mississippi State Bulldogs,MSST,75,81,156,-6,The Sandy and John Black Pavilion at Ole Miss,False
+401082708,2019-02-02,Florida State Seminoles,FSU,Georgia Tech Yellow Jackets,GT,59,49,108,10,Tucker Center,False
+401083284,2019-02-03,Villanova Wildcats,VILL,Georgetown Hoyas,GTWN,77,65,142,12,Xfinity Mobile Arena,False
+401082506,2019-02-03,Purdue Boilermakers,PUR,Minnesota Golden Gophers,MINN,73,63,136,10,Mackey Arena,False
+401082756,2019-02-05,Virginia Tech Hokies,VT,Louisville Cardinals,LOU,64,72,136,-8,Cassell Coliseum,False
+401083418,2019-02-05,Oklahoma Sooners,OU,Iowa State Cyclones,ISU,74,75,149,-1,Lloyd Noble Center,False
+401083468,2019-02-05,Texas Tech Red Raiders,TTU,West Virginia Mountaineers,WVU,81,50,131,31,United Supermarkets Arena,False
+401083556,2019-02-06,Tennessee Volunteers,TENN,Missouri Tigers,MIZ,72,60,132,12,Food City Center,False
+401082632,2019-02-06,Duke Blue Devils,DUKE,Boston College Eagles,BC,80,55,135,25,Cameron Indoor Stadium,False
+401083036,2019-02-06,Kentucky Wildcats,UK,South Carolina Gamecocks,SC,76,48,124,28,Rupp Arena,False
+401082463,2019-02-06,Rutgers Scarlet Knights,RUTG,Michigan Wolverines,MICH,65,77,142,-12,Jersey Mike’s Arena,False
+401082851,2019-02-06,North Carolina Tar Heels,UNC,NC State Wolfpack,NCSU,113,96,209,17,Dean E. Smith Center,False
+401082353,2019-02-06,Illinois Fighting Illini,ILL,Michigan State Spartans,MSU,79,74,153,5,State Farm Center,False
+401083261,2019-02-06,Marquette Golden Eagles,MARQ,St. John's Red Storm,SJU,69,70,139,-1,Fiserv Forum,False
+401083442,2019-02-06,Kansas State Wildcats,KSU,Kansas Jayhawks,KU,74,67,141,7,Bramlage Coliseum,False
+401082709,2019-02-06,Syracuse Orange,SYR,Florida State Seminoles,FSU,62,80,142,-18,JMA Wireless Dome,False
+401089654,2019-02-07,Colorado State Rams,CSU,Nevada Wolf Pack,NEV,82,98,180,-16,Moby Arena,False
+401083235,2019-02-07,Villanova Wildcats,VILL,Creighton Bluejays,CREI,66,59,125,7,Finneran Pavilion,False
+401082507,2019-02-07,Minnesota Golden Gophers,MINN,Wisconsin Badgers,WIS,51,56,107,-5,Williams Arena,False
+401083079,2019-02-07,Mississippi State Bulldogs,MSST,LSU Tigers,LSU,88,92,180,-4,Humphrey Coliseum,False
+401082439,2019-02-07,Nebraska Cornhuskers,NEB,Maryland Terrapins,MD,45,60,105,-15,Pinnacle Bank Arena,False
+401083643,2019-02-08,Gonzaga Bulldogs,GONZ,San Francisco Dons,SF,92,62,154,30,McCarthey Athletic Center,False
+401084793,2019-02-08,UCF Knights,UCF,Houston Cougars,HOU,68,77,145,-9,Addition Financial Arena,False
+401082383,2019-02-08,Indiana Hoosiers,IU,Iowa Hawkeyes,IOWA,72,77,149,-5,Simon Skjodt Assembly Hall,False
+401084792,2019-02-08,Memphis Tigers,MEM,Cincinnati Bearcats,CIN,64,69,133,-5,FedExForum,False
+401088430,2019-02-09,Yale Bulldogs,YALE,Princeton Tigers,PRIN,74,60,134,14,John J. Lee Amphitheater,False
+401088028,2019-02-09,Dartmouth Big Green,DART,Cornell Big Red,COR,80,83,163,-3,Leede Arena,False
+401087932,2019-02-09,Harvard Crimson,HARV,Columbia Lions,COLU,98,96,194,2,Lavietes Pavilion,False
+401087888,2019-02-09,Brown Bears,BRWN,Pennsylvania Quakers,PENN,82,92,174,-10,Pizzitola Sports Center,False
+401085987,2019-02-09,Marist Red Foxes,MRST,Niagara Purple Eagles,NIA,79,58,137,21,McCann Arena,False
+401085968,2019-02-09,Manhattan Jaspers,MAN,Siena Saints,SIE,49,51,100,-2,Draddy Gymnasium,False
+401085919,2019-02-09,Rider Broncs,RID,Canisius Golden Griffins,CAN,80,81,161,-1,Alumni Gymnasium (Rider),False
+401085772,2019-02-09,Iona Gaels,IONA,Quinnipiac Bobcats,QUIN,65,66,131,-1,Hynes Athletics Center,False
+401085691,2019-02-09,Saint Joseph's Hawks,JOES,Saint Louis Billikens,SLU,91,61,152,30,Michael J. Hagan '85 Arena,False
+401087996,2019-02-09,UL Monroe Warhawks,ULM,Georgia Southern Eagles,GASO,88,79,167,9,Fant-Ewing Coliseum,False
+401088016,2019-02-09,Louisiana Ragin' Cajuns,UL,Georgia State Panthers,GAST,76,72,148,4,Cajundome,False
+401084012,2019-02-09,Akron Zips,AKR,Kent State Golden Flashes,KENT,72,53,125,19,James A. Rhodes Arena,False
+401082686,2019-02-09,Virginia Cavaliers,UVA,Duke Blue Devils,DUKE,71,81,152,-10,John Paul Jones Arena,False
+401083644,2019-02-10,Gonzaga Bulldogs,GONZ,Saint Mary's Gaels,SMC,94,46,140,48,McCarthey Athletic Center,False
+401083080,2019-02-09,Mississippi State Bulldogs,MSST,Kentucky Wildcats,UK,67,71,138,-4,Humphrey Coliseum,False
+401089699,2019-02-09,Nevada Wolf Pack,NEV,New Mexico Lobos,UNM,91,62,153,29,Lawlor Events Center,False
+401082464,2019-02-09,Michigan Wolverines,MICH,Wisconsin Badgers,WIS,61,52,113,9,Crisler Center,False
+401082867,2019-02-09,North Carolina Tar Heels,UNC,Miami Hurricanes,MIA,88,85,173,3,Dean E. Smith Center,False
+401082487,2019-02-09,Michigan State Spartans,MSU,Minnesota Golden Gophers,MINN,79,55,134,24,Breslin Center,False
+401083262,2019-02-09,Marquette Golden Eagles,MARQ,Villanova Wildcats,VILL,66,65,131,1,Fiserv Forum,False
+401082661,2019-02-09,Clemson Tigers,CLEM,Virginia Tech Hokies,VT,59,51,110,8,Littlejohn Coliseum,False
+401083536,2019-02-09,Kansas Jayhawks,KU,Oklahoma State Cowboys,OKST,84,72,156,12,Allen Fieldhouse,False
+401082526,2019-02-10,Purdue Boilermakers,PUR,Nebraska Cornhuskers,NEB,81,62,143,19,Mackey Arena,False
+401082710,2019-02-09,Florida State Seminoles,FSU,Louisville Cardinals,LOU,80,75,155,5,Tucker Center,False
+401083419,2019-02-09,Iowa State Cyclones,ISU,TCU Horned Frogs,TCU,83,92,175,-9,Hilton Coliseum,False
+401083488,2019-02-09,Oklahoma Sooners,OU,Texas Tech Red Raiders,TTU,54,66,120,-12,Lloyd Noble Center,False
+401088518,2019-02-09,Buffalo Bulls,BUF,Central Michigan Chippewas,CMU,90,76,166,14,Alumni Arena,False
+401084798,2019-02-10,Houston Cougars,HOU,Cincinnati Bearcats,CIN,65,58,123,7,Fertitta Center,False
+401082411,2019-02-10,Iowa Hawkeyes,IOWA,Northwestern Wildcats,NU,80,79,159,1,Carver-Hawkeye Arena,False
+401082774,2019-02-12,North Carolina Tar Heels,UNC,Virginia Cavaliers,UVA,61,69,130,-8,Dean E. Smith Center,False
+401083523,2019-02-12,TCU Horned Frogs,TCU,Kansas Jayhawks,KU,77,82,159,-5,Schollmaier Arena,False
+401082687,2019-02-13,Louisville Cardinals,LOU,Duke Blue Devils,DUKE,69,71,140,-2,KFC Yum! Center,False
+401083118,2019-02-13,Kentucky Wildcats,UK,LSU Tigers,LSU,71,73,144,-2,Rupp Arena,False
+401082465,2019-02-13,Penn State Nittany Lions,PSU,Michigan Wolverines,MICH,75,69,144,6,Bryce Jordan Center,False
+401083263,2019-02-13,DePaul Blue Demons,DEP,Marquette Golden Eagles,MARQ,73,92,165,-19,Wintrust Arena,False
+401082488,2019-02-13,Wisconsin Badgers,WIS,Michigan State Spartans,MSU,59,67,126,-8,Kohl Center,False
+401082440,2019-02-12,Maryland Terrapins,MD,Purdue Boilermakers,PUR,70,56,126,14,XFINITY Center,False
+401083443,2019-02-13,Texas Longhorns,TEX,Kansas State Wildcats,KSU,64,71,135,-7,Frank Erwin Center,False
+401084013,2019-02-13,Akron Zips,AKR,Buffalo Bulls,BUF,70,76,146,-6,James A. Rhodes Arena,False
+401083037,2019-02-13,Tennessee Volunteers,TENN,South Carolina Gamecocks,SC,85,73,158,12,Food City Center,False
+401083323,2019-02-13,Villanova Wildcats,VILL,Providence Friars,PROV,85,67,152,18,Finneran Pavilion,False
+401083489,2019-02-14,Oklahoma State Cowboys,OKST,Texas Tech Red Raiders,TTU,50,78,128,-28,Gallagher-Iba Arena,False
+401082711,2019-02-14,Florida State Seminoles,FSU,Wake Forest Demon Deacons,WAKE,88,66,154,22,Tucker Center,False
+401082757,2019-02-14,Virginia Tech Hokies,VT,Georgia Tech Yellow Jackets,GT,76,68,144,8,Cassell Coliseum,False
+401083645,2019-02-15,Loyola Marymount Lions,LMU,Gonzaga Bulldogs,GONZ,60,73,133,-13,Gersten Pavilion,False
+401084632,2019-02-15,UConn Huskies,CONN,Houston Cougars,HOU,63,71,134,-8,PeoplesBank Arena,False
+401087430,2019-02-16,Toledo Rockets,TOL,Buffalo Bulls,BUF,82,88,170,-6,Savage Arena,False
+401082991,2019-02-17,Kentucky Wildcats,UK,Tennessee Volunteers,TENN,86,69,155,17,Rupp Arena,False
+401082688,2019-02-16,Duke Blue Devils,DUKE,NC State Wolfpack,NCSU,94,78,172,16,Cameron Indoor Stadium,False
+401083646,2019-02-17,San Diego Toreros,USD,Gonzaga Bulldogs,GONZ,67,79,146,-12,Jenny Craig Pavilion,False
+401082775,2019-02-16,Virginia Cavaliers,UVA,Notre Dame Fighting Irish,ND,60,54,114,6,John Paul Jones Arena,False
+401082441,2019-02-16,Michigan Wolverines,MICH,Maryland Terrapins,MD,65,52,117,13,Crisler Center,False
+401089700,2019-02-17,Wyoming Cowboys,WYO,Nevada Wolf Pack,NEV,49,82,131,-33,Arena-Auditorium,False
+401082735,2019-02-16,Wake Forest Demon Deacons,WAKE,North Carolina Tar Heels,UNC,57,95,152,-38,LJVM Coliseum,False
+401082577,2019-02-16,Purdue Boilermakers,PUR,Penn State Nittany Lions,PSU,76,64,140,12,Mackey Arena,False
+401083470,2019-02-16,Kansas Jayhawks,KU,West Virginia Mountaineers,WVU,78,53,131,25,Allen Fieldhouse,False
+401083395,2019-02-16,Texas Tech Red Raiders,TTU,Baylor Bears,BAY,86,61,147,25,United Supermarkets Arena,False
+401082663,2019-02-16,Louisville Cardinals,LOU,Clemson Tigers,CLEM,56,55,111,1,KFC Yum! Center,False
+401082712,2019-02-16,Georgia Tech Yellow Jackets,GT,Florida State Seminoles,FSU,47,69,116,-22,McCamish Pavilion,False
+401083420,2019-02-16,Kansas State Wildcats,KSU,Iowa State Cyclones,ISU,64,78,142,-14,Bramlage Coliseum,False
+401083119,2019-02-16,Georgia Bulldogs,UGA,LSU Tigers,LSU,79,83,162,-4,Stegeman Coliseum,False
+401082412,2019-02-16,Rutgers Scarlet Knights,RUTG,Iowa Hawkeyes,IOWA,69,71,140,-2,Jersey Mike’s Arena,False
+401082758,2019-02-16,Pittsburgh Panthers,PITT,Virginia Tech Hokies,VT,64,70,134,-6,Petersen Events Center,False
+401084808,2019-02-17,Tulane Green Wave,TULN,Houston Cougars,HOU,50,85,135,-35,Devlin Fieldhouse,False
+401082489,2019-02-17,Michigan State Spartans,MSU,Ohio State Buckeyes,OSU,62,44,106,18,Breslin Center,False
+401083347,2019-02-17,St. John's Red Storm,SJU,Villanova Wildcats,VILL,71,65,136,6,Madison Square Garden,False
+401082759,2019-02-19,Virginia Tech Hokies,VT,Virginia Cavaliers,UVA,58,64,122,-6,Cassell Coliseum,False
+401082356,2019-02-19,Wisconsin Badgers,WIS,Illinois Fighting Illini,ILL,64,58,122,6,Kohl Center,False
+401083444,2019-02-19,West Virginia Mountaineers,WVU,Kansas State Wildcats,KSU,51,65,116,-14,WVU Coliseum,False
+401087409,2019-02-20,Buffalo Bulls,BUF,Ohio Bobcats,OHIO,114,67,181,47,Alumni Arena,False
+401082689,2019-02-21,Duke Blue Devils,DUKE,North Carolina Tar Heels,UNC,72,88,160,-16,Cameron Indoor Stadium,False
+401089685,2019-02-21,San Diego State Aztecs,SDSU,Nevada Wolf Pack,NEV,65,57,122,8,Viejas Arena,False
+401082490,2019-02-20,Michigan State Spartans,MSU,Rutgers Scarlet Knights,RUTG,71,60,131,11,Breslin Center,False
+401083214,2019-02-21,Marquette Golden Eagles,MARQ,Butler Bulldogs,BUT,79,69,148,10,Fiserv Forum,False
+401083120,2019-02-21,LSU Tigers,LSU,Florida Gators,FLA,77,82,159,-5,Pete Maravich Assembly Center,False
+401083287,2019-02-20,Georgetown Hoyas,GTWN,Villanova Wildcats,VILL,85,73,158,12,Capital One Arena,False
+401082798,2019-02-21,Syracuse Orange,SYR,Louisville Cardinals,LOU,69,49,118,20,JMA Wireless Dome,False
+401083647,2019-02-22,Gonzaga Bulldogs,GONZ,Pepperdine Waves,PEPP,92,64,156,28,McCarthey Athletic Center,False
+401082466,2019-02-22,Minnesota Golden Gophers,MINN,Michigan Wolverines,MICH,60,69,129,-9,Williams Arena,False
+401082387,2019-02-23,Iowa Hawkeyes,IOWA,Indiana Hoosiers,IU,76,70,146,6,Carver-Hawkeye Arena,False
+401089487,2019-02-23,Buffalo Bulls,BUF,Kent State Golden Flashes,KENT,80,57,137,23,Alumni Arena,False
+401082690,2019-02-23,Syracuse Orange,SYR,Duke Blue Devils,DUKE,65,75,140,-10,JMA Wireless Dome,False
+401083625,2019-02-24,Gonzaga Bulldogs,GONZ,BYU Cougars,BYU,102,68,170,34,McCarthey Athletic Center,False
+401082776,2019-02-23,Louisville Cardinals,LOU,Virginia Cavaliers,UVA,52,64,116,-12,KFC Yum! Center,False
+401083137,2019-02-23,Kentucky Wildcats,UK,Auburn Tigers,AUB,80,53,133,27,Rupp Arena,False
+401082992,2019-02-23,LSU Tigers,LSU,Tennessee Volunteers,TENN,82,80,162,2,Pete Maravich Assembly Center,False
+401089673,2019-02-24,Nevada Wolf Pack,NEV,Fresno State Bulldogs,FRES,74,68,142,6,Lawlor Events Center,False
+401082713,2019-02-23,North Carolina Tar Heels,UNC,Florida State Seminoles,FSU,77,59,136,18,Dean E. Smith Center,False
+401084813,2019-02-23,Houston Cougars,HOU,South Florida Bulls,USF,71,59,130,12,Fertitta Center,False
+401083264,2019-02-23,Providence Friars,PROV,Marquette Golden Eagles,MARQ,58,76,134,-18,Amica Mutual Pavilion,False
+401083490,2019-02-24,Texas Tech Red Raiders,TTU,Kansas Jayhawks,KU,91,62,153,29,United Supermarkets Arena,False
+401082529,2019-02-23,Nebraska Cornhuskers,NEB,Purdue Boilermakers,PUR,72,75,147,-3,Pinnacle Bank Arena,False
+401083421,2019-02-23,TCU Horned Frogs,TCU,Iowa State Cyclones,ISU,75,72,147,3,Schollmaier Arena,False
+401082760,2019-02-23,Notre Dame Fighting Irish,ND,Virginia Tech Hokies,VT,59,67,126,-8,Purcell Pavilion,False
+401082544,2019-02-24,Northwestern Wildcats,NU,Wisconsin Badgers,WIS,64,69,133,-5,Welsh-Ryan Arena,False
+401083445,2019-02-23,Kansas State Wildcats,KSU,Oklahoma State Cowboys,OKST,85,46,131,39,Bramlage Coliseum,False
+401082442,2019-02-23,Maryland Terrapins,MD,Ohio State Buckeyes,OSU,72,62,134,10,XFINITY Center,False
+401082467,2019-02-24,Michigan Wolverines,MICH,Michigan State Spartans,MSU,70,77,147,-7,Crisler Center,False
+401083361,2019-02-24,Xavier Musketeers,XAV,Villanova Wildcats,VILL,66,54,120,12,Cintas Center,False
+401083446,2019-02-26,Kansas Jayhawks,KU,Kansas State Wildcats,KSU,64,49,113,15,Allen Fieldhouse,False
+401082714,2019-02-26,Florida State Seminoles,FSU,Notre Dame Fighting Irish,ND,68,61,129,7,Tucker Center,False
+401082691,2019-02-27,Virginia Tech Hokies,VT,Duke Blue Devils,DUKE,77,72,149,5,Cassell Coliseum,False
+401083019,2019-02-27,Kentucky Wildcats,UK,Arkansas Razorbacks,ARK,70,66,136,4,Rupp Arena,False
+401082799,2019-02-27,North Carolina Tar Heels,UNC,Syracuse Orange,SYR,93,85,178,8,Dean E. Smith Center,False
+401083121,2019-02-27,LSU Tigers,LSU,Texas A&M Aggies,TA&M,66,55,121,11,Pete Maravich Assembly Center,False
+401082388,2019-02-27,Indiana Hoosiers,IU,Wisconsin Badgers,WIS,75,73,148,2,Simon Skjodt Assembly Hall,False
+401084017,2019-02-27,Buffalo Bulls,BUF,Akron Zips,AKR,77,64,141,13,Alumni Arena,False
+401082414,2019-02-27,Ohio State Buckeyes,OSU,Iowa Hawkeyes,IOWA,90,70,160,20,Value City Arena,False
+401082777,2019-02-28,Virginia Cavaliers,UVA,Georgia Tech Yellow Jackets,GT,81,51,132,30,John Paul Jones Arena,False
+401082993,2019-02-28,Ole Miss Rebels,MISS,Tennessee Volunteers,TENN,71,73,144,-2,The Sandy and John Black Pavilion at Ole Miss,False
+401084818,2019-02-28,East Carolina Pirates,ECU,Houston Cougars,HOU,65,99,164,-34,Minges Coliseum,False
+401083265,2019-02-28,Villanova Wildcats,VILL,Marquette Golden Eagles,MARQ,67,61,128,6,Finneran Pavilion,False
+401083491,2019-02-28,Texas Tech Red Raiders,TTU,Oklahoma State Cowboys,OKST,84,80,164,4,United Supermarkets Arena,False
+401089701,2019-02-28,Nevada Wolf Pack,NEV,UNLV Rebels,UNLV,89,73,162,16,Lawlor Events Center,False
+401082358,2019-02-28,Purdue Boilermakers,PUR,Illinois Fighting Illini,ILL,73,56,129,17,Mackey Arena,False
+401082443,2019-02-27,Penn State Nittany Lions,PSU,Maryland Terrapins,MD,78,61,139,17,Bryce Jordan Center,False
+401084820,2019-02-28,SMU Mustangs,SMU,Cincinnati Bearcats,CIN,49,52,101,-3,Moody Coliseum (Dallas),False
+401082468,2019-03-01,Michigan Wolverines,MICH,Nebraska Cornhuskers,NEB,82,53,135,29,Crisler Center,False
+401088790,2019-03-01,Chattanooga Mocs,UTC,Wofford Terriers,WOF,54,80,134,-26,McKenzie Arena,False
+401087074,2019-03-01,California Golden Bears,CAL,Washington Huskies,WASH,76,73,149,3,Haas Pavilion,False
+401089561,2019-03-02,Miami (OH) RedHawks,M-OH,Buffalo Bulls,BUF,69,77,146,-8,Millett Hall,False
+401083649,2019-03-03,Saint Mary's Gaels,SMC,Gonzaga Bulldogs,GONZ,55,69,124,-14,University Credit Union Pavilion,False
+401082778,2019-03-02,Virginia Cavaliers,UVA,Pittsburgh Panthers,PITT,73,49,122,24,John Paul Jones Arena,False
+401082692,2019-03-02,Duke Blue Devils,DUKE,Miami Hurricanes,MIA,87,57,144,30,Cameron Indoor Stadium,False
+401082994,2019-03-02,Tennessee Volunteers,TENN,Kentucky Wildcats,UK,71,52,123,19,Food City Center,False
+401082666,2019-03-02,Clemson Tigers,CLEM,North Carolina Tar Heels,UNC,79,81,160,-2,Littlejohn Coliseum,False
+401082389,2019-03-02,Indiana Hoosiers,IU,Michigan State Spartans,MSU,63,62,125,1,Simon Skjodt Assembly Hall,False
+401084822,2019-03-02,Houston Cougars,HOU,UCF Knights,UCF,64,69,133,-5,Fertitta Center,False
+401083492,2019-03-02,TCU Horned Frogs,TCU,Texas Tech Red Raiders,TTU,66,81,147,-15,Schollmaier Arena,False
+401089702,2019-03-03,Utah State Aggies,USU,Nevada Wolf Pack,NEV,81,76,157,5,Dee Glen Smith Spectrum,False
+401082971,2019-03-02,Alabama Crimson Tide,ALA,LSU Tigers,LSU,69,74,143,-5,Coleman Coliseum,False
+401082562,2019-03-02,Purdue Boilermakers,PUR,Ohio State Buckeyes,OSU,86,51,137,35,Mackey Arena,False
+401083537,2019-03-02,Oklahoma State Cowboys,OKST,Kansas Jayhawks,KU,67,72,139,-5,Gallagher-Iba Arena,False
+401083399,2019-03-03,Kansas State Wildcats,KSU,Baylor Bears,BAY,66,60,126,6,Bramlage Coliseum,False
+401082715,2019-03-02,Florida State Seminoles,FSU,NC State Wolfpack,NCSU,78,73,151,5,Tucker Center,False
+401082578,2019-03-02,Wisconsin Badgers,WIS,Penn State Nittany Lions,PSU,61,57,118,4,Kohl Center,False
+401082415,2019-03-02,Iowa Hawkeyes,IOWA,Rutgers Scarlet Knights,RUTG,72,86,158,-14,Carver-Hawkeye Arena,False
+401084823,2019-03-03,Cincinnati Bearcats,CIN,Memphis Tigers,MEM,71,69,140,2,Fifth Third Arena,False
+401088816,2019-03-02,Samford Bulldogs,SAM,Wofford Terriers,WOF,64,85,149,-21,Pete Hanna Center,False
+401082444,2019-03-03,Maryland Terrapins,MD,Michigan Wolverines,MICH,62,69,131,-7,XFINITY Center,False
+401083241,2019-03-03,Marquette Golden Eagles,MARQ,Creighton Bluejays,CREI,60,66,126,-6,Fiserv Forum,False
+401087146,2019-03-03,Stanford Cardinal,STAN,Washington Huskies,WASH,61,62,123,-1,Maples Pavilion,False
+401082779,2019-03-05,Syracuse Orange,SYR,Virginia Cavaliers,UVA,53,79,132,-26,JMA Wireless Dome,False
+401083493,2019-03-05,Texas Tech Red Raiders,TTU,Texas Longhorns,TEX,70,51,121,19,United Supermarkets Arena,False
+401083447,2019-03-05,TCU Horned Frogs,TCU,Kansas State Wildcats,KSU,52,64,116,-12,Schollmaier Arena,False
+401082640,2019-03-06,Boston College Eagles,BC,North Carolina Tar Heels,UNC,66,79,145,-13,Conte Forum,False
+401082693,2019-03-06,Duke Blue Devils,DUKE,Wake Forest Demon Deacons,WAKE,71,70,141,1,Cameron Indoor Stadium,False
+401082995,2019-03-06,Tennessee Volunteers,TENN,Mississippi State Bulldogs,MSST,71,54,125,17,Food City Center,False
+401083103,2019-03-06,Ole Miss Rebels,MISS,Kentucky Wildcats,UK,76,80,156,-4,The Sandy and John Black Pavilion at Ole Miss,False
+401082491,2019-03-06,Michigan State Spartans,MSU,Nebraska Cornhuskers,NEB,91,76,167,15,Breslin Center,False
+401082511,2019-03-06,Minnesota Golden Gophers,MINN,Purdue Boilermakers,PUR,73,69,142,4,Williams Arena,False
+401083546,2019-03-06,Oklahoma Sooners,OU,Kansas Jayhawks,KU,81,68,149,13,Lloyd Noble Center,False
+401082716,2019-03-06,Florida State Seminoles,FSU,Virginia Tech Hokies,VT,73,64,137,9,Tucker Center,False
+401089599,2019-03-06,Air Force Falcons,AF,Nevada Wolf Pack,NEV,79,90,169,-11,Clune Arena,False
+401087412,2019-03-06,Ohio Bobcats,OHIO,Buffalo Bulls,BUF,79,82,161,-3,Convocation Center (OH),False
+401083122,2019-03-07,Florida Gators,FLA,LSU Tigers,LSU,78,79,157,-1,Stephen C. O'Connell Center,False
+401083266,2019-03-06,Seton Hall Pirates,HALL,Marquette Golden Eagles,MARQ,73,64,137,9,Prudential Center,False
+401084830,2019-03-08,Houston Cougars,HOU,SMU Mustangs,SMU,90,79,169,11,Fertitta Center,False
+401084829,2019-03-08,UCF Knights,UCF,Cincinnati Bearcats,CIN,58,55,113,3,Addition Financial Arena,False
+401082416,2019-03-08,Wisconsin Badgers,WIS,Iowa Hawkeyes,IOWA,65,45,110,20,Kohl Center,False
+401082761,2019-03-09,Virginia Tech Hokies,VT,Miami Hurricanes,MIA,84,70,154,14,Cassell Coliseum,False
+401088411,2019-03-08,Buffalo Bulls,BUF,Bowling Green Falcons,BGSU,84,73,157,11,Alumni Arena,False
+401082445,2019-03-09,Maryland Terrapins,MD,Minnesota Golden Gophers,MINN,69,60,129,9,XFINITY Center,False
+401082780,2019-03-09,Virginia Cavaliers,UVA,Louisville Cardinals,LOU,73,68,141,5,John Paul Jones Arena,False
+401082694,2019-03-09,North Carolina Tar Heels,UNC,Duke Blue Devils,DUKE,79,70,149,9,Dean E. Smith Center,False
+401082996,2019-03-09,Auburn Tigers,AUB,Tennessee Volunteers,TENN,84,80,164,4,Neville Arena,False
+401083138,2019-03-09,Kentucky Wildcats,UK,Florida Gators,FLA,66,57,123,9,Rupp Arena,False
+401082469,2019-03-10,Michigan State Spartans,MSU,Michigan Wolverines,MICH,75,63,138,12,Breslin Center,False
+401083425,2019-03-09,Iowa State Cyclones,ISU,Texas Tech Red Raiders,TTU,73,80,153,-7,Hilton Coliseum,False
+401082947,2019-03-10,LSU Tigers,LSU,Vanderbilt Commodores,VAN,80,59,139,21,Pete Maravich Assembly Center,False
+401082546,2019-03-09,Northwestern Wildcats,NU,Purdue Boilermakers,PUR,57,70,127,-13,Welsh-Ryan Arena,False
+401083401,2019-03-09,Kansas Jayhawks,KU,Baylor Bears,BAY,78,70,148,8,Allen Fieldhouse,False
+401082717,2019-03-09,Wake Forest Demon Deacons,WAKE,Florida State Seminoles,FSU,57,65,122,-8,LJVM Coliseum,False
+401083267,2019-03-09,Marquette Golden Eagles,MARQ,Georgetown Hoyas,GTWN,84,86,170,-2,Fiserv Forum,False
+401089689,2019-03-10,Nevada Wolf Pack,NEV,San Diego State Aztecs,SDSU,81,53,134,28,Lawlor Events Center,False
+401083448,2019-03-09,Kansas State Wildcats,KSU,Oklahoma Sooners,OU,68,53,121,15,Bramlage Coliseum,False
+401083336,2019-03-09,Seton Hall Pirates,HALL,Villanova Wildcats,VILL,79,75,154,4,Prudential Center,False
+401084831,2019-03-09,Temple Owls,TEM,UCF Knights,UCF,67,62,129,5,Liacouras Center,False
+401084834,2019-03-10,Cincinnati Bearcats,CIN,Houston Cougars,HOU,69,85,154,-16,Fifth Third Arena,False
+401082563,2019-03-10,Ohio State Buckeyes,OSU,Wisconsin Badgers,WIS,67,73,140,-6,Value City Arena,False
+401121789,2019-03-11,Hofstra Pride,HOF,Delaware Blue Hens,DEL,78,74,152,4,North Charleston Coliseum,True
+401121741,2019-03-11,Savannah State Tigers,SAV,Delaware State Hornets,DSU,67,71,138,-4,Norfolk Scope Arena,True
+401121810,2019-03-11,Wright State Raiders,WRST,Green Bay Phoenix,GB,66,54,120,12,Little Caesars Arena,True
+401121730,2019-03-11,Eastern Michigan Eagles,EMU,Ball State Cardinals,BALL,43,61,104,-18,Gervin GameAbove Center,False
+401121728,2019-03-11,Central Michigan Chippewas,CMU,Western Michigan Broncos,WMU,81,67,148,14,McGuirk Arena,False
+401121697,2019-03-11,North Dakota State Bison,NDSU,Western Illinois Leathernecks,WIU,76,73,149,3,Denny Sanford Premier Center,True
+401121618,2019-03-11,Wofford Terriers,WOF,UNC Greensboro Spartans,UNCG,70,58,128,12,Harrah's Cherokee Center,True
+401121731,2019-03-12,Akron Zips,AKR,Miami (OH) RedHawks,M-OH,80,51,131,29,James A. Rhodes Arena,False
+401121790,2019-03-12,Northeastern Huskies,NE,Charleston Cougars,COFC,70,67,137,3,North Charleston Coliseum,True
+401121841,2019-03-12,Gonzaga Bulldogs,GONZ,Pepperdine Waves,PEPP,100,74,174,26,Orleans Arena,True
+401121799,2019-03-12,Iona Gaels,IONA,Monmouth Hawks,MONM,81,60,141,21,MVP Arena,True
+401121729,2019-03-12,Northern Illinois Huskies,NIU,Ohio Bobcats,OHIO,80,61,141,19,NIU Convocation Center,False
+401121698,2019-03-12,Omaha Mavericks,OMA,Purdue Fort Wayne Mastodons,PFW,61,60,121,1,Denny Sanford Premier Center,True
+401121811,2019-03-12,Northern Kentucky Norse,NKU,Oakland Golden Grizzlies,OAK,64,63,127,1,Little Caesars Arena,True
+401121842,2019-03-12,Saint Mary's Gaels,SMC,San Diego Toreros,USD,69,62,131,7,Orleans Arena,True
+401120693,2019-03-12,Miami Hurricanes,MIA,Wake Forest Demon Deacons,WAKE,79,71,150,8,Spectrum Center,True
+401120694,2019-03-12,Georgia Tech Yellow Jackets,GT,Notre Dame Fighting Irish,ND,71,78,149,-7,Spectrum Center,True
+401121739,2019-03-12,Maryland Eastern Shore Hawks,UMES,South Carolina State Bulldogs,SCST,54,63,117,-9,Norfolk Scope Arena,True
+401121809,2019-03-12,Wright State Raiders,WRST,Northern Kentucky Norse,NKU,66,77,143,-11,Little Caesars Arena,True
+401121792,2019-03-12,Saint Francis Red Flash,SFPA,Fairleigh Dickinson Knights,FDU,76,85,161,-9,DeGol Arena,False
+401121791,2019-03-12,Hofstra Pride,HOF,Northeastern Huskies,NE,74,82,156,-8,North Charleston Coliseum,True
+401121702,2019-03-12,UMBC Retrievers,UMBC,Hartford Hawks,HART,90,85,175,5,RAC Arena (USA),False
+401121701,2019-03-12,Vermont Catamounts,UVM,Binghamton Bearcats,BING,84,51,135,33,Patrick Gymnasium,False
+401120695,2019-03-12,Boston College Eagles,BC,Pittsburgh Panthers,PITT,70,80,150,-10,Spectrum Center,True
+401121620,2019-03-13,UL Monroe Warhawks,ULM,App State Mountaineers,APP,89,80,169,9,Fant-Ewing Coliseum,False
+401121619,2019-03-13,South Alabama Jaguars,USA,Arkansas State Red Wolves,ARST,75,67,142,8,Mitchell Center,False
+401121854,2019-03-13,Texas Southern Tigers,TXSO,Southern Jaguars,SOU,80,70,150,10,H&PE Arena,False
+401121853,2019-03-13,Grambling Tigers,GRAM,Arkansas-Pine Bluff Golden Lions,UAPB,59,52,111,7,Fredrick C. Hobdy Assembly Center,False
+401121852,2019-03-13,Prairie View A&M Panthers,PV,Alcorn State Braves,ALCN,86,66,152,20,William Nicks Building,False
+401121740,2019-03-13,Coppin State Eagles,COPP,Morgan State Bears,MORG,81,71,152,10,Norfolk Scope Arena,True
+401121855,2019-03-13,Jackson State Tigers,JKST,Alabama State Hornets,ALST,49,58,107,-9,Lee E. Williams Athletics and Assembly Center,False
+401121840,2019-03-13,Gonzaga Bulldogs,GONZ,Saint Mary's Gaels,SMC,47,60,107,-13,Orleans Arena,True
+401121699,2019-03-13,Omaha Mavericks,OMA,North Dakota State Bison,NDSU,63,73,136,-10,Denny Sanford Premier Center,True
+401121780,2019-03-13,Northern Arizona Lumberjacks,NAU,Sacramento State Hornets,SAC,60,72,132,-12,Idaho Central Arena,True
+401120696,2019-03-13,NC State Wolfpack,NCSU,Clemson Tigers,CLEM,59,58,117,1,Spectrum Center,True
+401121518,2019-03-13,George Washington Revolutionaries,GW,Massachusetts Minutemen,MASS,68,64,132,4,Barclays Center,True
+401121782,2019-03-13,Southern Utah Thunderbirds,SUU,Idaho State Bengals,IDST,94,80,174,14,Idaho Central Arena,True
+401121593,2019-03-13,Boise State Broncos,BOIS,Colorado State Rams,CSU,66,57,123,9,Thomas & Mack Center,True
+401120697,2019-03-13,Virginia Tech Hokies,VT,Miami Hurricanes,MIA,71,56,127,15,Spectrum Center,True
+401120749,2019-03-13,USC Trojans,USC,Arizona Wildcats,ARIZ,78,65,143,13,T-Mobile Arena,True
+401121519,2019-03-13,Richmond Spiders,RICH,Fordham Rams,FOR,52,50,102,2,Barclays Center,True
+401121781,2019-03-13,Montana State Bobcats,MTST,Idaho Vandals,IDHO,75,71,146,4,Idaho Central Arena,True
+401121594,2019-03-13,New Mexico Lobos,UNM,Wyoming Cowboys,WYO,78,68,146,10,Thomas & Mack Center,True
+401120750,2019-03-13,Colorado Buffaloes,COLO,California Golden Bears,CAL,56,51,107,5,T-Mobile Arena,True
+401121737,2019-03-13,Norfolk State Spartans,NORF,South Carolina State Bulldogs,SCST,78,73,151,5,Norfolk Scope Arena,True
+401121582,2019-03-13,Lamar Cardinals,LAM,Houston Christian Huskies,HCU,81,79,160,2,Leonard E. Merrell Center,True
+401120727,2019-03-13,Rutgers Scarlet Knights,RUTG,Nebraska Cornhuskers,NEB,61,68,129,-7,United Center,True
+401121639,2019-03-13,Louisiana Tech Bulldogs,LT,Florida Atlantic Owls,FAU,57,56,113,1,Ford Center At The Star,True
+401121595,2019-03-13,Air Force Falcons,AF,San José State Spartans,SJSU,87,56,143,31,Thomas & Mack Center,True
+401120740,2019-03-13,Providence Friars,PROV,Butler Bulldogs,BUT,80,57,137,23,Madison Square Garden,True
+401120718,2019-03-13,TCU Horned Frogs,TCU,Oklahoma State Cowboys,OKST,73,70,143,3,T-Mobile Center,True
+401120698,2019-03-13,Louisville Cardinals,LOU,Notre Dame Fighting Irish,ND,75,53,128,22,Spectrum Center,True
+401119810,2019-03-13,Missouri Tigers,MIZ,Georgia Bulldogs,UGA,71,61,132,10,Bridgestone Arena,True
+401121851,2019-03-13,Colgate Raiders,COLG,Bucknell Bison,BUCK,94,80,174,14,Cotterell Court,False
+401121638,2019-03-13,UAB Blazers,UAB,Middle Tennessee Blue Raiders,MTSU,70,61,131,9,Ford Center At The Star,True
+401121738,2019-03-14,North Carolina A&T Aggies,NCAT,Coppin State Eagles,COPP,82,79,161,3,Norfolk Scope Arena,True
+401121583,2019-03-14,Texas A&M-Corpus Christi Islanders,AMCC,Central Arkansas Bears,CARK,53,73,126,-20,Leonard E. Merrell Center,True
+401120751,2019-03-14,UCLA Bruins,UCLA,Stanford Cardinal,STAN,79,72,151,7,T-Mobile Arena,True
+401119811,2019-03-14,Texas A&M Aggies,TA&M,Vanderbilt Commodores,VAN,69,52,121,17,Bridgestone Arena,True
+401120728,2019-03-14,Illinois Fighting Illini,ILL,Northwestern Wildcats,NU,74,69,143,5,United Center,True
+401120699,2019-03-14,Syracuse Orange,SYR,Pittsburgh Panthers,PITT,73,59,132,14,Spectrum Center,True
+401121640,2019-03-14,Florida International Panthers,FIU,North Texas Mean Green,UNT,57,71,128,-14,Ford Center At The Star,True
+401120741,2019-03-14,St. John's Red Storm,SJU,DePaul Blue Demons,DEP,82,74,156,8,Madison Square Garden,False
+401120719,2019-03-14,Oklahoma Sooners,OU,West Virginia Mountaineers,WVU,71,72,143,-1,T-Mobile Center,True
+401121641,2019-03-14,Marshall Thundering Herd,MRSH,Rice Owls,RICE,82,65,147,17,Ford Center At The Star,True
+401120752,2019-03-14,Oregon Ducks,ORE,Washington State Cougars,WSU,84,51,135,33,T-Mobile Arena,True
+401121724,2019-03-14,Buffalo Bulls,BUF,Akron Zips,AKR,82,46,128,36,Rocket Arena,True
+401121520,2019-03-14,Rhode Island Rams,URI,La Salle Explorers,LAS,76,57,133,19,Barclays Center,True
+401120742,2019-03-14,Villanova Wildcats,VILL,Providence Friars,PROV,73,62,135,11,Madison Square Garden,True
+401120729,2019-03-14,Ohio State Buckeyes,OSU,Indiana Hoosiers,IU,79,75,154,4,United Center,True
+401120720,2019-03-14,Baylor Bears,BAY,Iowa State Cyclones,ISU,66,83,149,-17,T-Mobile Center,True
+401120700,2019-03-14,Virginia Cavaliers,UVA,NC State Wolfpack,NCSU,76,56,132,20,Spectrum Center,True
+401120707,2019-03-14,South Florida Bulls,USF,UConn Huskies,CONN,73,80,153,-7,FedExForum,True
+401119812,2019-03-14,Florida Gators,FLA,Arkansas Razorbacks,ARK,66,50,116,16,Bridgestone Arena,True
+401121776,2019-03-14,Montana Grizzlies,MONT,Sacramento State Hornets,SAC,79,73,152,6,Idaho Central Arena,True
+401121725,2019-03-14,Kent State Golden Flashes,KENT,Central Michigan Chippewas,CMU,81,89,170,-8,Rocket Arena,True
+401121521,2019-03-14,George Mason Patriots,GMU,George Washington Revolutionaries,GW,61,57,118,4,Barclays Center,True
+401120743,2019-03-14,Xavier Musketeers,XAV,Creighton Bluejays,CREI,63,61,124,2,Madison Square Garden,True
+401120721,2019-03-14,Kansas State Wildcats,KSU,TCU Horned Frogs,TCU,70,61,131,9,T-Mobile Center,True
+401121833,2019-03-14,UC Santa Barbara Gauchos,UCSB,Cal State Northridge Matadors,CSUN,71,68,139,3,Honda Center,True
+401121710,2019-03-14,New Mexico State Aggies,NMSU,Chicago State Cougars,CHST,86,49,135,37,Orleans Arena,True
+401121596,2019-03-14,Nevada Wolf Pack,NEV,Boise State Broncos,BOIS,77,69,146,8,Thomas & Mack Center,True
+401120753,2019-03-14,Washington Huskies,WASH,USC Trojans,USC,78,75,153,3,T-Mobile Arena,True
+401120701,2019-03-14,Florida State Seminoles,FSU,Virginia Tech Hokies,VT,65,63,128,2,Spectrum Center,True
+401120730,2019-03-14,Maryland Terrapins,MD,Nebraska Cornhuskers,NEB,61,69,130,-8,United Center,True
+401119813,2019-03-14,Auburn Tigers,AUB,Missouri Tigers,MIZ,81,71,152,10,Bridgestone Arena,True
+401120708,2019-03-14,Memphis Tigers,MEM,Tulane Green Wave,TULN,83,68,151,15,FedExForum,False
+401121777,2019-03-14,Weber State Wildcats,WEB,Portland State Vikings,PRST,81,71,152,10,Idaho Central Arena,True
+401121834,2019-03-14,Cal State Fullerton Titans,CSUF,UC Davis Aggies,UCD,75,71,146,4,Honda Center,True
+401121711,2019-03-14,UT Rio Grande Valley Vaqueros,RGV,Cal State Bakersfield Roadrunners,CSUB,85,70,155,15,Orleans Arena,True
+401121597,2019-03-14,San Diego State Aztecs,SDSU,UNLV Rebels,UNLV,63,55,118,8,Thomas & Mack Center,True
+401120754,2019-03-14,Oregon State Beavers,ORST,Colorado Buffaloes,COLO,58,73,131,-15,T-Mobile Arena,True
+401121735,2019-03-14,North Carolina Central Eagles,NCCU,Delaware State Hornets,DSU,75,57,132,18,Norfolk Scope Arena,True
+401121621,2019-03-14,Louisiana Ragin' Cajuns,UL,South Alabama Jaguars,USA,69,70,139,-1,Lakefront Arena,True
+401121584,2019-03-14,New Orleans Privateers,UNO,Lamar Cardinals,LAM,76,72,148,4,Leonard E. Merrell Center,True
+401121524,2019-03-14,Duquesne Dukes,DUQ,Saint Joseph's Hawks,JOES,86,92,178,-6,Barclays Center,True
+401121726,2019-03-14,Toledo Rockets,TOL,Northern Illinois Huskies,NIU,76,80,156,-4,Rocket Arena,True
+401121634,2019-03-14,Old Dominion Monarchs,ODU,Louisiana Tech Bulldogs,LT,57,56,113,1,Ford Center At The Star,True
+401120744,2019-03-14,Marquette Golden Eagles,MARQ,St. John's Red Storm,SJU,86,54,140,32,Madison Square Garden,True
+401120731,2019-03-14,Minnesota Golden Gophers,MINN,Penn State Nittany Lions,PSU,77,72,149,5,United Center,True
+401120722,2019-03-14,Texas Tech Red Raiders,TTU,West Virginia Mountaineers,WVU,74,79,153,-5,T-Mobile Center,True
+401120702,2019-03-14,North Carolina Tar Heels,UNC,Louisville Cardinals,LOU,83,70,153,13,Spectrum Center,True
+401119814,2019-03-14,Ole Miss Rebels,MISS,Alabama Crimson Tide,ALA,57,62,119,-5,Bridgestone Arena,True
+401121778,2019-03-14,Northern Colorado Bears,UNCO,Southern Utah Thunderbirds,SUU,64,83,147,-19,Idaho Central Arena,True
+401121635,2019-03-14,UTSA Roadrunners,UTSA,UAB Blazers,UAB,76,85,161,-9,Ford Center At The Star,True
+401121736,2019-03-15,Howard Bison,HOW,Bethune-Cookman Wildcats,BCU,80,71,151,9,Norfolk Scope Arena,True
+401120709,2019-03-15,Tulsa Golden Hurricane,TLSA,SMU Mustangs,SMU,65,74,139,-9,FedExForum,True
+401121622,2019-03-15,Coastal Carolina Chanticleers,CCU,UL Monroe Warhawks,ULM,50,80,130,-30,Lakefront Arena,True
+401121585,2019-03-15,SE Louisiana Lions,SELA,Central Arkansas Bears,CARK,79,65,144,14,Leonard E. Merrell Center,True
+401121533,2019-03-15,Saint Louis Billikens,SLU,Richmond Spiders,RICH,71,68,139,3,Barclays Center,True
+401121835,2019-03-15,UC Irvine Anteaters,UCI,UC Riverside Highlanders,UCR,63,44,107,19,Honda Center,True
+401121727,2019-03-15,Bowling Green Falcons,BGSU,Ball State Cardinals,BALL,99,86,185,13,Rocket Arena,True
+401121712,2019-03-15,Utah Valley Wolverines,UVU,Kansas City Roos,KC,71,64,135,7,Orleans Arena,True
+401121598,2019-03-15,Utah State Aggies,USU,New Mexico Lobos,UNM,91,83,174,8,Thomas & Mack Center,True
+401120755,2019-03-15,Arizona State Sun Devils,ASU,UCLA Bruins,UCLA,83,72,155,11,T-Mobile Arena,True
+401119815,2019-03-15,Mississippi State Bulldogs,MSST,Texas A&M Aggies,TA&M,80,54,134,26,Bridgestone Arena,True
+401121636,2019-03-15,Western Kentucky Hilltoppers,WKU,North Texas Mean Green,UNT,67,51,118,16,Ford Center At The Star,True
+401120745,2019-03-15,Seton Hall Pirates,HALL,Georgetown Hoyas,GTWN,73,57,130,16,Madison Square Garden,True
+401120703,2019-03-15,Duke Blue Devils,DUKE,Syracuse Orange,SYR,84,72,156,12,Spectrum Center,True
+401120723,2019-03-15,Kansas Jayhawks,KU,Texas Longhorns,TEX,65,57,122,8,T-Mobile Center,False
+401120732,2019-03-15,Iowa Hawkeyes,IOWA,Illinois Fighting Illini,ILL,83,62,145,21,United Center,True
+401121779,2019-03-15,Eastern Washington Eagles,EWU,Montana State Bobcats,MTST,90,84,174,6,Idaho Central Arena,True
+401121637,2019-03-15,Southern Miss Golden Eagles,USM,Marshall Thundering Herd,MRSH,82,73,155,9,Ford Center At The Star,True
+401120710,2019-03-15,Wichita State Shockers,WICH,East Carolina Pirates,ECU,73,57,130,16,FedExForum,True
+401121836,2019-03-15,Hawai'i Rainbow Warriors,HAW,Long Beach State Beach,LBSU,66,68,134,-2,Honda Center,True
+401121713,2019-03-15,Grand Canyon Lopes,GCU,Seattle U Redhawks,SEA,84,75,159,9,Orleans Arena,True
+401121599,2019-03-15,Fresno State Bulldogs,FRES,Air Force Falcons,AF,76,50,126,26,Thomas & Mack Center,True
+401120756,2019-03-15,Utah Utes,UTAH,Oregon Ducks,ORE,54,66,120,-12,T-Mobile Arena,True
+401121534,2019-03-15,VCU Rams,VCU,Rhode Island Rams,URI,70,75,145,-5,Barclays Center,True
+401120711,2019-03-15,Houston Cougars,HOU,UConn Huskies,CONN,84,45,129,39,FedExForum,True
+401120733,2019-03-15,Michigan State Spartans,MSU,Ohio State Buckeyes,OSU,77,70,147,7,United Center,True
+401119816,2019-03-15,LSU Tigers,LSU,Florida Gators,FLA,73,76,149,-3,Bridgestone Arena,True
+401121632,2019-03-15,Old Dominion Monarchs,ODU,UAB Blazers,UAB,61,59,120,2,Ford Center At The Star,True
+401121535,2019-03-15,St. Bonaventure Bonnies,SBU,George Mason Patriots,GMU,68,57,125,11,Barclays Center,True
+401120712,2019-03-15,UCF Knights,UCF,Memphis Tigers,MEM,55,79,134,-24,FedExForum,True
+401120734,2019-03-15,Wisconsin Badgers,WIS,Nebraska Cornhuskers,NEB,66,62,128,4,United Center,True
+401121856,2019-03-15,Prairie View A&M Panthers,PV,Grambling Tigers,GRAM,81,71,152,10,Bill Harris Arena,True
+401119817,2019-03-15,South Carolina Gamecocks,SC,Auburn Tigers,AUB,64,73,137,-9,Bridgestone Arena,True
+401121633,2019-03-15,Western Kentucky Hilltoppers,WKU,Southern Miss Golden Eagles,USM,70,59,129,11,Ford Center At The Star,True
+401121733,2019-03-15,Norfolk State Spartans,NORF,Howard Bison,HOW,75,69,144,6,Norfolk Scope Arena,True
+401121623,2019-03-15,Texas State Bobcats,TXST,South Alabama Jaguars,USA,79,67,146,12,Lakefront Arena,True
+401121586,2019-03-15,Sam Houston Bearkats,SHSU,New Orleans Privateers,UNO,76,79,155,-3,Leonard E. Merrell Center,True
+401121536,2019-03-15,Davidson Wildcats,DAV,Saint Joseph's Hawks,JOES,70,60,130,10,Barclays Center,True
+401121722,2019-03-15,Buffalo Bulls,BUF,Central Michigan Chippewas,CMU,85,81,166,4,Rocket Arena,True
+401120746,2019-03-15,Villanova Wildcats,VILL,Xavier Musketeers,XAV,71,67,138,4,Madison Square Garden,True
+401120735,2019-03-15,Purdue Boilermakers,PUR,Minnesota Golden Gophers,MINN,73,75,148,-2,United Center,True
+401120724,2019-03-15,Kansas State Wildcats,KSU,Iowa State Cyclones,ISU,59,63,122,-4,T-Mobile Center,True
+401120713,2019-03-15,Cincinnati Bearcats,CIN,SMU Mustangs,SMU,82,74,156,8,FedExForum,True
+401120704,2019-03-15,Virginia Cavaliers,UVA,Florida State Seminoles,FSU,59,69,128,-10,Spectrum Center,True
+401119823,2019-03-15,Kentucky Wildcats,UK,Alabama Crimson Tide,ALA,73,55,128,18,Bridgestone Arena,True
+401121774,2019-03-15,Montana Grizzlies,MONT,Weber State Wildcats,WEB,78,49,127,29,Idaho Central Arena,True
+401121734,2019-03-16,North Carolina A&T Aggies,NCAT,North Carolina Central Eagles,NCCU,63,65,128,-2,Norfolk Scope Arena,True
+401121624,2019-03-16,Georgia Southern Eagles,GASO,UL Monroe Warhawks,ULM,81,67,148,14,Lakefront Arena,True
+401121587,2019-03-16,Abilene Christian Wildcats,ACU,SE Louisiana Lions,SELA,69,66,135,3,Leonard E. Merrell Center,True
+401121537,2019-03-16,Dayton Flyers,DAY,Saint Louis Billikens,SLU,55,64,119,-9,Barclays Center,True
+401121723,2019-03-16,Bowling Green Falcons,BGSU,Northern Illinois Huskies,NIU,71,67,138,4,Rocket Arena,True
+401121708,2019-03-16,New Mexico State Aggies,NMSU,UT Rio Grande Valley Vaqueros,RGV,79,72,151,7,Orleans Arena,True
+401121600,2019-03-16,Nevada Wolf Pack,NEV,San Diego State Aztecs,SDSU,56,65,121,-9,Thomas & Mack Center,True
+401120757,2019-03-16,Washington Huskies,WASH,Colorado Buffaloes,COLO,66,61,127,5,T-Mobile Arena,True
+401120714,2019-03-16,Temple Owls,TEM,Wichita State Shockers,WICH,74,80,154,-6,FedExForum,True
+401120747,2019-03-16,Marquette Golden Eagles,MARQ,Seton Hall Pirates,HALL,79,81,160,-2,Madison Square Garden,True
+401120736,2019-03-16,Michigan Wolverines,MICH,Iowa Hawkeyes,IOWA,74,53,127,21,United Center,True
+401121857,2019-03-16,Texas Southern Tigers,TXSO,Alabama State Hornets,ALST,80,66,146,14,Bill Harris Arena,True
+401121837,2019-03-16,UC Irvine Anteaters,UCI,Long Beach State Beach,LBSU,75,67,142,8,Honda Center,True
+401119818,2019-03-16,Tennessee Volunteers,TENN,Mississippi State Bulldogs,MSST,83,76,159,7,Bridgestone Arena,True
+401120725,2019-03-16,Kansas Jayhawks,KU,West Virginia Mountaineers,WVU,88,74,162,14,T-Mobile Center,False
+401120705,2019-03-16,North Carolina Tar Heels,UNC,Duke Blue Devils,DUKE,73,74,147,-1,Spectrum Center,True
+401121775,2019-03-16,Eastern Washington Eagles,EWU,Southern Utah Thunderbirds,SUU,77,61,138,16,Idaho Central Arena,True
+401121709,2019-03-16,Utah Valley Wolverines,UVU,Grand Canyon Lopes,GCU,74,78,152,-4,Orleans Arena,True
+401121601,2019-03-16,Utah State Aggies,USU,Fresno State Bulldogs,FRES,85,60,145,25,Thomas & Mack Center,True
+401120758,2019-03-16,Arizona State Sun Devils,ASU,Oregon Ducks,ORE,75,79,154,-4,T-Mobile Arena,True
+401121838,2019-03-16,UC Santa Barbara Gauchos,UCSB,Cal State Fullerton Titans,CSUF,58,64,122,-6,Honda Center,True
+401121700,2019-03-16,Vermont Catamounts,UVM,UMBC Retrievers,UMBC,66,49,115,17,Patrick Gymnasium,False
+401121628,2019-03-16,Harvard Crimson,HARV,Pennsylvania Quakers,PENN,66,58,124,8,John J. Lee Amphitheater,True
+401121732,2019-03-16,Norfolk State Spartans,NORF,North Carolina Central Eagles,NCCU,47,50,97,-3,Norfolk Scope Arena,True
+401121538,2019-03-16,St. Bonaventure Bonnies,SBU,Rhode Island Rams,URI,68,51,119,17,Barclays Center,True
+401120737,2019-03-16,Michigan State Spartans,MSU,Wisconsin Badgers,WIS,67,55,122,12,United Center,True
+401119820,2019-03-16,Auburn Tigers,AUB,Florida Gators,FLA,65,62,127,3,Bridgestone Arena,True
+401120715,2019-03-16,Houston Cougars,HOU,Memphis Tigers,MEM,61,58,119,3,FedExForum,True
+401121629,2019-03-16,Yale Bulldogs,YALE,Princeton Tigers,PRIN,83,77,160,6,John J. Lee Amphitheater,False
+401119821,2019-03-16,Kentucky Wildcats,UK,Tennessee Volunteers,TENN,78,82,160,-4,Bridgestone Arena,True
+401121539,2019-03-16,Davidson Wildcats,DAV,Saint Louis Billikens,SLU,44,67,111,-23,Barclays Center,True
+401120738,2019-03-16,Michigan Wolverines,MICH,Minnesota Golden Gophers,MINN,76,49,125,27,United Center,True
+401121625,2019-03-16,Georgia State Panthers,GAST,Texas State Bobcats,TXST,59,46,105,13,Lakefront Arena,True
+401120716,2019-03-16,Cincinnati Bearcats,CIN,Wichita State Shockers,WICH,66,63,129,3,FedExForum,True
+401121858,2019-03-16,Prairie View A&M Panthers,PV,Texas Southern Tigers,TXSO,92,86,178,6,Bill Harris Arena,True
+401121602,2019-03-16,Utah State Aggies,USU,San Diego State Aztecs,SDSU,64,57,121,7,Thomas & Mack Center,True
+401120726,2019-03-16,Kansas Jayhawks,KU,Iowa State Cyclones,ISU,66,78,144,-12,T-Mobile Center,False
+401121626,2019-03-16,UT Arlington Mavericks,UTA,Georgia Southern Eagles,GASO,67,58,125,9,Lakefront Arena,True
+401120748,2019-03-16,Villanova Wildcats,VILL,Seton Hall Pirates,HALL,74,72,146,2,Madison Square Garden,True
+401121721,2019-03-16,Buffalo Bulls,BUF,Bowling Green Falcons,BGSU,87,73,160,14,Rocket Arena,True
+401121773,2019-03-17,Montana Grizzlies,MONT,Eastern Washington Eagles,EWU,68,62,130,6,Idaho Central Arena,True
+401121631,2019-03-17,Old Dominion Monarchs,ODU,Western Kentucky Hilltoppers,WKU,62,56,118,6,Ford Center At The Star,True
+401120706,2019-03-17,Duke Blue Devils,DUKE,Florida State Seminoles,FSU,73,63,136,10,Spectrum Center,True
+401121588,2019-03-17,Abilene Christian Wildcats,ACU,New Orleans Privateers,UNO,77,60,137,17,Leonard E. Merrell Center,True
+401121707,2019-03-17,New Mexico State Aggies,NMSU,Grand Canyon Lopes,GCU,89,57,146,32,Orleans Arena,True
+401120759,2019-03-17,Washington Huskies,WASH,Oregon Ducks,ORE,48,68,116,-20,T-Mobile Arena,True
+401121839,2019-03-17,UC Irvine Anteaters,UCI,Cal State Fullerton Titans,CSUF,92,64,156,28,Honda Center,True
+401121630,2019-03-17,Harvard Crimson,HARV,Yale Bulldogs,YALE,85,97,182,-12,John J. Lee Amphitheater,True
+401121540,2019-03-17,St. Bonaventure Bonnies,SBU,Saint Louis Billikens,SLU,53,55,108,-2,Barclays Center,True
+401119822,2019-03-17,Tennessee Volunteers,TENN,Auburn Tigers,AUB,64,84,148,-20,Bridgestone Arena,True
+401121627,2019-03-17,Georgia State Panthers,GAST,UT Arlington Mavericks,UTA,73,64,137,9,Lakefront Arena,True
+401120717,2019-03-17,Houston Cougars,HOU,Cincinnati Bearcats,CIN,57,69,126,-12,FedExForum,True
+401120739,2019-03-17,Michigan State Spartans,MSU,Michigan Wolverines,MICH,65,60,125,5,United Center,True
+401123378,2019-03-19,Prairie View A&M Panthers,PV,Fairleigh Dickinson Knights,FDU,76,82,158,-6,UD Arena,True
+401123380,2019-03-20,Belmont Bruins,BEL,Temple Owls,TEM,81,70,151,11,UD Arena,True
+401123379,2019-03-20,North Dakota State Bison,NDSU,North Carolina Central Eagles,NCCU,78,74,152,4,UD Arena,True
+401123377,2019-03-21,Arizona State Sun Devils,ASU,St. John's Red Storm,SJU,74,65,139,9,UD Arena,True
+401123436,2019-03-21,Louisville Cardinals,LOU,Minnesota Golden Gophers,MINN,76,86,162,-10,Wells Fargo Arena,True
+401123438,2019-03-21,LSU Tigers,LSU,Yale Bulldogs,YALE,79,74,153,5,VyStar Veterans Memorial Arena,True
+401123402,2019-03-21,Auburn Tigers,AUB,New Mexico State Aggies,NMSU,78,77,155,1,Delta Center,True
+401123393,2019-03-21,Florida State Seminoles,FSU,Vermont Catamounts,UVM,76,69,145,7,PeoplesBank Arena,True
+401123435,2019-03-21,Michigan State Spartans,MSU,Bradley Braves,BRAD,76,65,141,11,Wells Fargo Arena,True
+401123437,2019-03-21,Maryland Terrapins,MD,Belmont Bruins,BEL,79,77,156,2,VyStar Veterans Memorial Arena,True
+401123401,2019-03-21,Kansas Jayhawks,KU,Northeastern Huskies,NE,87,53,140,34,Delta Center,True
+401123394,2019-03-21,Marquette Golden Eagles,MARQ,Murray State Racers,MUR,64,83,147,-19,PeoplesBank Arena,True
+401123406,2019-03-21,Nevada Wolf Pack,NEV,Florida Gators,FLA,61,70,131,-9,Wells Fargo Arena,True
+401123403,2019-03-21,Kentucky Wildcats,UK,Abilene Christian Wildcats,ACU,79,44,123,35,VyStar Veterans Memorial Arena,True
+401123396,2019-03-21,Gonzaga Bulldogs,GONZ,Fairleigh Dickinson Knights,FDU,87,49,136,38,Delta Center,True
+401123400,2019-03-21,Villanova Wildcats,VILL,Saint Mary's Gaels,SMC,61,57,118,4,PeoplesBank Arena,True
+401123404,2019-03-22,Wofford Terriers,WOF,Seton Hall Pirates,HALL,84,68,152,16,VyStar Veterans Memorial Arena,True
+401123405,2019-03-22,Michigan Wolverines,MICH,Montana Grizzlies,MONT,74,55,129,19,Wells Fargo Arena,True
+401123395,2019-03-22,Syracuse Orange,SYR,Baylor Bears,BAY,69,78,147,-9,Delta Center,True
+401123399,2019-03-22,Purdue Boilermakers,PUR,Old Dominion Monarchs,ODU,61,48,109,13,PeoplesBank Arena,True
+401123398,2019-03-22,Cincinnati Bearcats,CIN,Iowa Hawkeyes,IOWA,72,79,151,-7,Nationwide Arena,True
+401123411,2019-03-22,Ole Miss Rebels,MISS,Oklahoma Sooners,OU,72,95,167,-23,Colonial Life Arena,True
+401123407,2019-03-22,Texas Tech Red Raiders,TTU,Northern Kentucky Norse,NKU,72,57,129,15,BOK Center,True
+401123409,2019-03-22,Kansas State Wildcats,KSU,UC Irvine Anteaters,UCI,64,70,134,-6,SAP Center at San Jose,True
+401123397,2019-03-22,Tennessee Volunteers,TENN,Colgate Raiders,COLG,77,70,147,7,Nationwide Arena,True
+401123412,2019-03-22,Virginia Cavaliers,UVA,Gardner-Webb Runnin' Bulldogs,GWEB,71,56,127,15,Colonial Life Arena,True
+401123408,2019-03-22,Buffalo Bulls,BUF,Arizona State Sun Devils,ASU,91,74,165,17,BOK Center,True
+401123410,2019-03-22,Wisconsin Badgers,WIS,Oregon Ducks,ORE,54,72,126,-18,SAP Center at San Jose,True
+401123415,2019-03-22,Utah State Aggies,USU,Washington Huskies,WASH,61,78,139,-17,Nationwide Arena,True
+401123420,2019-03-22,Duke Blue Devils,DUKE,North Dakota State Bison,NDSU,85,62,147,23,Colonial Life Arena,True
+401123413,2019-03-22,Houston Cougars,HOU,Georgia State Panthers,GAST,84,55,139,29,BOK Center,True
+401123418,2019-03-22,Mississippi State Bulldogs,MSST,Liberty Flames,LIB,76,80,156,-4,SAP Center at San Jose,True
+401123416,2019-03-23,North Carolina Tar Heels,UNC,Iona Gaels,IONA,88,73,161,15,Nationwide Arena,True
+401123419,2019-03-23,VCU Rams,VCU,UCF Knights,UCF,58,73,131,-15,Colonial Life Arena,True
+401123414,2019-03-23,Iowa State Cyclones,ISU,Ohio State Buckeyes,OSU,59,62,121,-3,BOK Center,True
+401123417,2019-03-23,Virginia Tech Hokies,VT,Saint Louis Billikens,SLU,66,52,118,14,SAP Center at San Jose,True
+401123440,2019-03-23,LSU Tigers,LSU,Maryland Terrapins,MD,69,67,136,2,VyStar Veterans Memorial Arena,True
+401123433,2019-03-23,Kentucky Wildcats,UK,Wofford Terriers,WOF,62,56,118,6,VyStar Veterans Memorial Arena,True
+401123421,2019-03-23,Michigan Wolverines,MICH,Florida Gators,FLA,64,49,113,15,Wells Fargo Arena,True
+401123430,2019-03-23,Florida State Seminoles,FSU,Murray State Racers,MUR,90,62,152,28,PeoplesBank Arena,True
+401123429,2019-03-23,Gonzaga Bulldogs,GONZ,Baylor Bears,BAY,83,71,154,12,Delta Center,True
+401123439,2019-03-24,Michigan State Spartans,MSU,Minnesota Golden Gophers,MINN,70,50,120,20,Wells Fargo Arena,True
+401123432,2019-03-24,Purdue Boilermakers,PUR,Villanova Wildcats,VILL,87,61,148,26,PeoplesBank Arena,True
+401123434,2019-03-24,Kansas Jayhawks,KU,Auburn Tigers,AUB,75,89,164,-14,Delta Center,True
+401123423,2019-03-24,Tennessee Volunteers,TENN,Iowa Hawkeyes,IOWA,83,77,160,6,Nationwide Arena,True
+401123426,2019-03-24,North Carolina Tar Heels,UNC,Washington Huskies,WASH,81,59,140,22,Nationwide Arena,True
+401123427,2019-03-24,Duke Blue Devils,DUKE,UCF Knights,UCF,77,76,153,1,Colonial Life Arena,True
+401123422,2019-03-24,Texas Tech Red Raiders,TTU,Buffalo Bulls,BUF,78,58,136,20,BOK Center,True
+401123428,2019-03-24,Virginia Tech Hokies,VT,Liberty Flames,LIB,67,58,125,9,SAP Center at San Jose,True
+401123424,2019-03-25,Virginia Cavaliers,UVA,Oklahoma Sooners,OU,63,51,114,12,Colonial Life Arena,True
+401123425,2019-03-25,Houston Cougars,HOU,Ohio State Buckeyes,OSU,74,59,133,15,BOK Center,True
+401123431,2019-03-25,Oregon Ducks,ORE,UC Irvine Anteaters,UCI,73,54,127,19,SAP Center at San Jose,True
+401123386,2019-03-28,Gonzaga Bulldogs,GONZ,Florida State Seminoles,FSU,72,58,130,14,Honda Center,True
+401123382,2019-03-28,Tennessee Volunteers,TENN,Purdue Boilermakers,PUR,94,99,193,-5,KFC Yum! Center,True
+401123385,2019-03-29,Michigan Wolverines,MICH,Texas Tech Red Raiders,TTU,44,63,107,-19,Honda Center,True
+401123381,2019-03-29,Virginia Cavaliers,UVA,Oregon Ducks,ORE,53,49,102,4,KFC Yum! Center,True
+401123389,2019-03-29,Michigan State Spartans,MSU,LSU Tigers,LSU,80,63,143,17,Capital One Arena,True
+401123392,2019-03-29,North Carolina Tar Heels,UNC,Auburn Tigers,AUB,80,97,177,-17,T-Mobile Center,True
+401123388,2019-03-30,Duke Blue Devils,DUKE,Virginia Tech Hokies,VT,75,73,148,2,Capital One Arena,True
+401123391,2019-03-30,Kentucky Wildcats,UK,Houston Cougars,HOU,62,58,120,4,T-Mobile Center,True
+401123384,2019-03-30,Gonzaga Bulldogs,GONZ,Texas Tech Red Raiders,TTU,69,75,144,-6,Honda Center,True
+401123383,2019-03-31,Virginia Cavaliers,UVA,Purdue Boilermakers,PUR,80,75,155,5,KFC Yum! Center,True
+401123390,2019-03-31,Kentucky Wildcats,UK,Auburn Tigers,AUB,71,77,148,-6,T-Mobile Center,True
+401123387,2019-03-31,Duke Blue Devils,DUKE,Michigan State Spartans,MSU,67,68,135,-1,Capital One Arena,True
+401123375,2019-04-06,Virginia Cavaliers,UVA,Auburn Tigers,AUB,63,62,125,1,U.S. Bank Stadium,True
+401123376,2019-04-07,Michigan State Spartans,MSU,Texas Tech Red Raiders,TTU,51,61,112,-10,U.S. Bank Stadium,True
+401123374,2019-04-09,Virginia Cavaliers,UVA,Texas Tech Red Raiders,TTU,85,77,162,8,U.S. Bank Stadium,True

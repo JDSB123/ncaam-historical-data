@@ -1,0 +1,17 @@
+========================================================================
+ 1H Historical Data Fetcher (ESPN)
+========================================================================
+[INFO] Loaded 7465 games from C:\Users\JB\green-bier-ventures\NCAAM_main\ncaam_historical_data_local\scores\fg\games_all.csv
+[INFO] Found 7467 existing 1H records
+[INFO] Need to fetch 18 new games
+
+[INFO] Saved 7485 games with 1H data to C:\Users\JB\green-bier-ventures\NCAAM_main\ncaam_historical_data_local\scores\h1\h1_games_all.csv
+[INFO] Saved JSON to C:\Users\JB\green-bier-ventures\NCAAM_main\ncaam_historical_data_local\scores\h1\h1_games_all.json
+
+========================================================================
+ DONE: 7485 games with 1H data
+ Failed: 0 games (no 1H data available)
+========================================================================
+ Average 1H Total: 67.7
+ Average FG Total: 143.9
+ Average 1H/FG Ratio: 0.471 (expected ~0.48)

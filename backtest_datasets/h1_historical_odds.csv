@@ -1,0 +1,195 @@
+event_id,game_date,home_team,away_team,h1_spread,h1_total,fg_spread,fg_total
+3a19989352ecf93d3564e100ff16e303,2024-01-10,IUPUI Jaguars,Green Bay Phoenix,4.5,63.0,8.5,134.5
+a0aead0f17140d181a1b2f3a2bb6ec0d,2024-01-10,Army Knights,Loyola (MD) Greyhounds,,,-4.5,125.5
+773519dd75c86d4b7da718d7df88b128,2024-01-10,Youngstown St Penguins,Fort Wayne Mastodons,-2.5,74.0,-4.5,156.5
+0386964ecd173e4417760051fae23cc5,2024-01-10,Penn State Nittany Lions,Northwestern Wildcats,0.5,66.5,2.0,141.5
+84a0a3c8f4e4693a592497d88f6dcf24,2024-01-10,St. John's Red Storm,Providence Friars,-4.5,68.5,-7.5,145.0
+793806f9639c3e0edf05d5b06d654a3b,2024-01-11,Boston Univ. Terriers,American Eagles,0.5,63.5,1.0,133.0
+2ef5e5c623aa295fc4213ca537459390,2024-01-11,Lehigh Mountain Hawks,Bucknell Bison,-3.5,66.5,-7.5,140.0
+e336b3b339d8f478ecb1a76c7c6cb624,2024-01-11,Gardner-Webb Bulldogs,Charleston Southern Buccaneers,-6.5,67.5,-12.0,141.0
+7835708e7a8adc6883803852d949f4c8,2024-01-11,Charlotte 49ers,Tulsa Golden Hurricane,-4.5,63.5,-7.5,134.5
+9f89600ef8e16045a86851e6576cea1b,2024-01-11,Fairleigh Dickinson Knights,Chicago St Cougars,,,-2.0,148.5
+66e85467ef9979dfab1147da4eb56afc,2024-01-11,Virginia Tech Hokies,Clemson Tigers,0.5,68.5,1.5,144.5
+727052be49614abb784a199076bd55f3,2024-01-11,Colgate Raiders,Lafayette Leopards,-7.5,60.5,-12.5,130.5
+2eebca665e76e22dba39f81827006947,2024-01-11,Temple Owls,East Carolina Pirates,-1.0,67.0,-2.0,143.0
+57f9be7b02e54c1b467741b07ce41463,2024-01-11,East Tennessee St Buccaneers,Western Carolina Catamounts,0.5,68.0,1.0,143.5
+5fcd69e7e45923c9dd906ffe8de04d29,2024-01-11,Queens University Royals,Florida Gulf Coast Eagles,-0.5,72.5,-1.0,151.0
+3102fc46b24a27a59eb268cdbadb77c3,2024-01-11,Furman Paladins,The Citadel Bulldogs,-5.5,72.0,-10.0,151.0
+c07e50328dca63361c37bf97728ad413,2024-01-11,Marshall Thundering Herd,Georgia Southern Eagles,-6.5,72.5,-11.5,153.5
+e23c4a78dfcddf7b7c8547460a71b90a,2024-01-11,High Point Panthers,UNC Asheville Bulldogs,-4.5,73.5,-7.0,155.5
+f8122c421f3a368f6ab18ba579ae9622,2024-01-11,Holy Cross Crusaders,Navy Midshipmen,1.5,64.5,3.0,135.5
+04aa28634b7e3ccb8b0e7ebad9733e8d,2024-01-11,Liberty Flames,Jacksonville St Gamecocks,-6.0,60.5,-10.5,129.5
+3be893879ee59d86cd8fc15dc38a5d63,2024-01-16,Tennessee Volunteers,Florida Gators,-5.5,75.5,-9.5,159.0
+a782864743b7ff929547d6f499880271,2024-01-16,Western Carolina Catamounts,Samford Bulldogs,-1.0,74.0,-2.0,157.0
+98cd929a653373490ff3721605c69b6f,2024-01-16,Xavier Musketeers,Butler Bulldogs,-3.5,71.0,-5.0,150.5
+1dd265dbecfb3069cb66df55f9cb90ec,2024-01-17,Akron Zips,Western Michigan Broncos,-7.5,68.5,-12.5,145.5
+7679b752f6837bb38650c5ab311b28cd,2024-01-17,Alabama Crimson Tide,Missouri Tigers,-8.5,76.0,-14.5,159.0
+6d765441dbd2c9733afa9102332b9f49,2024-01-17,Eastern Michigan Eagles,Ball State Cardinals,-0.5,66.0,1.0,141.0
+fba276b8381030a6887efd836631385e,2024-01-17,Miami (OH) RedHawks,Bowling Green Falcons,-0.5,68.0,1.0,145.5
+dd728c97cf4172e43e0ee653a215abd4,2024-01-17,Toledo Rockets,Buffalo Bulls,-8.5,74.0,-15.0,155.5
+0ba63c743e7cc0d4d9d01f7d364ac32d,2024-01-17,Ohio Bobcats,Central Michigan Chippewas,-5.5,69.0,-10.5,145.5
+e2ffccdccab431e7f406f312bc6d1f54,2024-01-17,Cincinnati Bearcats,TCU Horned Frogs,-1.5,71.5,-3.0,151.5
+232816f246190d1a7c669d94909cf399,2024-01-17,Duquesne Dukes,Richmond Spiders,-2.0,66.0,-3.5,140.0
+0492075e9c9809d122bf7b8f4639e3ab,2024-01-17,Indiana Hoosiers,Purdue Boilermakers,5.0,71.5,10.0,151.5
+c576368a833f78499d4a1821cef7e2fe,2024-01-17,Indiana St Sycamores,Missouri St Bears,-7.5,71.5,-12.5,151.5
+feb41ac67d96f0ff9958c9f3e18b54fb,2024-01-17,NC State Wolfpack,Wake Forest Demon Deacons,-0.5,70.5,-2.0,150.0
+002f4db2a087eabf4c14cbcc6495bc09,2024-01-17,Pittsburgh Panthers,Syracuse Orange,-3.5,69.0,-6.5,146.0
+042357065936e97a4a26788805f72952,2024-01-17,Kansas St Wildcats,Baylor Bears,-0.5,66.5,1.0,140.5
+b61cfc051d9307fe9e5f5104c4687abb,2024-01-17,Rice Owls,Charlotte 49ers,1.0,64.0,2.0,136.0
+2289257d01182efeda9b827d56ad7a22,2024-01-17,Dayton Flyers,Saint Louis Billikens,-7.5,68.0,-13.0,142.5
+8c2aec336007f8aea9bd072574820270,2024-01-17,Northern Illinois Huskies,Kent State Golden Flashes,1.5,70.5,3.5,150.5
+cc8741055b2bd8b5720ad8e58ea48e86,2024-01-17,SMU Mustangs,Temple Owls,-7.5,65.5,-13.5,138.5
+45b065110e951f30dd3af743a03f6d02,2024-01-23,Colgate Raiders,Lehigh Mountain Hawks,,,-12.5,144.0
+54c5ec5c305d79c7f36b15d91a15670f,2024-01-23,Texas A&M-CC Islanders,McNeese Cowboys,,,4.0,142.0
+318340c0931c8f8334761808f4b9f891,2024-01-23,North Carolina Tar Heels,Wake Forest Demon Deacons,-5.0,73.5,-7.5,156.0
+70350ff7c24a348d6aacf8b7fcff5a29,2024-01-23,SE Louisiana Lions,Northwestern St Demons,,,-7.5,138.0
+65888cdc6a1aa0fed588bb5533c2891b,2024-01-23,Incarnate Word Cardinals,Nicholls St Colonels,,,3.5,146.5
+b60196f3f11c808a884b64b1c6b6f204,2024-01-23,Houston Baptist Huskies,New Orleans Privateers,,,3.0,158.0
+107e9705fc8501abc5bd440391194aab,2024-01-23,Lamar Cardinals,Texas A&M-Commerce Lions,,,-5.0,148.0
+2b42b41fffd43cf551087f3a4bd86d9f,2024-01-23,Alcorn St Braves,Prairie View Panthers,,,-3.0,151.0
+186e137732eddce10b2eea144a18e1a3,2024-01-23,Arkansas-Pine Bluff Golden Lions,Bethune-Cookman Wildcats,,,-1.5,165.5
+27b4dc59af078ef983b95160aad493fe,2024-01-23,Miss Valley St Delta Devils,Florida A&M Rattlers,,,7.0,134.5
+9b3d1e8e3bf067a33d4b485b5353945e,2024-01-23,Kansas Jayhawks,Cincinnati Bearcats,-4.5,69.0,-9.0,145.5
+0fde3149c9707d73b68dcb41989371c0,2024-01-23,Stony Brook Seawolves,Hofstra Pride,1.0,67.0,4.0,142.5
+068ebc51f36dcd1d9b28fef1a3a19c98,2024-01-23,Montana St Bobcats,Idaho State Bengals,-3.0,64.5,-4.5,137.0
+7a79de8662f51334690bd1a3d4fa24ed,2024-01-23,Jackson St Tigers,Texas Southern Tigers,,,-5.0,140.5
+215d28628482f21976172d0122236872,2024-01-23,Montana Grizzlies,Weber State Wildcats,-0.5,67.5,-2.0,144.5
+2655520468f9855ef157f2903a1da912,2024-01-28,IUPUI Jaguars,Wright St Raiders,8.5,75.5,15.5,158.5
+ed7cb4409dd8e56e6ebc7095f947467b,2024-01-28,UConn Huskies,Xavier Musketeers,-6.5,70.0,-10.5,148.5
+8a283e0dcb6b3f144863943873609565,2024-01-28,Canisius Golden Griffins,Marist Red Foxes,-1.5,61.5,-2.5,131.5
+7263580720e4a3766162b80a3b56e421,2024-01-28,Cleveland St Vikings,Robert Morris Colonials,-4.5,72.0,-7.5,151.5
+e9bc7c9256a39c8be8f761d4d5ecf8f2,2024-01-28,Florida Atlantic Owls,North Texas Mean Green,-4.5,62.5,-9.5,132.5
+60de81c961e6cd38afe694eebee73745,2024-01-28,Louisiana Ragin' Cajuns,Texas State Bobcats,-4.5,,-8.5,142.5
+739dd3a10c093d1f72de4ecd7b6ec6a2,2024-01-28,Rutgers Scarlet Knights,Purdue Boilermakers,5.5,67.0,9.5,141.0
+6b4272816690ad98d662357c41bb13be,2024-01-28,Youngstown St Penguins,Northern Kentucky Norse,-3.5,69.0,-6.5,146.5
+f2adb02aa7bc8426e0b0cdc566065d60,2024-01-28,UL Monroe Warhawks,Arkansas St Red Wolves,2.5,69.5,5.5,146.5
+b2ec14f15d93eaff8e80075540e92bd2,2024-01-28,Fairfield Stags,Quinnipiac Bobcats,-0.5,74.0,-2.0,156.5
+a88ecb028b384b280bb775cb19d98d80,2024-01-28,Niagara Purple Eagles,Manhattan Jaspers,-5.5,69.5,-9.5,147.5
+3468429834155e4ce61e0ccd8b01cadd,2024-01-28,Siena Saints,Saint Peter's Peacocks,5.0,59.5,8.5,127.0
+2494d43fcfc5046c83376f59f081959e,2024-01-28,Wichita St Shockers,SMU Mustangs,2.5,68.5,5.5,145.5
+cb098121168fb2f80807a6fb19406d97,2024-01-28,East Carolina Pirates,Temple Owls,-3.5,65.0,-6.5,137.5
+77b0f455e980c25625b125331d03270b,2024-01-28,UAB Blazers,Memphis Tigers,2.5,75.0,4.5,158.5
+65512cb87a0407e2a5546410f5f5913a,2024-01-29,New Mexico Lobos,Nevada Wolf Pack,-4.5,73.0,-8.5,153.5
+91281470cc8eaadf9a2582d627f5751f,2024-02-03,LSU Tigers,Arkansas Razorbacks,-4.0,71.5,-6.0,152.5
+22d9d41b03c29a7873500cb509d35000,2024-02-03,Colgate Raiders,Navy Midshipmen,,,-12.0,136.5
+0382e2a609343a8fd12a26fb4dd956e1,2024-02-03,Massachusetts Minutemen,George Mason Patriots,-2.5,68.5,-4.0,145.5
+b60364dde9ce73863f1969708dbaae06,2024-02-03,Indiana Hoosiers,Penn State Nittany Lions,-3.0,70.5,-4.5,150.5
+40476b6c4ba9cdafdc42377b47ace71e,2024-02-03,La Salle Explorers,Saint Joseph's Hawks,,,4.5,148.5
+f0e957acebd31e7550e1e4954d1f3524,2024-02-03,Miami Hurricanes,Virginia Tech Hokies,-2.0,72.5,-3.0,153.0
+a37a0e268937bf69ab54ff36161bfdb6,2024-02-03,St. John's Red Storm,UConn Huskies,1.0,68.5,3.5,145.5
+602bdb40dcbf3f489c3e8a8b4cdcda4e,2024-02-03,Rhode Island Rams,Duquesne Dukes,2.0,68.5,5.0,145.5
+056ccab68888b540c8fab43c74404c2a,2024-02-03,Western Michigan Broncos,Ball State Cardinals,-0.5,69.5,-1.0,147.5
+8ba4eafd56887af23eeba55596dbb004,2024-02-03,Boston Univ. Terriers,Lehigh Mountain Hawks,,,-0.0,137.0
+f62dc75174e809068d17f5d86b738681,2024-02-03,Oakland Golden Grizzlies,Cleveland St Vikings,-2.5,70.0,-4.5,148.0
+7194895eb0af428a2aba6b0cb22830d6,2024-02-03,Detroit Mercy Titans,Robert Morris Colonials,2.0,69.0,4.5,145.5
+eb850698398d6640887aa51ad6e067a0,2024-02-03,Georgia Bulldogs,South Carolina Gamecocks,-1.0,65.5,-1.5,138.5
+704a4ff58afa751d168ae610a2f67608,2024-02-03,Jackson St Tigers,Grambling St Tigers,,,-3.5,137.5
+2fc54cf9a963721a3f42790a6fdbcde2,2024-02-03,Memphis Tigers,Wichita St Shockers,-6.0,74.5,-10.5,157.0
+982eedd296a4c31bf5ae01cc909d3cf7,2024-02-03,Missouri St Bears,Belmont Bruins,-2.5,70.5,-4.0,149.0
+abfe04d18e1364ceea3750761d273445,2024-02-03,Vermont Catamounts,Binghamton Bearcats,,,-16.5,136.0
+8c28a338fb573ad76acf2656c171687a,2024-02-03,Illinois St Redbirds,Bradley Braves,3.5,62.5,6.0,133.5
+c0015628b281df623b58aef74a8b260f,2024-02-03,William & Mary Tribe,Charleston Cougars,,,11.5,154.0
+cf99178f8a61766e76c563cc644983c2,2024-02-03,Charleston Southern Buccaneers,Longwood Lancers,2.5,,5.0,138.0
+ba1c9f456bd7c4d6b3cb3a073d4a0051,2024-02-10,VCU Rams,Dayton Flyers,0.5,63.5,1.5,134.5
+7656875319012fdc79beff165dd73cbd,2024-02-10,Nevada Wolf Pack,San Diego St Aztecs,-1.0,66.5,-2.0,140.5
+cea5e0fa97d054de02b43f87d6db15e8,2024-02-10,Colorado St Rams,San José St Spartans,-9.5,67.5,-16.5,143.5
+2e3033fefe604da7df22b6cba4a05243,2024-02-15,Binghamton Bearcats,UMBC Retrievers,,,-4.5,155.5
+60dba554ffeef097217756296387a13b,2024-02-15,Appalachian St Mountaineers,Marshall Thundering Herd,-6.0,70.0,-10.5,147.5
+3e52edcba9a18f613cd50f7089827e16,2024-02-15,Stony Brook Seawolves,Hampton Pirates,-7.0,69.0,-12.0,146.5
+fd8298618d91bcc7dc2de1f43d587baf,2024-02-15,Rutgers Scarlet Knights,Northwestern Wildcats,-2.0,62.0,-3.5,131.5
+39bc99e8519240a3ef5a5bb2d04cba42,2024-02-16,Albany Great Danes,NJIT Highlanders,,,-7.5,153.5
+c0e90d1b32360ed6e06e5a0bbc97e2a6,2024-02-16,Bryant Bulldogs,Maine Black Bears,-2.5,,-5.5,142.5
+2d0802b42d850cd69cdb65df3a2a9e42,2024-02-16,Monmouth Hawks,Campbell Fighting Camels,-3.0,66.0,-6.5,140.5
+1f60507f843177f99f71a02673a366e4,2024-02-16,Le Moyne Dolphins,Central Connecticut St Blue Devils,1.5,,2.5,143.5
+1820127ec6fa8b4eddf9a9627941e26f,2024-02-16,Northeastern Huskies,Charleston Cougars,2.0,72.5,4.5,153.5
+11c8a6ad837dacbfe44e183c619f5880,2024-02-16,Charlotte 49ers,UTSA Roadrunners,-7.0,68.5,-12.5,145.5
+41db6791b64ccd5978489e09d4ace10c,2024-02-16,Coastal Carolina Chanticleers,Georgia Southern Eagles,-0.5,72.0,0.0,152.0
+420664c5ad0a488ea5f17d6c492fe4e5,2024-02-16,Elon Phoenix,Delaware Blue Hens,4.0,69.5,7.0,147.0
+89b75d57b479993fd372c718bf927d72,2024-02-16,Drexel Dragons,Hofstra Pride,-2.0,63.0,-3.5,133.5
+12c11fd94765fc68fd79f5a3d82a698d,2024-02-16,East Carolina Pirates,Wichita St Shockers,-0.5,65.5,-1.5,139.0
+8ed8908e4bf3fef03704a4ae51cdd542,2024-02-16,LIU Sharks,Fairleigh Dickinson Knights,,,4.5,153.0
+0c470556554fed446d79af18c685bf6a,2024-02-16,Florida Atlantic Owls,Temple Owls,-12.0,70.5,-19.5,147.0
+64be2b88c8f03166f9f8901525f40b66,2024-02-16,Louisiana Tech Bulldogs,Jacksonville St Gamecocks,-6.0,61.5,-10.5,129.5
+54fd1072f5bfa0d7dd77d2f87d8995af,2024-02-16,Old Dominion Monarchs,Louisiana Ragin' Cajuns,1.5,70.0,3.5,149.0
+d1be8b79f0e230df3558753924335a5b,2024-02-16,Stonehill Skyhawks,Merrimack Warriors,4.5,,9.0,130.5
+3e8863e75e962804d1fbd86cce9f263c,2024-02-16,Vermont Catamounts,New Hampshire Wildcats,,,-8.5,138.0
+c1337f2d5036fa826e9fd0f79f10d1fb,2024-02-21,Army Knights,Lehigh Mountain Hawks,,,2.0,129.5
+2ebce456b56452170cd354409c3363d6,2024-02-21,UNC Greensboro Spartans,Western Carolina Catamounts,-2.0,65.5,-4.5,139.5
+aba98057813572d3a19406188b5b41cb,2024-02-21,Penn State Nittany Lions,Illinois Fighting Illini,4.5,74.5,7.5,156.5
+17edcd03223a2e7322c78938715595be,2024-02-21,La Salle Explorers,St. Bonaventure Bonnies,3.0,68.5,6.5,145.5
+4e1af64578abb75ca7e211598acba856,2024-02-21,Winthrop Eagles,Presbyterian Blue Hose,,,-9.5,145.5
+f91137539dba82b90bacfdf57731026b,2024-02-22,Alabama Crimson Tide,Florida Gators,-5.0,83.0,-8.5,174.5
+850d8c4a6c69868951e6db175f457c16,2024-02-22,American Eagles,Boston Univ. Terriers,-2.5,,-5.5,127.5
+03d6cde4dc0ef2503f8d946f5a33d118,2024-02-22,Holy Cross Crusaders,Bucknell Bison,1.5,,3.5,134.0
+c82e129b380132ae62b601e49747bbbb,2024-02-22,South Carolina Upstate Spartans,Charleston Southern Buccaneers,-3.5,,-5.5,140.5
+605ffe910ce395912ef8f59dacbc2774,2024-02-22,Chattanooga Mocs,Wofford Terriers,-3.5,,-7.0,145.5
+ad4204c0f44d6e355e63b784f3408037,2024-02-22,Cincinnati Bearcats,Oklahoma St Cowboys,-6.0,66.0,-10.0,139.5
+47490ec916b8317ced1a46fb1ad9d345,2024-02-22,Georgia Tech Yellow Jackets,Clemson Tigers,4.0,68.5,6.5,145.5
+fc52cfc3c28793414c0817ae8451f42d,2024-02-22,Georgia St Panthers,Coastal Carolina Chanticleers,-5.5,73.0,-9.5,154.0
+8646cc98544a826fd0157d053d6c155b,2024-02-22,George Mason Patriots,Dayton Flyers,1.0,62.5,2.0,134.0
+6582a6f22b515f5a3a6c7623e99300fb,2024-02-22,East Tennessee St Buccaneers,VMI Keydets,-10.0,70.5,-17.5,147.5
+57ba8d4287193710ba21f31d3d9d10ff,2024-02-22,Saint Joseph's Hawks,GW Revolutionaries,-6.5,75.5,-11.5,158.5
+5b35633c6ac29601ac791c2f587dbf90,2024-02-22,Georgetown Hoyas,St. John's Red Storm,6.0,71.5,9.5,151.5
+367df0e658e15502d73b34cbdd0a503c,2024-02-22,Jacksonville St Gamecocks,Middle Tennessee Blue Raiders,-4.5,61.0,-7.0,130.5
+8249307f118df433726491f6c1767bf6,2024-02-22,Marshall Thundering Herd,James Madison Dukes,4.0,74.0,6.5,155.0
+0d3a5057b908eb31844a193e34ac3035,2024-02-22,Longwood Lancers,UNC Asheville Bulldogs,0.5,,0.0,147.5
+086365ab752bd3c75b556391fb0246c2,2024-02-27,Villanova Wildcats,Georgetown Hoyas,-9.0,66.5,-15.5,140.5
+5df806eec61c96c88c3e5000154c5f42,2024-02-28,Ohio Bobcats,Akron Zips,-0.5,68.5,-0.0,145.0
+abab85a2583c6e792514277de7fccc00,2024-02-28,Central Michigan Chippewas,Ball State Cardinals,-1.5,63.5,-2.5,135.5
+319a6f4ef6aa0b60fa5e9d48b776ef0b,2024-02-28,Bowling Green Falcons,Miami (OH) RedHawks,-2.0,68.5,-3.5,145.5
+35f1e0601973b3575eb986f35b1c04fd,2024-02-28,Kent State Golden Flashes,Buffalo Bulls,-9.0,69.5,-15.0,146.5
+bd39855c7bde52b216bb2eea164f46f3,2024-02-28,Houston Cougars,Cincinnati Bearcats,-7.5,62.5,-13.5,132.5
+e23b845ad9f665223a8e79731daf7748,2024-02-28,Clemson Tigers,Pittsburgh Panthers,-4.5,66.5,-7.5,142.5
+2ba85ef130c75a1f7332797571f91afa,2024-02-28,Dayton Flyers,Davidson Wildcats,-5.5,62.5,-9.5,132.5
+e506e25cbb4e416141f54476eb58f6c6,2024-02-28,Eastern Michigan Eagles,Western Michigan Broncos,0.5,67.5,2.5,144.5
+f55d71098eba9663dc75d967691cedb2,2024-02-28,Fordham Rams,George Mason Patriots,0.5,64.5,1.5,137.5
+58fca0694f6c962aa812bfd33910948f,2024-02-28,GW Revolutionaries,Massachusetts Minutemen,4.0,75.5,7.5,158.5
+5d49ac3461cc3f016fb0a1cfe6bfc6f0,2024-02-28,LSU Tigers,Georgia Bulldogs,-3.0,73.5,-5.0,154.0
+6f04eceb7dd44c7b7c729bae7e913be5,2024-02-28,Indiana Hoosiers,Wisconsin Badgers,1.5,67.5,4.5,142.5
+aca2f902c3d74dafffdc5ee383ba996f,2024-02-28,Mississippi St Bulldogs,Kentucky Wildcats,-2.5,74.0,-4.0,156.5
+497c5d41746ae9580f7fe68147bf8b0f,2024-02-28,St. Bonaventure Bonnies,Loyola (Chi) Ramblers,-2.0,66.0,-3.5,140.5
+dcf23040cc4596895a4f7acb2bd2a24b,2024-02-28,Toledo Rockets,Northern Illinois Huskies,-8.0,73.5,-14.5,155.5
+414268d3d8336e0d9e7e8df4326b7fef,2024-02-28,Syracuse Orange,Virginia Tech Hokies,-0.5,72.5,-1.5,153.5
+deaf165bfe53a95bf60425a495a82038,2024-02-28,Kansas Jayhawks,BYU Cougars,-4.0,73.5,-7.0,153.5
+6a0f0448a88d9023301a61468094f241,2024-02-28,Northern Iowa Panthers,Valparaiso Beacons,-9.0,70.5,-15.5,147.5
+9e67e7f2f358ee9089ef0a11d5a3701f,2024-02-28,Texas State Bobcats,UL Monroe Warhawks,-3.0,63.5,-5.5,134.5
+dc914c29d1df6ff684a7d8f1bf527af1,2024-03-05,NC State Wolfpack,Duke Blue Devils,2.5,70.5,5.5,149.5
+e8005b7db4bcb8b16b5e4069b099a1e3,2024-03-05,Florida Gulf Coast Eagles,Queens University Royals,-2.0,73.0,-4.0,154.0
+4f7d2a17a98d1b9745eccbd64cc72b72,2024-03-05,Kennesaw St Owls,Jacksonville Dolphins,-2.0,68.5,-3.5,147.5
+10ffddeb82a8a46a29b703381e53dc09,2024-03-05,Coppin St Eagles,South Carolina St Bulldogs,3.5,63.5,7.5,135.5
+460d8796bbc16468ccd876171a4f2a2f,2024-03-05,Howard Bison,Delaware St Hornets,-2.5,66.5,-4.5,143.5
+580f2894e79088178bc5d4c06fcbcf1b,2024-03-05,Incarnate Word Cardinals,SE Louisiana Lions,2.0,67.0,3.5,143.5
+1084835b3369bc01e68d6009ffa62e51,2024-03-05,Norfolk St Spartans,Maryland-Eastern Shore Hawks,-7.0,63.5,-13.0,135.5
+15661035f67cbf786593c4fe8b873ace,2024-03-05,Morgan St Bears,North Carolina Central Eagles,2.0,70.5,4.5,149.5
+efc102e41079a541f951a193e56dba82,2024-03-05,Northwestern St Demons,Nicholls St Colonels,0.5,66.0,1.5,142.0
+ef4d5187999d30ee4bc9fc276d3116d0,2024-03-05,McNeese Cowboys,Houston Baptist Huskies,,,-28.0,153.0
+99088c5ab8db1e6945299a7e3fb0ec28,2024-03-05,Texas A&M-Commerce Lions,Lamar Cardinals,2.5,67.5,4.5,144.5
+1a5b870bb8b1fa25ff6bf76132eb518a,2024-03-05,Northern Arizona Lumberjacks,N Colorado Bears,1.5,73.5,4.0,155.0
+f011ac87a17b3ee3156491d5a8819ecc,2024-03-05,Texas A&M-CC Islanders,New Orleans Privateers,-9.0,72.5,-14.0,154.5
+be616334e75c941efda7404d2e6c48c5,2024-03-05,Texas Southern Tigers,Alcorn St Braves,-2.5,65.0,-4.5,139.0
+b3babca1dac0e36c704cc55c4940e168,2024-03-05,Grambling St Tigers,Bethune-Cookman Wildcats,-2.5,62.5,-5.5,135.0
+252ac8055c03677ce5f069f4becf5fa8,2024-03-05,Southern Jaguars,Florida A&M Rattlers,-6.5,,-11.0,136.5
+b91c12f72c2b454a83824b34a946a217,2024-03-05,Prairie View Panthers,Jackson St Tigers,1.0,67.5,3.0,144.5
+4176d3bb2b41e42ce31d16901a2e0292,2024-03-05,Baylor Bears,Texas Longhorns,-4.0,68.5,-7.0,145.0
+fbd6b3bc2082d042b032d0759e72b41e,2024-03-05,Sacramento St Hornets,Eastern Washington Eagles,4.5,68.5,7.5,144.0
+d8a165afef6f9781b6fc159fa0b62615,2024-03-05,Montana Grizzlies,Idaho State Bengals,-5.0,67.0,-8.0,141.0
+48c04ba9fae00755f4d24f627cff00c4,2024-03-10,Michigan Wolverines,Nebraska Cornhuskers,3.0,70.5,6.0,149.5
+7c354bec032f273911ae666ac62c14d4,2024-03-10,Charleston Cougars,Monmouth Hawks,,,-8.5,156.5
+02b89de86f5db6a941e76d4c172d7687,2024-03-10,Purdue Boilermakers,Wisconsin Badgers,-5.0,70.0,-9.0,148.0
+3d6268a17de58dd69dd27f650dfd2eb3,2024-03-10,UNC Asheville Bulldogs,Longwood Lancers,,,-1.5,140.5
+65f315733734aab878a3b14e7261c911,2024-03-10,Stetson Hatters,Austin Peay Governors,,,-3.5,145.5
+3ac37fa5eca5c958a97fd1f7c6b69658,2024-03-10,Colgate Raiders,Bucknell Bison,,,-10.0,131.5
+e979a23878c4147459507c246e88706e,2024-03-10,Indiana St Sycamores,Drake Bulldogs,,,-2.5,150.5
+72a384e7b1606cd81cc3ec46b7eeed2f,2024-03-10,Rutgers Scarlet Knights,Ohio State Buckeyes,-0.5,63.5,-1.0,135.0
+f174b57dcb7140d0d0e803feef3385b6,2024-03-10,UAB Blazers,SMU Mustangs,-0.5,72.0,-1.5,152.5
+59f59c32502419ecea5660d3abbe1ce4,2024-03-10,UTSA Roadrunners,Temple Owls,-2.0,72.0,-4.0,152.5
+ece0983b499c4a332087eb449613b704,2024-03-10,UNC Wilmington Seahawks,Towson Tigers,,,-3.5,130.5
+2738a3808cf835fd7d6425295e757f4f,2024-03-10,Boston Univ. Terriers,Lehigh Mountain Hawks,,,1.0,140.0
+afdc0223d8ccac0b0b3c030e568fe668,2024-03-10,Samford Bulldogs,Furman Paladins,,,-1.5,152.5
+c5d671acd00b7ee8ac2ab530e1b22e4c,2024-03-10,Indiana Hoosiers,Michigan St Spartans,2.0,66.5,3.5,142.0
+443e2e6c707ca827198c121ebc9bfa09,2024-03-10,Drexel Dragons,Stony Brook Seawolves,,,-4.0,139.5
+fb58a4714c4dbf7548ebf47829349eea,2024-03-10,SE Louisiana Lions,New Orleans Privateers,,,-6.5,145.0
+90df82aa5692ee364911b15f3aaa6ba0,2024-03-10,Chattanooga Mocs,East Tennessee St Buccaneers,,,-7.5,140.0
+a0b55c7184c15540f8a672746d250d66,2024-03-10,Appalachian St Mountaineers,Arkansas St Red Wolves,,,-5.0,145.5
+9133e85555ed7e483ccaf72c9d8b8962,2024-03-10,Iowa Hawkeyes,Illinois Fighting Illini,0.5,82.0,1.0,172.0
+0ed8264bdbb915790cb9980ec66b5ad6,2024-03-10,St. Thomas (MN) Tommies,North Dakota St Bison,-3.0,63.5,-5.5,135.0
