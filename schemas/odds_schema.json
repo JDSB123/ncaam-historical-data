@@ -1,0 +1,31 @@
+{
+  "spreads": {
+    "description": "Point spread betting lines",
+    "columns": {
+      "event_id": "Unique game identifier from odds API",
+      "commence_time": "Game start time (UTC ISO8601)",
+      "home_team": "Original home team name from source",
+      "away_team": "Original away team name from source",
+      "home_team_canonical": "(canonical only) Resolved home team name",
+      "away_team_canonical": "(canonical only) Resolved away team name",
+      "bookmaker": "Sportsbook name (draftkings, fanduel, etc)",
+      "spread": "(FG) Full-game spread for home team",
+      "h1_spread": "(H1) First-half spread for home team",
+      "timestamp": "When odds were captured",
+      "game_date": "Game date (YYYY-MM-DD)",
+      "season": "Season year (Nov-Apr, e.g. 2024 = 2023-24 season)",
+      "is_march_madness": "Boolean flag for tournament games"
+    },
+    "notes": [
+      "Negative spread means home team is favored",
+      "Multiple bookmakers per game creates multiple rows"
+    ]
+  },
+  "totals": {
+    "description": "Over/under total points betting lines",
+    "columns": {
+      "total": "(FG) Full-game total points line",
+      "h1_total": "(H1) First-half total points line"
+    }
+  }
+}
