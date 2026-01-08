@@ -1,0 +1,466 @@
+[
+  {
+    "timestamp": "2026-01-07T18:34:27.872412",
+    "source": "espn_scores",
+    "total_rows": 7500,
+    "unique_input_teams": 581,
+    "resolved_teams": 366,
+    "unresolved_teams": 215,
+    "resolution_by_step": {
+      "alias": 336,
+      "mascot": 28,
+      "normalized": 2,
+      "unresolved": 65,
+      "non_d1": 150
+    },
+    "unresolved_list": [
+      "Adams State Grizzlies",
+      "Albany St (GA) Golden Rams",
+      "Allen University Yellow Jackets",
+      "Alliance University Warriors",
+      "Anderson (SC) Trojans",
+      "Antelope Valley",
+      "Apprentice School Builders",
+      "Arlington Baptist Patriots",
+      "Belhaven Blazers",
+      "Benedictine (AZ) Redhawks",
+      "Berea Mountaineers",
+      "Bethel (IN) Pilots",
+      "Bethesda University Flames",
+      "Bloomsburg Huskies",
+      "Blue Mountain Toppers",
+      "Bluefield University Ramblin' Rams",
+      "Bob Jones Bruins",
+      "Brevard Tornados",
+      "Brewton-Parker Wildcats",
+      "Bryan (TN) Lions",
+      "Bryn Athyn Lions",
+      "Buena Vista Beavers",
+      "CSU Pueblo Thunderwolves",
+      "Cairn University Highlanders",
+      "Cal Maritime Keelhaulers",
+      "Cal State LA Golden Eagles",
+      "Calumet Crimson Wave",
+      "Campbellsville Tigers",
+      "Campbellsville-Harrodsburg Pioneers",
+      "Cardinal Stritch Wolves",
+      "Carver College Cougars",
+      "Cedarville Yellow Jackets",
+      "Central Christian College Tigers",
+      "Central Penn Knights",
+      "Central State (OH) Marauders",
+      "Chadron State Eagles",
+      "Chaminade Silverswords",
+      "Champion Christian Tigers",
+      "Christendom Crusaders",
+      "Cincinnati Clermont Cougars",
+      "Cleary University Cougars",
+      "Coe Kohawks",
+      "Colby-Sawyer Chargers",
+      "College of New Jersey Lions",
+      "Colorado Christian Cougars",
+      "Columbia College (SC) Fighting Koalas",
+      "Columbia International Rams",
+      "Cornell College (IA) Rams",
+      "Covenant Fighting Scots",
+      "Crowley's Ridge Pioneers",
+      "Crown College Polars",
+      "Dakota State Trojans",
+      "Dakota Wesleyan Tigers",
+      "Dallas Christian Crusaders",
+      "Davis & Elkins Senators",
+      "Defiance Yellow Jackets",
+      "Dillard Blue Devils",
+      "District Of Columbia Firebirds",
+      "Dominican (IL) Dominican",
+      "E. New Mexico Greyhounds",
+      "Earlham College Quakers",
+      "East-West University Phantoms",
+      "Eastern Oregon Mountaineers",
+      "Ecclesia Royals",
+      "Eckerd Tritons",
+      "Elmira Soaring Eagles",
+      "Elms College Blazers",
+      "Emmanuel (MA) Lions",
+      "Erskine Flying Fleet",
+      "Eureka Red Devils",
+      "FDU Florham Devils",
+      "Fairmont St Falcons",
+      "Ferrum Panthers",
+      "Florida National Conquistadors",
+      "Franciscan University Barons",
+      "Frostburg State Bobcats",
+      "Glenville State Pioneers",
+      "Goshen Maple Leafs",
+      "Greensboro College Pride",
+      "Hendrix College Warriors",
+      "Hiwassee Tigers",
+      "Houghton Highlanders",
+      "Howard Payne Yellow Jackets",
+      "Huston-Tillotson Rams",
+      "Immaculata Mighty Macs",
+      "Jarvis Christian Bulldogs",
+      "Jessup University Warriors",
+      "John Brown Golden Eagles",
+      "Johnson University Florida Suns",
+      "Keene St Owls",
+      "Kentucky Christian Knights",
+      "Kentucky State Thorobreds",
+      "Kentucky Wesleyan Panthers",
+      "Keystone Giants",
+      "LIU Brooklyn Liu Brooklyn",
+      "La Sierra Golden Eagles",
+      "LaGrange Panthers",
+      "Lancasater Bible College Chargers",
+      "LeTourneau Yellow Jackets",
+      "Lenoir-Rhyne Bears",
+      "Lewis & Clark Pioneers",
+      "Life Pacific Warriors",
+      "Lincoln University (CA) Oaklanders",
+      "Lindsey Wilson Blue Raiders",
+      "Louisiana Christian Wildcats",
+      "Lyon Scots",
+      "Maine-Fort Kent Bengals",
+      "Maine-Machias Clippers",
+      "Manchester Spartans",
+      "Manor College Blue Jays",
+      "Massachusetts College of Liberal Arts Mohawks",
+      "Mayville St Comets",
+      "McMurry War Hawks",
+      "Merchant Marine Academy Mariners",
+      "Mercy Mavericks",
+      "Mid-Atlantic Christian Mustangs",
+      "Midland University Midland",
+      "Midway University Eagles",
+      "Milligan Buffaloes",
+      "Minnesota Crookston Golden Eagles",
+      "Mississippi College Choctaws",
+      "Missouri S&T Miners",
+      "Mobile Rams",
+      "Montana State-Northern Lights",
+      "Montana-Western Bulldogs",
+      "Moravian Greyhounds",
+      "Morehouse Maroon Tigers",
+      "Nelson Lions",
+      "New Mexico Highlands Cowboys",
+      "North American Stallions",
+      "North Greenville Crusaders",
+      "North Park Vikings",
+      "Northern New Mexico Eagles",
+      "Northwest Indian RedHawks",
+      "Oakland City Mighty Oaks",
+      "Oakwood Ambassadors",
+      "Occidental Tigers",
+      "Olivet Comets",
+      "Our Lady Of The Lake Saints",
+      "Ozark Christian Ambassadors",
+      "Pacific Lutheran Lutes",
+      "Paul Quinn Tigers",
+      "Penn State-Alleghany Nittany Lions",
+      "Peru State Bobcats",
+      "Piedmont Lions",
+      "Pine Manor",
+      "Pittsburgh - Greensburg Bobcats",
+      "Portland Bible Arrows",
+      "Presentation College Saints",
+      "Puget Sound Loggers",
+      "Regent Royals",
+      "Rhodes Lynx",
+      "Rochester University (MI) Warriors",
+      "Rockford Regents",
+      "Rogers State Hillcats",
+      "Rust Bearcats",
+      "SUNY-Canton Roos",
+      "SUNY-Oneonta Red Dragons",
+      "San Diego Christian Hawks",
+      "Sarah Lawrence Gryphons",
+      "Savannah State Tigers",
+      "Schreiner Mountaineers",
+      "Siena Heights Saints",
+      "Southeastern Fires",
+      "Southeastern Oklahoma State Savage Storm",
+      "Southern Virginia Knights",
+      "Southern Wesleyan Warriors",
+      "Southern-New Orleans Knights",
+      "Southwestern (TX) Pirates",
+      "Southwestern Adventist Knights",
+      "Southwestern Assemblies of God Lions",
+      "Spalding Pelicans",
+      "Spring Hill Badgers",
+      "St. Andrews Knights",
+      "St. Edward's Hilltoppers",
+      "St. Elizabeth Eagles",
+      "St. Francis (IL) Fighting Saints",
+      "St. Francis Brooklyn Terriers",
+      "St. Joseph's (NY) Bears",
+      "St. Mary's (MD) Seahawks",
+      "St. Thomas (TX) Celts",
+      "St. Xavier  (IL) Cougars",
+      "Stanislaus State Warriors",
+      "Tabor",
+      "Texas Lutheran Bulldogs",
+      "Thomas (ME) Terriers",
+      "Tiffin Dragons",
+      "Toccoa Falls Eagles",
+      "Transylvania Pioneers",
+      "Trinity College of Jacksonville Eagles",
+      "Truett-McConnell Bears",
+      "UNT Dallas Trailblazers",
+      "University of Saint Katherine Saint Katherine",
+      "Urbana Blue Knights",
+      "Virginia-Lynchburg Dragons",
+      "WVU Tech Golden Bears",
+      "Warner Pacific Knights",
+      "Warren Wilson Owls",
+      "Washburn Ichabods",
+      "Washington Adventist Shock",
+      "West Alabama Tigers",
+      "West Coast Baptist Eagles",
+      "West Virginia Wesleyan Bobcats",
+      "Westcliff Warriors",
+      "Western Colorado Mountaineers",
+      "Westminster (PA) Titans",
+      "Westmont Warriors",
+      "Whittier Poets",
+      "Wiley Wildcats",
+      "Willamette Bearcats",
+      "William Carey Crusaders",
+      "William Woods Owls",
+      "Wilmington (DE) Wildcats",
+      "Wisconsin-Stout Blue Devils",
+      "Yellowstone Christian College Centurions"
+    ],
+    "sample_resolutions": [
+      {
+        "input": "USC Trojans",
+        "output": "USC",
+        "step": "alias"
+      },
+      {
+        "input": "Radford Highlanders",
+        "output": "Radford",
+        "step": "mascot"
+      },
+      {
+        "input": "San Jos\u00e9 State Spartans",
+        "output": "San Jose St.",
+        "step": "normalized"
+      },
+      {
+        "input": "Western Michigan Broncos",
+        "output": "Western Michigan",
+        "step": "alias"
+      },
+      {
+        "input": "Cal Poly Mustangs",
+        "output": "Cal Poly",
+        "step": "alias"
+      },
+      {
+        "input": "Air Force Falcons",
+        "output": "Air Force",
+        "step": "alias"
+      },
+      {
+        "input": "Sacred Heart Pioneers",
+        "output": "Sacred Heart",
+        "step": "alias"
+      },
+      {
+        "input": "Milwaukee Panthers",
+        "output": "Milwaukee",
+        "step": "alias"
+      },
+      {
+        "input": "Chicago State Cougars",
+        "output": "Chicago St.",
+        "step": "alias"
+      },
+      {
+        "input": "BYU Cougars",
+        "output": "BYU",
+        "step": "alias"
+      },
+      {
+        "input": "Arkansas State Red Wolves",
+        "output": "Arkansas St.",
+        "step": "alias"
+      },
+      {
+        "input": "Lafayette Leopards",
+        "output": "Lafayette",
+        "step": "alias"
+      },
+      {
+        "input": "Fresno State Bulldogs",
+        "output": "Fresno St.",
+        "step": "alias"
+      },
+      {
+        "input": "Providence Friars",
+        "output": "Providence",
+        "step": "alias"
+      },
+      {
+        "input": "Elon Phoenix",
+        "output": "Elon",
+        "step": "alias"
+      },
+      {
+        "input": "Abilene Christian Wildcats",
+        "output": "Abilene Christian",
+        "step": "alias"
+      },
+      {
+        "input": "Oakland Golden Grizzlies",
+        "output": "Oakland",
+        "step": "alias"
+      },
+      {
+        "input": "Texas A&M Aggies",
+        "output": "Texas A&M",
+        "step": "alias"
+      },
+      {
+        "input": "Miami Hurricanes",
+        "output": "Miami FL",
+        "step": "alias"
+      },
+      {
+        "input": "Loyola Marymount Lions",
+        "output": "Loyola Marymount",
+        "step": "alias"
+      }
+    ],
+    "match_rate": 62.99483648881239
+  },
+  {
+    "timestamp": "2026-01-07T18:34:27.906788",
+    "source": "odds_api",
+    "total_rows": 17047,
+    "unique_input_teams": 369,
+    "resolved_teams": 369,
+    "unresolved_teams": 0,
+    "resolution_by_step": {
+      "canonical": 369
+    },
+    "unresolved_list": [],
+    "sample_resolutions": [
+      {
+        "input": "Arizona St.",
+        "output": "Arizona St.",
+        "step": "canonical"
+      },
+      {
+        "input": "Central Connecticut",
+        "output": "Central Connecticut",
+        "step": "canonical"
+      },
+      {
+        "input": "Radford",
+        "output": "Radford",
+        "step": "canonical"
+      },
+      {
+        "input": "Appalachian St.",
+        "output": "Appalachian St.",
+        "step": "canonical"
+      },
+      {
+        "input": "Seattle",
+        "output": "Seattle",
+        "step": "canonical"
+      },
+      {
+        "input": "Ohio St.",
+        "output": "Ohio St.",
+        "step": "canonical"
+      },
+      {
+        "input": "UIC",
+        "output": "UIC",
+        "step": "canonical"
+      },
+      {
+        "input": "Oregon St.",
+        "output": "Oregon St.",
+        "step": "canonical"
+      },
+      {
+        "input": "Mount St. Mary's",
+        "output": "Mount St. Mary's",
+        "step": "canonical"
+      },
+      {
+        "input": "Liberty",
+        "output": "Liberty",
+        "step": "canonical"
+      },
+      {
+        "input": "Alabama St.",
+        "output": "Alabama St.",
+        "step": "canonical"
+      },
+      {
+        "input": "Troy",
+        "output": "Troy",
+        "step": "canonical"
+      },
+      {
+        "input": "Alabama A&M",
+        "output": "Alabama A&M",
+        "step": "canonical"
+      },
+      {
+        "input": "Stetson",
+        "output": "Stetson",
+        "step": "canonical"
+      },
+      {
+        "input": "Little Rock",
+        "output": "Little Rock",
+        "step": "canonical"
+      },
+      {
+        "input": "Cal Baptist",
+        "output": "Cal Baptist",
+        "step": "canonical"
+      },
+      {
+        "input": "Sacred Heart",
+        "output": "Sacred Heart",
+        "step": "canonical"
+      },
+      {
+        "input": "Buffalo",
+        "output": "Buffalo",
+        "step": "canonical"
+      },
+      {
+        "input": "UMKC",
+        "output": "UMKC",
+        "step": "canonical"
+      },
+      {
+        "input": "Norfolk St.",
+        "output": "Norfolk St.",
+        "step": "canonical"
+      }
+    ],
+    "match_rate": 100.0
+  },
+  {
+    "timestamp": "2026-01-07T18:34:27.934166",
+    "source": "barttorvik",
+    "total_rows": 2865,
+    "unique_input_teams": 368,
+    "resolved_teams": 368,
+    "unresolved_teams": 0,
+    "resolution_by_step": {
+      "canonical": 368
+    },
+    "unresolved_list": [],
+    "sample_resolutions": [],
+    "match_rate": 100.0
+  }
+]
