@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-01-07T19:35:34.109749",
+  "overall_pass": false,
+  "overall_score": 0.8963355834136933,
+  "methodology_1": {
+    "name": "Cross-Source Team Resolution Consistency",
+    "passed": false,
+    "score": 0.7926711668273867,
+    "issues": [
+      "WARNING: 65 likely D1 teams unresolved",
+      "FAIL: Resolution rate 79.3% < 90% threshold"
+    ],
+    "warnings": [
+      "Sample D1 unresolved teams:",
+      "  'Albany St (GA) Golden Rams' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Apprentice School Builders' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Bethel (IN) Pilots' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Brewton-Parker Wildcats' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Bryan (TN) Lions' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Buena Vista Beavers' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Campbellsville-Harrodsburg Pioneers' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Central Christian College Tigers' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Central Penn Knights' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Central State (OH) Marauders' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Cleary University Cougars' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Coe Kohawks' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Columbia College (SC) Fighting Koalas' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Covenant Fighting Scots' (in: espn_scores_fg, espn_scores_h1)",
+      "  'Crowley's Ridge Pioneers' (in: espn_scores_fg, espn_scores_h1)"
+    ],
+    "metrics": {
+      "total_unique_raw_teams": 1037,
+      "teams_by_source": {
+        "odds_spreads_fg": 373,
+        "odds_totals_fg": 373,
+        "espn_scores_fg": 581,
+        "espn_scores_h1": 581,
+        "barttorvik": 368,
+        "backtest_ready": 0
+      },
+      "resolution_rate": 0.7926711668273867,
+      "resolved_count": 822,
+      "unresolved_count": 215,
+      "resolution_by_step": {
+        "alias": 1352,
+        "mascot": 118,
+        "normalized": 8,
+        "canonical": 368
+      },
+      "inconsistent_resolutions": 0,
+      "canonical_mismatches": 0,
+      "d1_unresolved_count": 65,
+      "non_d1_unresolved_count": 150
+    }
+  },
+  "methodology_2": {
+    "name": "Round-Trip Canonicalization Integrity",
+    "passed": true,
+    "score": 1.0,
+    "issues": [],
+    "warnings": [
+      "INFO: 17.8% cross-source match rate (ESPN scores don't cover all games)",
+      "Sample games in odds but not scores (13996 total):",
+      "  2020-11-25: Abilene Christian vs East Tennessee St.",
+      "  2020-11-25: Ball St. vs Northern Kentucky",
+      "  2020-11-25: Bradley vs Toledo",
+      "  2020-11-25: Butler vs Western Michigan",
+      "  2020-11-25: Charleston So. vs NC State"
+    ],
+    "metrics": {
+      "self_play_games": 0,
+      "field_mismatches_sample": 0,
+      "odds_games_count": 17029,
+      "scores_games_count": 7196,
+      "matched_games_count": 3033,
+      "odds_only_count": 13996,
+      "scores_only_count": 4163,
+      "cross_source_match_rate": 0.17810793352516296,
+      "canonical_teams_odds": 369,
+      "canonical_teams_scores": 366,
+      "canonical_teams_barttorvik": 368,
+      "barttorvik_coverage": 0.964769647696477,
+      "missing_from_barttorvik": 13
+    }
+  }
+}

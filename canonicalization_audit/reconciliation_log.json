@@ -1,0 +1,200 @@
+{
+  "timestamp": "2026-01-07T20:16:24.593379",
+  "mode": "apply",
+  "results": {
+    "backtest_ready": {
+      "file": "C:\\Users\\JB\\green-bier-ventures\\NCAAM_main\\testing\\data\\backtest_ready.csv",
+      "original_rows": 17366,
+      "changes_count": 7843,
+      "changes": [
+        {
+          "row": 0,
+          "date": "2020-11-25",
+          "teams": "Charleston @ North Carolina",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 39
+        },
+        {
+          "row": 0,
+          "date": "2020-11-25",
+          "teams": "Charleston @ North Carolina",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 32
+        },
+        {
+          "row": 11,
+          "date": "2020-11-25",
+          "teams": "Lamar @ Houston",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 35
+        },
+        {
+          "row": 11,
+          "date": "2020-11-25",
+          "teams": "Lamar @ Houston",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 15
+        },
+        {
+          "row": 45,
+          "date": "2020-11-25",
+          "teams": "Bowling Green @ Michigan",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 43
+        },
+        {
+          "row": 45,
+          "date": "2020-11-25",
+          "teams": "Bowling Green @ Michigan",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 36
+        },
+        {
+          "row": 49,
+          "date": "2020-11-25",
+          "teams": "North Carolina A&T @ Illinois",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 58
+        },
+        {
+          "row": 49,
+          "date": "2020-11-25",
+          "teams": "North Carolina A&T @ Illinois",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 19
+        },
+        {
+          "row": 53,
+          "date": "2020-11-25",
+          "teams": "Eastern Michigan @ Michigan St.",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 43
+        },
+        {
+          "row": 53,
+          "date": "2020-11-25",
+          "teams": "Eastern Michigan @ Michigan St.",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 27
+        },
+        {
+          "row": 54,
+          "date": "2020-11-25",
+          "teams": "Illinois St. @ Ohio St.",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 42
+        },
+        {
+          "row": 54,
+          "date": "2020-11-25",
+          "teams": "Illinois St. @ Ohio St.",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 25
+        },
+        {
+          "row": 65,
+          "date": "2020-11-25",
+          "teams": "North Carolina A&T @ Illinois",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 58
+        },
+        {
+          "row": 65,
+          "date": "2020-11-25",
+          "teams": "North Carolina A&T @ Illinois",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 19
+        },
+        {
+          "row": 66,
+          "date": "2020-11-25",
+          "teams": "Illinois St. @ Ohio St.",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 42
+        },
+        {
+          "row": 66,
+          "date": "2020-11-25",
+          "teams": "Illinois St. @ Ohio St.",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 25
+        },
+        {
+          "row": 67,
+          "date": "2020-11-25",
+          "teams": "Lamar @ Houston",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 35
+        },
+        {
+          "row": 67,
+          "date": "2020-11-25",
+          "teams": "Lamar @ Houston",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 15
+        },
+        {
+          "row": 70,
+          "date": "2020-11-25",
+          "teams": "Bowling Green @ Michigan",
+          "field": "h1_home_score",
+          "old": NaN,
+          "new": 43
+        },
+        {
+          "row": 70,
+          "date": "2020-11-25",
+          "teams": "Bowling Green @ Michigan",
+          "field": "h1_away_score",
+          "old": NaN,
+          "new": 36
+        }
+      ],
+      "backup": "C:\\Users\\JB\\green-bier-ventures\\NCAAM_main\\testing\\data\\backtest_ready.csv.bak",
+      "status": "updated"
+    },
+    "backtest_complete": {
+      "file": "C:\\Users\\JB\\green-bier-ventures\\NCAAM_main\\testing\\data\\backtest_complete.csv",
+      "original_rows": 13242,
+      "changes_count": 2,
+      "changes": [
+        {
+          "row": 474,
+          "date": "2021-02-27",
+          "teams": "Southern Illinois @ Loyola Chicago",
+          "field": "home_score",
+          "old": 60,
+          "new": 65
+        },
+        {
+          "row": 474,
+          "date": "2021-02-27",
+          "teams": "Southern Illinois @ Loyola Chicago",
+          "field": "away_score",
+          "old": 52,
+          "new": 58
+        }
+      ],
+      "backup": "C:\\Users\\JB\\green-bier-ventures\\NCAAM_main\\testing\\data\\backtest_complete.csv.bak",
+      "status": "updated"
+    }
+  }
+}

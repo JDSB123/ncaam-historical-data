@@ -1,0 +1,139 @@
+{
+  "timestamp": "2026-01-07T23:58:11.185614",
+  "passed": true,
+  "score": 1.0,
+  "metrics": {
+    "espn_canonical_fg_count": 7197,
+    "espn_canonical_h1_count": 7221,
+    "backtest_ready_count": 17366,
+    "backtest_complete_count": 13045,
+    "games_2023_2025_count": 11763,
+    "training_data_with_odds_count": 11763,
+    "cross_validations": 17936,
+    "matches": 57131,
+    "mismatches": 0,
+    "source_pairs_checked": [],
+    "games_in_multiple_sources": 17936,
+    "match_rate": 1.0,
+    "critical_issues": 0,
+    "warning_issues": 5
+  },
+  "issues": [
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "espn_canonical_h1: 2 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2018-11-20",
+            "matchup": "Eastern Michigan @ Rutgers",
+            "problems": [
+              "away_h1=4"
+            ]
+          },
+          {
+            "date": "2022-02-05",
+            "matchup": "Harvard @ Brown",
+            "problems": [
+              "home_h1=8"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "backtest_ready: 1 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2022-03-05",
+            "matchup": "McNeese St. @ Houston Christian",
+            "problems": [
+              "total=292"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "backtest_complete: 2 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2023-12-10",
+            "matchup": "Oak Hills Christian @ North Dakota St",
+            "problems": [
+              "away_score=14"
+            ]
+          },
+          {
+            "date": "2024-11-19",
+            "matchup": "Calvary @ UMKC",
+            "problems": [
+              "away_score=19"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "games_2023_2025: 2 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2023-12-10",
+            "matchup": "Oak Hills Christian @ North Dakota St",
+            "problems": [
+              "away_score=14"
+            ]
+          },
+          {
+            "date": "2024-11-19",
+            "matchup": "Calvary @ UMKC",
+            "problems": [
+              "away_score=19"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "training_data_with_odds: 2 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2023-12-10",
+            "matchup": "Oak Hills Christian @ North Dakota St",
+            "problems": [
+              "away_score=14"
+            ]
+          },
+          {
+            "date": "2024-11-19",
+            "matchup": "Calvary @ UMKC",
+            "problems": [
+              "away_score=19"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "INFO",
+      "category": "duplicates",
+      "description": "backtest_ready: 1623 exact duplicate games",
+      "details": {
+        "count": 1623
+      }
+    }
+  ]
+}

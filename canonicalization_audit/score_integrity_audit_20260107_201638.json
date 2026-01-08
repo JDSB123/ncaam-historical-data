@@ -1,0 +1,395 @@
+{
+  "timestamp": "2026-01-07T20:16:38.286102",
+  "passed": false,
+  "score": 0.19999999999999996,
+  "metrics": {
+    "espn_canonical_fg_count": 7197,
+    "espn_canonical_h1_count": 7221,
+    "backtest_ready_count": 17366,
+    "backtest_complete_count": 13242,
+    "games_2023_2025_count": 11763,
+    "training_data_with_odds_count": 11763,
+    "cross_validations": 17935,
+    "matches": 57124,
+    "mismatches": 4,
+    "source_pairs_checked": [],
+    "games_in_multiple_sources": 17935,
+    "match_rate": 0.9999299817952668,
+    "critical_issues": 4,
+    "warning_issues": 5
+  },
+  "issues": [
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "espn_canonical_h1: 2 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2018-11-20",
+            "matchup": "Eastern Michigan @ Rutgers",
+            "problems": [
+              "away_h1=4"
+            ]
+          },
+          {
+            "date": "2022-02-05",
+            "matchup": "Harvard @ Brown",
+            "problems": [
+              "home_h1=8"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "backtest_ready: 1 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2022-03-05",
+            "matchup": "McNeese St. @ Houston Christian",
+            "problems": [
+              "total=292"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "backtest_complete: 2 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2023-12-10",
+            "matchup": "Oak Hills Christian @ North Dakota St",
+            "problems": [
+              "away_score=14"
+            ]
+          },
+          {
+            "date": "2024-11-19",
+            "matchup": "Calvary @ UMKC",
+            "problems": [
+              "away_score=19"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "games_2023_2025: 2 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2023-12-10",
+            "matchup": "Oak Hills Christian @ North Dakota St",
+            "problems": [
+              "away_score=14"
+            ]
+          },
+          {
+            "date": "2024-11-19",
+            "matchup": "Calvary @ UMKC",
+            "problems": [
+              "away_score=19"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "WARNING",
+      "category": "score_sanity",
+      "description": "training_data_with_odds: 2 games with unusual scores",
+      "details": {
+        "samples": [
+          {
+            "date": "2023-12-10",
+            "matchup": "Oak Hills Christian @ North Dakota St",
+            "problems": [
+              "away_score=14"
+            ]
+          },
+          {
+            "date": "2024-11-19",
+            "matchup": "Calvary @ UMKC",
+            "problems": [
+              "away_score=19"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "severity": "CRITICAL",
+      "category": "duplicates",
+      "description": "espn_canonical_fg: 1 games with CONFLICTING duplicate scores",
+      "details": {
+        "samples": [
+          {
+            "key": "2021-02-27|loyola chicago|southern illinois",
+            "count": 2,
+            "scores": [
+              [
+                60,
+                52
+              ],
+              [
+                65,
+                58
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          }
+        ]
+      }
+    },
+    {
+      "severity": "CRITICAL",
+      "category": "duplicates",
+      "description": "espn_canonical_h1: 1 games with CONFLICTING duplicate scores",
+      "details": {
+        "samples": [
+          {
+            "key": "2021-02-27|loyola chicago|southern illinois",
+            "count": 2,
+            "scores": [
+              [
+                60,
+                52
+              ],
+              [
+                65,
+                58
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          }
+        ]
+      }
+    },
+    {
+      "severity": "INFO",
+      "category": "duplicates",
+      "description": "backtest_ready: 1623 exact duplicate games",
+      "details": {
+        "count": 1623
+      }
+    },
+    {
+      "severity": "CRITICAL",
+      "category": "duplicates",
+      "description": "backtest_complete: 193 games with CONFLICTING duplicate scores",
+      "details": {
+        "samples": [
+          {
+            "key": "2023-11-06|georgia|oregon",
+            "count": 2,
+            "scores": [
+              [
+                71,
+                82
+              ],
+              [
+                82,
+                71
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-11|florida|virginia",
+            "count": 2,
+            "scores": [
+              [
+                73,
+                70
+              ],
+              [
+                70,
+                73
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-11|marshall|radford",
+            "count": 2,
+            "scores": [
+              [
+                66,
+                62
+              ],
+              [
+                62,
+                66
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-12|maryland|uab",
+            "count": 2,
+            "scores": [
+              [
+                66,
+                63
+              ],
+              [
+                63,
+                66
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-12|clemson|davidson",
+            "count": 2,
+            "scores": [
+              [
+                68,
+                65
+              ],
+              [
+                65,
+                68
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-15|duke|michigan state",
+            "count": 2,
+            "scores": [
+              [
+                74,
+                65
+              ],
+              [
+                65,
+                74
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-17|nebraska o.|william & mary",
+            "count": 2,
+            "scores": [
+              [
+                89,
+                83
+              ],
+              [
+                83,
+                89
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-17|lsu|north texas",
+            "count": 2,
+            "scores": [
+              [
+                66,
+                62
+              ],
+              [
+                62,
+                66
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-17|st. louis billikens|vermont",
+            "count": 2,
+            "scores": [
+              [
+                78,
+                68
+              ],
+              [
+                68,
+                78
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          },
+          {
+            "key": "2023-11-17|dayton|st. john's (n.y.)",
+            "count": 2,
+            "scores": [
+              [
+                81,
+                88
+              ],
+              [
+                88,
+                81
+              ]
+            ],
+            "issue": "CONFLICTING scores"
+          }
+        ]
+      }
+    },
+    {
+      "severity": "INFO",
+      "category": "duplicates",
+      "description": "backtest_complete: 4 exact duplicate games",
+      "details": {
+        "count": 4
+      }
+    },
+    {
+      "severity": "CRITICAL",
+      "category": "cross_source_mismatch",
+      "description": "4 games have DIFFERENT scores across sources",
+      "details": {
+        "samples": [
+          {
+            "date": "2021-02-27",
+            "teams": "2021-02-27|loyola chicago|southern illinois",
+            "source1": "espn_canonical_fg",
+            "scores1": "60-52",
+            "source2": "backtest_ready",
+            "scores2": "65-58"
+          },
+          {
+            "date": "2021-02-27",
+            "teams": "2021-02-27|loyola chicago|southern illinois",
+            "source1": "espn_canonical_fg",
+            "scores1": "60-52",
+            "source2": "backtest_complete",
+            "scores2": "65-58"
+          },
+          {
+            "date": "2021-02-27",
+            "teams": "2021-02-27|loyola chicago|southern illinois",
+            "source1": "espn_canonical_h1",
+            "scores1": "60-52",
+            "source2": "backtest_ready",
+            "scores2": "65-58"
+          },
+          {
+            "date": "2021-02-27",
+            "teams": "2021-02-27|loyola chicago|southern illinois",
+            "source1": "espn_canonical_h1",
+            "scores1": "60-52",
+            "source2": "backtest_complete",
+            "scores2": "65-58"
+          }
+        ]
+      }
+    }
+  ]
+}
