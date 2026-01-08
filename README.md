@@ -5,23 +5,42 @@ It lives inside `NCAAM_main/ncaam_historical_data_local` and is versioned separa
 main model code.
 
 ## Structure
-- `odds/raw/` - Raw pulls from The Odds API (ignored by git)
-- `odds/normalized/` - Canonical odds outputs (matchup + team rows)
+- `odds/raw/` - Raw pulls from The Odds API (gitignored, synced to Azure Blob)
+- `odds/canonical/` - Canonical odds outputs (spreads/totals by period)
 - `scores/fg/` - Full-game results from ESPN
 - `scores/h1/` - First-half results from ESPN boxscores
-- `ratings/barttorvik/` - Barttorvik season ratings
+- `ratings/raw/barttorvik/` - Barttorvik season ratings
 - `team_resolution/` - Team name resolution artifacts
 - `backtest_datasets/` - Derived datasets for backtests
 - `schemas/` / `manifests/` - Optional schema and checksum files
-- `ncaahoopR_data-master/` - Play-by-play data (6.7 GB, ignored by git)
+- `ncaahoopR_data-master/` - Play-by-play data (6.7 GB, gitignored, synced to Azure Blob)
 
 ## Ingestion (from NCAAM_main)
 - `testing/scripts/fetch_historical_odds.py` -> `odds/raw/`
-- `testing/scripts/canonicalize_historical_odds.py` -> `odds/normalized/`
-- `testing/scripts/fetch_historical_data.py` -> `scores/fg/` and `ratings/barttorvik/`
+- `testing/scripts/canonicalize_historical_odds.py` -> `odds/canonical/`
+- `testing/scripts/fetch_historical_data.py` -> `scores/fg/` and `ratings/raw/barttorvik/`
 - `testing/scripts/fetch_h1_data.py` -> `scores/h1/`
 
 Override the default root with `HISTORICAL_DATA_ROOT` if needed.
+
+## Azure Blob Storage (Raw Data Backup)
+Raw data that's too large for GitHub is synced to Azure Blob Storage:
+
+- **Storage Account**: `metricstrackersgbsv` (dashboard-gbsv-main-rg)
+- **Container**: `ncaam-historical-raw`
+- **Contents**:
+  - `odds/raw/archive/` - 210+ raw API CSV files (~139K+ rows)
+  - `ncaahoopR_data-master/` - Play-by-play data (6.7 GB)
+
+### Sync Command
+```bash
+# From NCAAM_main directory
+python scripts/sync_raw_data_to_azure.py           # Upload raw odds
+python scripts/sync_raw_data_to_azure.py --dry-run # Preview without uploading
+python scripts/sync_raw_data_to_azure.py --include-ncaahoopR  # Include 6.7GB pbp data
+```
+
+Run this after any major data ingestion to ensure raw data is backed up.
 
 ## Data Coverage Summary (as of January 2026)
 
@@ -52,8 +71,10 @@ Override the default root with `HISTORICAL_DATA_ROOT` if needed.
 ### Known Limitations
 1. **H1 Historical Odds**: The Odds API historical endpoint may not return H1 spreads for older seasons (2021-2023). H1 backtest coverage is limited to seasons 2024+.
 2. **Odds API Coverage**: Data begins ~Nov 2020. Seasons 2019-2020 have no odds data.
-3. **ncaahoopR Data**: Too large for GitHub (6.7 GB). Stored locally and synced separately.
+3. **ncaahoopR Data**: Too large for GitHub (6.7 GB). Synced to Azure Blob Storage.
 
 ## Publishing
-Commit only canonical outputs here. Sync to Azure Blob storage after canonicalization
-and integration checks are complete.
+1. **Canonical data**: Commit to this repo (pushed to GitHub)
+2. **Raw data**: Sync to Azure Blob Storage with `scripts/sync_raw_data_to_azure.py`
+
+Both steps should be run after any major data ingestion.

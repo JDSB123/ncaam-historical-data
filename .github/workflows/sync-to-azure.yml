@@ -1,0 +1,102 @@
+name: Sync Raw Data to Azure Blob
+
+# Triggered after historical data commits or manually
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'odds/**'
+      - 'scores/**'
+      - 'ratings/**'
+      - 'backtest_datasets/**'
+  workflow_dispatch:  # Allow manual triggering
+
+env:
+  STORAGE_ACCOUNT: metricstrackersgbsv
+  CONTAINER_NAME: ncaam-historical-raw
+
+jobs:
+  sync-to-azure:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout historical data repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for diff detection
+
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Sync canonical data to Azure Blob
+        uses: azure/cli@v1
+        with:
+          azcliversion: latest
+          inlineScript: |
+            echo "Syncing canonical data to Azure Blob Storage..."
+            
+            # Create container if it doesn't exist
+            az storage container create \
+              --name ${{ env.CONTAINER_NAME }} \
+              --account-name ${{ env.STORAGE_ACCOUNT }} \
+              --auth-mode login \
+              --only-show-errors || true
+            
+            # Sync odds/canonical (the processed odds data)
+            if [ -d "odds/canonical" ]; then
+              echo "Uploading odds/canonical..."
+              az storage blob upload-batch \
+                --destination ${{ env.CONTAINER_NAME }}/odds/canonical \
+                --source odds/canonical \
+                --account-name ${{ env.STORAGE_ACCOUNT }} \
+                --auth-mode login \
+                --overwrite \
+                --only-show-errors
+            fi
+            
+            # Sync scores
+            if [ -d "scores" ]; then
+              echo "Uploading scores..."
+              az storage blob upload-batch \
+                --destination ${{ env.CONTAINER_NAME }}/scores \
+                --source scores \
+                --account-name ${{ env.STORAGE_ACCOUNT }} \
+                --auth-mode login \
+                --overwrite \
+                --only-show-errors
+            fi
+            
+            # Sync ratings
+            if [ -d "ratings" ]; then
+              echo "Uploading ratings..."
+              az storage blob upload-batch \
+                --destination ${{ env.CONTAINER_NAME }}/ratings \
+                --source ratings \
+                --account-name ${{ env.STORAGE_ACCOUNT }} \
+                --auth-mode login \
+                --overwrite \
+                --only-show-errors
+            fi
+            
+            # Sync backtest_datasets
+            if [ -d "backtest_datasets" ]; then
+              echo "Uploading backtest_datasets..."
+              az storage blob upload-batch \
+                --destination ${{ env.CONTAINER_NAME }}/backtest_datasets \
+                --source backtest_datasets \
+                --account-name ${{ env.STORAGE_ACCOUNT }} \
+                --auth-mode login \
+                --overwrite \
+                --only-show-errors
+            fi
+            
+            echo "✅ Sync complete!"
+
+      - name: Report sync status
+        run: |
+          echo "📦 Historical data synced to Azure Blob Storage"
+          echo "  Storage Account: ${{ env.STORAGE_ACCOUNT }}"
+          echo "  Container: ${{ env.CONTAINER_NAME }}"
+          echo "  Timestamp: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
