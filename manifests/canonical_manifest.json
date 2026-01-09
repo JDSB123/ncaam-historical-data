@@ -1,0 +1,187 @@
+{
+  "version": "2026.01.09.0948",
+  "schema_version": "2.0.0",
+  "created_at": "2026-01-09T09:48:58.214762",
+  "team_aliases_version": "2026.01.07.1",
+  "team_aliases_sha256": "d5fd6afb4f3313120d81af95080164756fdde93ad83a0641db481f83936de342",
+  "total_files": 8,
+  "total_rows": 458004,
+  "coverage": {
+    "scores_fg_rows": 7197,
+    "scores_h1_rows": 7221,
+    "odds_fg_rows": 207646,
+    "odds_h1_rows": 7891,
+    "h1_score_coverage": 1.003334722801167,
+    "h1_odds_coverage": 0.03800217678163798
+  },
+  "files": {
+    "scores_fg": {
+      "path": "canonicalized/scores/fg/games_all_canonical.csv",
+      "sha256": "70cd5d81dd4af12c0339ce78922aae92ef023b1f97ece231867d41dcb6959450",
+      "size_bytes": 913642,
+      "row_count": 7197,
+      "columns": [
+        "game_id",
+        "date",
+        "home_team",
+        "home_abbr",
+        "away_team",
+        "away_abbr",
+        "home_score",
+        "away_score",
+        "total",
+        "spread_result",
+        "venue",
+        "neutral",
+        "home_canonical",
+        "away_canonical"
+      ],
+      "last_modified": "2026-01-07T23:58:01.710569"
+    },
+    "scores_h1": {
+      "path": "canonicalized/scores/h1/h1_games_all_canonical.csv",
+      "sha256": "7307a07c87cc30efca69fde2668ca349929634825f5d91393d5f33a7acb69684",
+      "size_bytes": 725082,
+      "row_count": 7221,
+      "columns": [
+        "game_id",
+        "date",
+        "home_team",
+        "away_team",
+        "home_h1",
+        "away_h1",
+        "h1_total",
+        "home_fg",
+        "away_fg",
+        "fg_total",
+        "home_canonical",
+        "away_canonical"
+      ],
+      "last_modified": "2026-01-07T23:58:01.741864"
+    },
+    "odds_spreads_fg": {
+      "path": "odds/canonical/spreads/fg/spreads_fg_all.csv",
+      "sha256": "466897230f3f3292d44025d6560b474b1d24b7da6c6a393b5ef96d0544f86e11",
+      "size_bytes": 36303521,
+      "row_count": 207646,
+      "columns": [
+        "event_id",
+        "commence_time",
+        "home_team",
+        "away_team",
+        "home_team_canonical",
+        "away_team_canonical",
+        "bookmaker",
+        "timestamp",
+        "game_date",
+        "season",
+        "is_march_madness",
+        "spread"
+      ],
+      "last_modified": "2026-01-09T08:23:24.553642"
+    },
+    "odds_spreads_h1": {
+      "path": "odds/canonical/spreads/h1/spreads_h1_all.csv",
+      "sha256": "8c0df80c17d9fbcebd2ed564b046546e7f4484abe83735e121012ea1df725383",
+      "size_bytes": 1390423,
+      "row_count": 7891,
+      "columns": [
+        "event_id",
+        "commence_time",
+        "home_team",
+        "away_team",
+        "home_team_canonical",
+        "away_team_canonical",
+        "bookmaker",
+        "timestamp",
+        "game_date",
+        "season",
+        "is_march_madness",
+        "h1_spread"
+      ],
+      "last_modified": "2026-01-09T08:21:48.071399"
+    },
+    "odds_totals_fg": {
+      "path": "odds/canonical/totals/fg/totals_fg_all.csv",
+      "sha256": "5ec287e10299507ddf60abfe4ddf9a6755356d6d1fb442ad52869d78fb7147d4",
+      "size_bytes": 36622829,
+      "row_count": 208112,
+      "columns": [
+        "event_id",
+        "commence_time",
+        "home_team",
+        "away_team",
+        "home_team_canonical",
+        "away_team_canonical",
+        "bookmaker",
+        "timestamp",
+        "game_date",
+        "season",
+        "is_march_madness",
+        "total"
+      ],
+      "last_modified": "2026-01-09T08:23:49.159025"
+    },
+    "odds_totals_h1": {
+      "path": "odds/canonical/totals/h1/totals_h1_all.csv",
+      "sha256": "a7c8c4a0195ebcf0e3dc9d4514db1663216c3cae4f3f49ae40a41ac4db2fe071",
+      "size_bytes": 1391417,
+      "row_count": 7891,
+      "columns": [
+        "event_id",
+        "commence_time",
+        "home_team",
+        "away_team",
+        "home_team_canonical",
+        "away_team_canonical",
+        "bookmaker",
+        "timestamp",
+        "game_date",
+        "season",
+        "is_march_madness",
+        "h1_total"
+      ],
+      "last_modified": "2026-01-09T08:21:48.561003"
+    },
+    "backtest_training": {
+      "path": "backtest_datasets/training_data_with_odds.csv",
+      "sha256": "beed65ad21c258471c9f4aa8691ffb6501c6be225cf107cd9f1a5611bf3a5e97",
+      "size_bytes": 604712,
+      "row_count": 11763,
+      "columns": [
+        "game_id",
+        "game_date",
+        "home_team",
+        "away_team",
+        "home_score",
+        "away_score",
+        "spread_open",
+        "total_open"
+      ],
+      "last_modified": "2026-01-03T14:15:21.004867"
+    },
+    "backtest_h1": {
+      "path": "backtest_datasets/h1_training_data.csv",
+      "sha256": "dcc46d0a5926cfa7f48f6559beaa674504703710653717bc68baed7ba5022778",
+      "size_bytes": 25523,
+      "row_count": 283,
+      "columns": [
+        "date",
+        "home_team",
+        "away_team",
+        "h1_spread",
+        "h1_total",
+        "fg_spread",
+        "fg_total",
+        "home_h1",
+        "away_h1",
+        "actual_h1_total",
+        "home_fg",
+        "away_fg",
+        "h1_spread_cover",
+        "h1_total_over"
+      ],
+      "last_modified": "2026-01-03T15:15:37.471435"
+    }
+  }
+}

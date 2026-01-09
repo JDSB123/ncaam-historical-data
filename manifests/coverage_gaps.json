@@ -1,0 +1,118 @@
+{
+  "timestamp": "2026-01-09T09:48:56.802086",
+  "passed": false,
+  "summary": {
+    "total_games": 7500,
+    "fully_covered": 5109,
+    "coverage_rate": 0.6812,
+    "unexpected_gap_count": 3
+  },
+  "seasons": {
+    "2019": {
+      "total_games": 1154,
+      "games_with_h1_scores": 1086,
+      "games_with_fg_odds": 0,
+      "games_with_h1_odds": 0,
+      "games_with_ratings": 1084,
+      "games_fully_covered": 0,
+      "gap_count": 1086
+    },
+    "2020": {
+      "total_games": 856,
+      "games_with_h1_scores": 831,
+      "games_with_fg_odds": 0,
+      "games_with_h1_odds": 0,
+      "games_with_ratings": 828,
+      "games_fully_covered": 0,
+      "gap_count": 831
+    },
+    "2021": {
+      "total_games": 879,
+      "games_with_h1_scores": 863,
+      "games_with_fg_odds": 826,
+      "games_with_h1_odds": 0,
+      "games_with_ratings": 861,
+      "games_fully_covered": 824,
+      "gap_count": 39
+    },
+    "2022": {
+      "total_games": 1095,
+      "games_with_h1_scores": 1069,
+      "games_with_fg_odds": 995,
+      "games_with_h1_odds": 0,
+      "games_with_ratings": 1067,
+      "games_fully_covered": 993,
+      "gap_count": 76
+    },
+    "2023": {
+      "total_games": 1172,
+      "games_with_h1_scores": 1095,
+      "games_with_fg_odds": 1055,
+      "games_with_h1_odds": 0,
+      "games_with_ratings": 1094,
+      "games_fully_covered": 1055,
+      "gap_count": 40
+    },
+    "2024": {
+      "total_games": 928,
+      "games_with_h1_scores": 897,
+      "games_with_fg_odds": 892,
+      "games_with_h1_odds": 0,
+      "games_with_ratings": 896,
+      "games_fully_covered": 891,
+      "gap_count": 6
+    },
+    "2025": {
+      "total_games": 967,
+      "games_with_h1_scores": 932,
+      "games_with_fg_odds": 926,
+      "games_with_h1_odds": 910,
+      "games_with_ratings": 932,
+      "games_fully_covered": 926,
+      "gap_count": 6
+    },
+    "2026": {
+      "total_games": 449,
+      "games_with_h1_scores": 424,
+      "games_with_fg_odds": 421,
+      "games_with_h1_odds": 404,
+      "games_with_ratings": 423,
+      "games_fully_covered": 420,
+      "gap_count": 4
+    }
+  },
+  "unexpected_gaps": [
+    {
+      "game_id": "401582161",
+      "date": "2023-11-25",
+      "season": 2024,
+      "home_canonical": "Oregon",
+      "away_canonical": "Alabama",
+      "gap_reasons": [
+        "missing_fg_odds",
+        "missing_h1_odds"
+      ]
+    },
+    {
+      "game_id": "401577711",
+      "date": "2023-12-09",
+      "season": 2024,
+      "home_canonical": "Jacksonville St.",
+      "away_canonical": "UIC",
+      "gap_reasons": [
+        "missing_h1_odds",
+        "missing_ratings_away:UIC"
+      ]
+    },
+    {
+      "game_id": "401830256",
+      "date": "2026-01-02",
+      "season": 2026,
+      "home_canonical": "UIC",
+      "away_canonical": "Murray St.",
+      "gap_reasons": [
+        "missing_ratings_home:UIC"
+      ]
+    }
+  ]
+}
