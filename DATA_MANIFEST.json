@@ -1,0 +1,95 @@
+{
+  "manifest_version": "1.0",
+  "created": "2026-01-09",
+  "description": "NCAAM Historical Data Inventory - Single Source of Truth",
+  "azure_storage": {
+    "storage_account": "metricstrackersgbsv",
+    "container": "ncaam-historical-raw",
+    "resource_group": "dashboard-gbsv-main-rg"
+  },
+  "master_data_files": {
+    "odds_consolidated": {
+      "path": "odds/normalized/odds_consolidated_canonical.csv",
+      "description": "MASTER odds file with ALL markets and ACTUAL prices",
+      "rows": 217151,
+      "unique_games": 27623,
+      "date_range": {
+        "start": "2020-11-25",
+        "end": "2026-01-07"
+      },
+      "markets": {
+        "fg_spreads": {
+          "rows": 193826,
+          "columns": ["spread", "spread_home_price", "spread_away_price"]
+        },
+        "fg_totals": {
+          "rows": 194296,
+          "columns": ["total", "total_over_price", "total_under_price"]
+        },
+        "fg_moneyline": {
+          "rows": 188993,
+          "unique_games": 13808,
+          "columns": ["moneyline_home_price", "moneyline_away_price"]
+        },
+        "h1_spreads": {
+          "rows": 7891,
+          "unique_games": 7877,
+          "date_range": {"start": "2024-01-01", "end": "2026-01-07"},
+          "columns": ["h1_spread", "h1_spread_home_price", "h1_spread_away_price"]
+        },
+        "h1_totals": {
+          "rows": 7891,
+          "unique_games": 7877,
+          "date_range": {"start": "2024-01-01", "end": "2026-01-07"},
+          "columns": ["h1_total", "h1_total_over_price", "h1_total_under_price"]
+        },
+        "h1_moneyline": {
+          "status": "NOT_AVAILABLE",
+          "note": "fetch_historical_odds.py updated to request h2h_h1 market for future fetches",
+          "fallback": "Derive from h1_spread using calibrated sigma",
+          "columns": ["h1_moneyline_home_price", "h1_moneyline_away_price"]
+        }
+      }
+    }
+  },
+  "scores_files": {
+    "fg_scores": {
+      "path": "canonicalized/scores/fg/games_all_canonical.csv",
+      "rows": 7197,
+      "columns": ["game_id", "date", "home_canonical", "away_canonical", "home_score", "away_score"]
+    },
+    "h1_scores": {
+      "path": "canonicalized/scores/h1/h1_games_all_canonical.csv",
+      "rows": 7221,
+      "columns": ["game_id", "date", "home_canonical", "away_canonical", "home_h1", "away_h1"]
+    }
+  },
+  "ratings_files": {
+    "barttorvik": {
+      "path": "backtest_datasets/barttorvik_ratings.csv",
+      "rows": 2500,
+      "seasons": [2019, 2020, 2021, 2022, 2023, 2024, 2025],
+      "teams_per_season": {"2019": 353, "2020": 353, "2021": 347, "2022": 358, "2023": 363, "2024": 362, "2025": 364},
+      "note": "EXPANDED from JSON archives - ready for walk-forward backtesting",
+      "key_columns": ["team", "season", "adj_o", "adj_d", "tempo", "barthag", "rank"]
+    }
+  },
+  "team_canonicalization": {
+    "aliases_file": "backtest_datasets/team_aliases_db.json",
+    "canonical_teams": 377,
+    "total_aliases": 1314
+  },
+  "critical_notes": [
+    "ALWAYS use odds_consolidated_canonical.csv as the SINGLE SOURCE OF TRUTH for odds",
+    "NEVER hardcode -110 odds - use actual prices from spread_home_price, total_over_price, etc.",
+    "Use Season N-1 Barttorvik ratings for Season N games (anti-leakage)",
+    "H1 models are INDEPENDENT of FG models (H1 != FG/2)",
+    "Moneyline predictions MUST align with spread direction"
+  ],
+  "backtest_scripts": {
+    "master_backtest": "testing/scripts/backtest_all_markets.py",
+    "fetch_historical": "testing/scripts/fetch_historical_odds.py",
+    "canonicalize": "testing/scripts/canonicalize_historical_odds.py",
+    "sync_to_azure": "scripts/sync_raw_data_to_azure.py"
+  }
+}
